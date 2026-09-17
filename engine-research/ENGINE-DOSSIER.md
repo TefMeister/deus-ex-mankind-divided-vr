@@ -27,6 +27,13 @@
 - Attach workflow that works: not yet tested.
 - Injection vector that works (proxy DLL name / injector / framework): not yet tested.
 
+**🎮 2026-09-17 (home PC `RTX`, `/lm`) — FIRST LIVE LOOK.**
+- **Runs:** Steam launch opens a small in-exe launcher (Play / Options / Website / … / Quit); **Play** reaches the main menu (STORY / BREACH / JENSEN'S STORIES / EXTRAS / OPTIONS / SHOP / SQUARE ENIX / QUIT), build `v1.19 build 801.0` `[verified-live 2026-09-17, n=2]`.
+- **With our file added:** A 64-bit `dxgi.dll` proxy in `retail\` loads and the game reaches the main menu `[verified-live 2026-09-17, n=1]`. Calls seen: `SetAppCompatStringPointer` (see below), `CreateDXGIFactory2`, `CompatValue`, `CreateDXGIFactory`. **Windows' app-compat shim (`AcGenral.dll`) calls dxgi's `SetAppCompatStringPointer` before our `DllMain` runs**, and loading the real dxgi at that moment fails (error 1168); the generator now answers that one early call with 0 and loads the real dll a moment later `[verified-live 2026-09-17, n=1]`. Found on Prey, the same thing happens here. The proxy comes from the shared generator `staging/_shared/proxy-gen/` (every export of the real system dll re-exported with the same ordinals; first call of each export logged). 
+- **Windowed (for measuring; 1280×720 keeps aspect-keyed numbers the same on both PCs):** Registry `HKCU\Software\Eidos Montreal\Deus Ex: MD\Graphics`: `Fullscreen=0`, `WindowWidth`/`UserWindowWidth=1280`, `WindowHeight`/`UserWindowHeight=720` → 1280×720 client window `[verified-live 2026-09-17, n=2]`. Backup of the key exported on RTX (`dxmd_graphics_backup_2026-09-17.reg`, session scratchpad).
+- **Driving it:** Launcher: click **Play** (≈ 345, 40 launcher-image px ×1.79 from the launcher's top-left on RTX). In game, `WM_CLOSE` opens `Quit game? Yes/No`; click Yes. ⚠️ `WM_CLOSE` alone does not close it — check the process is gone before relaunching.
+- **Dead ends:** `WM_CLOSE` does not exit the game by itself (it only opens the quit prompt) `[verified-live 2026-09-17, n=2]`.
+
 ## 5. Threading & frame structure
 - Immediate context only, or deferred contexts + command lists?:
 - Which thread(s) do what; render-thread name(s):
