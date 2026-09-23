@@ -1,6 +1,8 @@
 # Research index
 
-**Last `/gr` pass: 2026-09-17 (estate sweep) — CHECK-IN.** First pass: folder bootstrapped; one topic on the game's stereo-3D routes (3D Fix Manager's DX12 3D launcher, vorpX, geo-11).
+**Last `/gr` pass: 2026-09-23 (estate sweep) — CHECK-IN.** Checked phunkaeg's *VR Modding Playbook*: DeusExHRVR exists for Human Revolution, but that game used the Crystal engine and this one uses Dawn, so it went to tomb-raider-2013-vr instead; nothing filed here.
+
+_Previous: **Last `/gr` pass: 2026-09-17 (estate sweep) — CHECK-IN.** First pass: folder bootstrapped; one topic on the game's stereo-3D routes (3D Fix Manager's DX12 3D launcher, vorpX, geo-11)._
 
 Every research topic gathered for this project, newest first. Each row links to a self-contained
 write-up in `topics/`. Status tags:
