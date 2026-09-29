@@ -76,3 +76,8 @@
 ## 12. Open risks toward the North Star
 - ⚠️ Not installed yet — no static work is possible until the download finishes.
 - ⚠️ If Denuvo is still present, attaching a debugger and injecting code both get much harder `[hypothesis]`.
+
+## Inbox folds, 2026-09-29
+
+**Recon logs were silently ignored (`/gs` 2026-09-23): fixed 2026-09-29.** `.gitignore` now keeps `dev-archive/recon/**/*.log`.
+
