@@ -1,6 +1,8 @@
 # Research index
 
-**Last `/gr` pass: 2026-09-23 (estate sweep) — CHECK-IN.** Checked phunkaeg's *VR Modding Playbook*: DeusExHRVR exists for Human Revolution, but that game used the Crystal engine and this one uses Dawn, so it went to tomb-raider-2013-vr instead; nothing filed here.
+**Last `/gr` pass: 2026-09-29 (estate sweep) — CHECK-IN.** Inbox empty. Searched whether the Steam build still carries Denuvo (bears on the `.xtext` sections): only conflicting forum claims from 2017 and 2021, nothing solid, so nothing filed.
+
+_Previous: **Last `/gr` pass: 2026-09-23 (estate sweep) — CHECK-IN.** Checked phunkaeg's *VR Modding Playbook*: DeusExHRVR exists for Human Revolution, but that game used the Crystal engine and this one uses Dawn, so it went to tomb-raider-2013-vr instead; nothing filed here._
 
 _Previous: **Last `/gr` pass: 2026-09-17 (estate sweep) — CHECK-IN.** First pass: folder bootstrapped; one topic on the game's stereo-3D routes (3D Fix Manager's DX12 3D launcher, vorpX, geo-11)._
 
