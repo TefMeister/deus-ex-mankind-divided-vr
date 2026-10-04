@@ -1,6 +1,8 @@
 # Research index
 
-**Last `/gr` pass: 2026-09-29 (estate sweep) — CHECK-IN.** Inbox empty. Searched whether the Steam build still carries Denuvo (bears on the `.xtext` sections): only conflicting forum claims from 2017 and 2021, nothing solid, so nothing filed.
+**Last `/gr` pass: 2026-10-04 (estate sweep) — CHECK-IN.** Inbox empty. Settled the Denuvo question as far as public sources go: Steam kept it as of 2020, GOG has never had it; pointer sent to the dossier.
+
+_Previous: **Last `/gr` pass: 2026-09-29 (estate sweep) — CHECK-IN.** Inbox empty. Searched whether the Steam build still carries Denuvo (bears on the `.xtext` sections): only conflicting forum claims from 2017 and 2021, nothing solid, so nothing filed._
 
 _Previous: **Last `/gr` pass: 2026-09-23 (estate sweep) — CHECK-IN.** Checked phunkaeg's *VR Modding Playbook*: DeusExHRVR exists for Human Revolution, but that game used the Crystal engine and this one uses Dawn, so it went to tomb-raider-2013-vr instead; nothing filed here._
 
