@@ -1,0 +1,253 @@
+a 0x0000d6a3 ConsoleCmd Render_ShowEntityDebug 0
+a 0x0000d6c7 ConsoleCmd LevelLockingOn 1
+a 0x0000d6e3 ConsoleCmd EnableVersionString 0
+a 0x0000d704 ConsoleCmd EnableFingerprintString 0
+a 0x0000d729 ConsoleCmd EnableMemoryStats 0
+a 0x0000d748 ConsoleCmd EnableFpsString 0
+a 0x0000d78a ConsoleCmd EnableFPSLimiter 0
+a 0x0000d7a8 ConsoleCmd MaxFPS 30
+a 0x0000d7bd ConsoleCmd Render_ShowDebug 0
+a 0x0000d828 ConsoleCmd Breach_DisableChipsets 1
+a 0x0000f0a0 -vrdemo
+a 0x0000f270 VRDEMO
+a 0x00010c18 ConsoleCmd 
+a 0x00131279 ZPostfilterGlareAspect.EHDRGlareType
+a 0x00131381 ZPostfilterGaussianBlurAspect
+a 0x00131589 ZPostfilterRadialBlurAspect
+a 0x00131709 ZPostfilterSpatialBlurAspect
+a 0x001317f1 ZPostfilterUnsharpAspect
+a 0x00131871 ZPostfilterAAAspect
+a 0x00131c89 ZPostfilterDepthOfFieldAspect
+a 0x00131e09 ZPostfilterMotionBlurAspect
+a 0x00131f61 ZPostfilterDistortionBarrelAspect
+a 0x001320f1 ZPostfilterDistortionWobbleAspect
+a 0x00132221 ZPostfilterChromaticAberrationAspect
+a 0x00132529 ZPostfilterDoubleVisionAspect
+a 0x00132af1 ZPostfilterFogAspect
+a 0x00132cd1 ZPostfilterVolumetricScatteringAspect
+a 0x00132dc9 ZPostfilterToneMappingAspect
+a 0x00132f71 ZPostfilterGlareAspect
+a 0x00132ff1 ZPostfilterLensFlareAspect
+a 0x00133161 ZPostfilterNoiseAspect
+a 0x001332d1 ZPostfilterSSAOAspect
+a 0x00133479 ZPostfilterVideoEffectsAspect
+a 0x00133629 ZPostfilterVignetteAspect
+a 0x00133719 ZPostfilterMiscAspect
+a 0x00133939 ZPostfilterDisplacementAspect
+a 0x00133c61 ZPostfilterXrayAspect
+a 0x00133d89 ZPostfilterFadeOverlayAspect
+a 0x00133f39 ZPostfilterLensEffectsAspect
+a 0x001340b1 ZPostfilterOutlineAspect
+a 0x00134191 ZPostfilterGIProbeAspect
+a 0x001343b1 ZPostfilterBackLightAspect
+a 0x00134541 ZPostfilterScopeEffectAspect
+a 0x00134849 ZPostfilterColorCorrectionAspect
+a 0x00175e70 Could not load AMD stereoscopic extension
+a 0x00388098 eGameInputFlags_BreachVR_QuickStart
+a 0x003880c0 eGameInputFlags_BreachVR_RetryMap
+a 0x00388230 eGameInputFlags_BreachVR_OpenMenu
+a 0x00388258 eGameInputFlags_BreachVR_CloseMenu
+a 0x00388280 eGameInputFlags_BreachVR_OpenPauseMenuOverlay
+a 0x003882b0 eGameInputFlags_BreachVR_SendChallenge
+a 0x003882d8 eGameInputFlags_BreachVR_ChallengeSending_FilterBackspace
+a 0x00388318 eGameInputFlags_BreachVR_ChallengeSending_FilterList
+a 0x00388350 eGameInputFlags_BreachVR_ChallengeSending_ClearFilter
+a 0x00388388 eGameInputFlags_BreachVR_TacticalMap_ChangeModifiers
+a 0x003883c0 eGameInputFlags_BreachVR_TacticalMap_RemoveModifier
+a 0x003883f8 eGameInputFlags_BreachVR_Loadout_RestockItems
+a 0x00388428 eGameInputFlags_BreachVR_MapSelection_ShowChallenges
+a 0x00388460 eGameInputFlags_BreachVR_MapSelection_LaunchChallenge
+a 0x00388498 eGameInputFlags_BreachVR_MapSelection_DeclineChallenge
+a 0x003884d0 eGameInputFlags_BreachVR_MapSelection_ZoomOut
+a 0x00388500 eGameInputFlags_BreachVR_MapSelection_ZoomToggle
+a 0x00388538 eGameInputFlags_BreachVR_MapSelection_ShowGamerProfile
+a 0x00388570 eGameInputFlags_BreachVR_Score_OpenActionsDetails
+a 0x003885a8 eGameInputFlags_BreachVR_Leaderboards_SwitchQueryType
+a 0x003885e0 eGameInputFlags_BreachVR_Restart_GoToPlanner
+a 0x00388610 eGameInputFlags_BreachVR_BoosterPackOpening_Open
+a 0x00388648 eGameInputFlags_BreachVR_BoosterPackOpening_Commit
+a 0x00388680 eGameInputFlags_BreachVR_BoosterPackOpening_DecryptAllItems
+a 0x003886c0 eGameInputFlags_BreachVR_ChallengeSending_SelectFriends
+a 0x00388700 eGameInputFlags_BreachVR_ChallengeSending_ConfirmFriendsSelection
+a 0x00388748 eGameInputFlags_BreachVR_GoToIrisMenu
+a 0x00388770 eGameInputFlags_BreachVR_Death_Revive
+a 0x00388798 eGameInputFlags_BreachVR_OpenReserve
+a 0x003887c0 eGameInputFlags_BreachVR_AIEvolution_ShowDetails
+a 0x003887f8 eGameInputFlags_BreachVR_AIEvolution_OpenReserve
+a 0x00388830 eGameInputFlags_BreachVR_Leaderboards_NextPage
+a 0x00388860 eGameInputFlags_BreachVR_Leaderboards_PreviousPage
+a 0x00388898 eGameInputFlags_BreachVR_RefillDailyChallenges
+a 0x003888c8 eGameInputFlags_BreachVR_Augmentations_ChangeSkin
+a 0x00388900 eGameInputFlags_BreachVR_MapSelection_ShowOverworldMap
+a 0x0039c498 SetStereoscopic3DDepth
+a 0x003d4d80 ui_text_menu_ui_text_menu_sidebyside
+a 0x003d4f60 ui_text_menu_stereoscopic_3d
+a 0x003d4f80 ui_text_menu_stereo_separation
+a 0x003d4fa0 ui_text_menu_stereo_popout
+a 0x003d78c8 damageVignette_mc
+a 0x003ef381 uimenucommands.LoadBenchmarkOrVRDemo
+a 0x00404e70 AMD HD3D Extension created.
+a 0x00404e90 AMD HD3D Extension Version: %d.%d
+a 0x00404eb8 AMD HD3D Interface created.
+a 0x00404ee0 AMD HD3D failed to initialize. (Most likely cause: there is no 3D support)
+a 0x00404f30 AMD HD3D initialized successfully.
+a 0x00404f58 AMD HD3D: Released Quad Buffer Stereo Interface.
+a 0x00404f90 AMD HD3D: Released Quad Buffer Stereo Extension.
+a 0x00404fc8 AMD HD3D: Enabled Quad Buffer Stereo.
+a 0x00404ff0 AMD HD3D: Disabled Quad Buffer Stereo.
+a 0x00405018 AMD HD3D: Failed to enable Quad Buffer Stereo.
+a 0x00405048 AMD HD3D: Failed to disable Quad Buffer Stereo.
+a 0x00405080 AMD HD3D: StereoInterface GetDisplayModeList returned %d with %d modes.
+a 0x004050d0 AMD HD3D: Device %i has %i stereo modes (%i reported initially).
+a 0x004061b0 -nixxes
+a 0x004061b8 -benchmark
+a 0x004061c8 -nolauncher
+a 0x0040655a Stereoscopic3D:%u
+a 0x004066e9 FOVCorrection:%f
+a 0x00406719 StereoSeparation:%f
+a 0x00406731 StereoFarNear:%f
+a 0x00406749 StereoNearSeparationMultiplier:%f
+a 0x00406840 Turning on vsync for stereoscopic 3d.
+a 0x00406870 Stereoscopic 3D has been disabled because v-sync was not enabled.
+a 0x004068c0 Stereoscopic 3D has been disabled because it is not supported for DX12 on Nvidia.
+a 0x00406920 Stereoscopic 3D has been disabled because exclusive fullscreen was enabled (DX12).
+a 0x00406980 Stereoscopic 3D has been disabled because exclusive fullscreen was not enabled (DX11).
+a 0x004069e0 The selected monitor has been changed in order to accomodate for stereoscopic 3D.
+a 0x00406a40 Stereoscopic 3D has been disabled because no monitor that supports stereoscopic 3D could be found.
+a 0x00406d78 Attempting to find a display mode without stereoscopic 3D...
+a 0x00406f70 Changed stereo separation.
+a 0x00406f90 Changed stereo popout.
+a 0x00406fa8 Changed stereo near separation multiplier.
+a 0x00407000 Disabling side-by-side stereoscopic 3d mode, we're running in windowed mode.
+a 0x00407050 Disabling side-by-side stereoscopic 3d mode, multi-monitor is active.
+a 0x004092e0 NVIDIA Stereo message recieved: activated=%u separation=%f
+a 0x0040aaa2 - Mode %2d : %4d x %4d @ %3d Hz, stereo = %d, MM = %d, px = %d, py = %d, pw = %d, ph = %d
+a 0x0040ab02 - Mode %2d : %4d x %4d @ %3d Hz, stereo = %d
+a 0x0040b198 -nochroma
+a 0x0040be60 FOVCorrection
+a 0x0040c038 Stereoscopic3DMode
+a 0x0040c050 StereoSeparation
+a 0x0040c068 StereoPopOut
+a 0x0040c078 StereoNearSeparationMultiplier
+a 0x0040c098 Stereoscopic3DAMDSwapEyes
+a 0x0040c6b0 ui_text_menu_ui_text_menu_ui_text_menu_sidebyside
+a 0x0040c708 ui_text_menu_ui_text_menu_stereoscopic
+a 0x0040d280 NVidia 3D Vision NvAPI_Stereo_IsEnabled error.
+a 0x0040d2b0 NVidia 3D Vision is enabled in the registry.
+a 0x0040d2e0 NVidia 3D Vision is disabled in the registry.
+a 0x0040d440 NVidia 3D Vision is not enabled.
+a 0x0040d470 Failed to activate NVidia 3D Vision Direct Mode, only automatic mode is available.
+a 0x0040d4c8 NVidia 3D Vision NvAPI_Stereo_CreateHandleFromIUnknown error.
+a 0x0040d508 NVidia 3D Vision NvAPI_Stereo_SetDriverMode error.
+a 0x0040d540 NVidia 3D Vision Driver Mode Set To: Direct
+a 0x0040d570 NVidia 3D Vision NvAPI_Stereo_SetNotificationMessage error.
+a 0x0040d5b0 NVidia 3D Vision Message Notification set.
+a 0x0040d5e0 NVidia 3D Vision is initialized.
+a 0x0040d608 NVidia 3D Vision is not initialized.
+a 0x0041cfd0 -forcepack
+a 0x004820d0 DDERR_NOSTEREOHARDWARE
+a 0x004874f0 Operation could not be carried out because there is no stereo hardware present or available.
+a 0x00487550 Operation could not be carried out because there is no hardware present which supports stereo surfaces
+a 0x00923088 .?AVZPostfilterGaussianBlurAspect@@
+a 0x009230c0 .?AV?$PostfilterProxy@VZPostfilterGaussianBlurAspect@@@@
+a 0x00923110 .?AVZPostfilterRadialBlurAspect@@
+a 0x00923150 .?AV?$PostfilterProxy@VZPostfilterRadialBlurAspect@@@@
+a 0x00923198 .?AVZPostfilterSpatialBlurAspect@@
+a 0x009231d0 .?AV?$PostfilterProxy@VZPostfilterSpatialBlurAspect@@@@
+a 0x00923218 .?AVZPostfilterUnsharpAspect@@
+a 0x00923250 .?AV?$PostfilterProxy@VZPostfilterUnsharpAspect@@@@
+a 0x00923298 .?AVZPostfilterAAAspect@@
+a 0x009232c8 .?AV?$PostfilterProxy@VZPostfilterAAAspect@@@@
+a 0x00923308 .?AVZPostfilterDepthOfFieldAspect@@
+a 0x00923340 .?AV?$PostfilterProxy@VZPostfilterDepthOfFieldAspect@@@@
+a 0x00923390 .?AVZPostfilterMotionBlurAspect@@
+a 0x009233d0 .?AV?$PostfilterProxy@VZPostfilterMotionBlurAspect@@@@
+a 0x00923418 .?AVZPostfilterDistortionBarrelAspect@@
+a 0x00923450 .?AV?$PostfilterProxy@VZPostfilterDistortionBarrelAspect@@@@
+a 0x009234a0 .?AVZPostfilterDistortionWobbleAspect@@
+a 0x009234e0 .?AV?$PostfilterProxy@VZPostfilterDistortionWobbleAspect@@@@
+a 0x00923530 .?AVZPostfilterChromaticAberrationAspect@@
+a 0x00923570 .?AV?$PostfilterProxy@VZPostfilterChromaticAberrationAspect@@@@
+a 0x009235c0 .?AVZPostfilterDoubleVisionAspect@@
+a 0x00923600 .?AV?$PostfilterProxy@VZPostfilterDoubleVisionAspect@@@@
+a 0x00923650 .?AVZPostfilterFogAspect@@
+a 0x00923680 .?AV?$PostfilterProxy@VZPostfilterFogAspect@@@@
+a 0x009236c0 .?AVZPostfilterVolumetricScatteringAspect@@
+a 0x00923700 .?AV?$PostfilterProxy@VZPostfilterVolumetricScatteringAspect@@@@
+a 0x00923758 .?AVZPostfilterToneMappingAspect@@
+a 0x00923790 .?AV?$PostfilterProxy@VZPostfilterToneMappingAspect@@@@
+a 0x009237d8 .?AVZPostfilterGlareAspect@@
+a 0x00923810 .?AV?$PostfilterProxy@VZPostfilterGlareAspect@@@@
+a 0x00923858 .?AVZPostfilterLensFlareAspect@@
+a 0x00923890 .?AV?$PostfilterProxy@VZPostfilterLensFlareAspect@@@@
+a 0x009238d8 .?AVZPostfilterNoiseAspect@@
+a 0x00923910 .?AV?$PostfilterProxy@VZPostfilterNoiseAspect@@@@
+a 0x00923958 .?AVZPostfilterSSAOAspect@@
+a 0x00923990 .?AV?$PostfilterProxy@VZPostfilterSSAOAspect@@@@
+a 0x009239d8 .?AVZPostfilterVideoEffectsAspect@@
+a 0x00923a10 .?AV?$PostfilterProxy@VZPostfilterVideoEffectsAspect@@@@
+a 0x00923a60 .?AVZPostfilterVignetteAspect@@
+a 0x00923a90 .?AV?$PostfilterProxy@VZPostfilterVignetteAspect@@@@
+a 0x00923ad8 .?AVZPostfilterMiscAspect@@
+a 0x00923b10 .?AV?$PostfilterProxy@VZPostfilterMiscAspect@@@@
+a 0x00923b58 .?AVZPostfilterDisplacementAspect@@
+a 0x00923b90 .?AV?$PostfilterProxy@VZPostfilterDisplacementAspect@@@@
+a 0x00923be0 .?AVZPostfilterXrayAspect@@
+a 0x00923c10 .?AV?$PostfilterProxy@VZPostfilterXrayAspect@@@@
+a 0x00923c58 .?AVZPostfilterFadeOverlayAspect@@
+a 0x00923c90 .?AV?$PostfilterProxy@VZPostfilterFadeOverlayAspect@@@@
+a 0x00923cd8 .?AVZPostfilterLensEffectsAspect@@
+a 0x00923d10 .?AV?$PostfilterProxy@VZPostfilterLensEffectsAspect@@@@
+a 0x00923d58 .?AVZPostfilterOutlineAspect@@
+a 0x00923d90 .?AV?$PostfilterProxy@VZPostfilterOutlineAspect@@@@
+a 0x00923dd8 .?AVZPostfilterGIProbeAspect@@
+a 0x00923e10 .?AV?$PostfilterProxy@VZPostfilterGIProbeAspect@@@@
+a 0x00923e58 .?AVZPostfilterBackLightAspect@@
+a 0x00923e90 .?AV?$PostfilterProxy@VZPostfilterBackLightAspect@@@@
+a 0x00923ed8 .?AVZPostfilterScopeEffectAspect@@
+a 0x00923f10 .?AV?$PostfilterProxy@VZPostfilterScopeEffectAspect@@@@
+a 0x00923f60 .?AV?$TConstructorCall@$$A6A?AVZPostfilterGaussianBlurAspect@@AEAVZComponentCreateInfo@@@Z@@
+a 0x00923fd0 .?AV?$TConstructorCall@$$A6A?AVZPostfilterRadialBlurAspect@@AEAVZComponentCreateInfo@@@Z@@
+a 0x00924040 .?AV?$TConstructorCall@$$A6A?AVZPostfilterSpatialBlurAspect@@AEAVZComponentCreateInfo@@@Z@@
+a 0x009240b0 .?AV?$TConstructorCall@$$A6A?AVZPostfilterUnsharpAspect@@AEAVZComponentCreateInfo@@@Z@@
+a 0x00924120 .?AV?$TConstructorCall@$$A6A?AVZPostfilterAAAspect@@AEAVZComponentCreateInfo@@@Z@@
+a 0x00924190 .?AV?$TConstructorCall@$$A6A?AVZPostfilterDepthOfFieldAspect@@AEAVZComponentCreateInfo@@@Z@@
+a 0x00924200 .?AV?$TConstructorCall@$$A6A?AVZPostfilterMotionBlurAspect@@AEAVZComponentCreateInfo@@@Z@@
+a 0x00924270 .?AV?$TConstructorCall@$$A6A?AVZPostfilterDistortionBarrelAspect@@AEAVZComponentCreateInfo@@@Z@@
+a 0x009242f0 .?AV?$TConstructorCall@$$A6A?AVZPostfilterDistortionWobbleAspect@@AEAVZComponentCreateInfo@@@Z@@
+a 0x00924370 .?AV?$TConstructorCall@$$A6A?AVZPostfilterChromaticAberrationAspect@@AEAVZComponentCreateInfo@@@Z@@
+a 0x009243f0 .?AV?$TConstructorCall@$$A6A?AVZPostfilterDoubleVisionAspect@@AEAVZComponentCreateInfo@@@Z@@
+a 0x00924460 .?AV?$TConstructorCall@$$A6A?AVZPostfilterFogAspect@@AEAVZComponentCreateInfo@@@Z@@
+a 0x009244d0 .?AV?$TConstructorCall@$$A6A?AVZPostfilterVolumetricScatteringAspect@@AEAVZComponentCreateInfo@@@Z@@
+a 0x00924550 .?AV?$TConstructorCall@$$A6A?AVZPostfilterToneMappingAspect@@AEAVZComponentCreateInfo@@@Z@@
+a 0x009245c0 .?AV?$TConstructorCall@$$A6A?AVZPostfilterGlareAspect@@AEAVZComponentCreateInfo@@@Z@@
+a 0x00924630 .?AV?$TConstructorCall@$$A6A?AVZPostfilterLensFlareAspect@@AEAVZComponentCreateInfo@@@Z@@
+a 0x009246a0 .?AV?$TConstructorCall@$$A6A?AVZPostfilterNoiseAspect@@AEAVZComponentCreateInfo@@@Z@@
+a 0x00924710 .?AV?$TConstructorCall@$$A6A?AVZPostfilterSSAOAspect@@AEAVZComponentCreateInfo@@@Z@@
+a 0x00924780 .?AV?$TConstructorCall@$$A6A?AVZPostfilterVideoEffectsAspect@@AEAVZComponentCreateInfo@@@Z@@
+a 0x009247f0 .?AV?$TConstructorCall@$$A6A?AVZPostfilterVignetteAspect@@AEAVZComponentCreateInfo@@@Z@@
+a 0x00924860 .?AV?$TConstructorCall@$$A6A?AVZPostfilterMiscAspect@@AEAVZComponentCreateInfo@@@Z@@
+a 0x009248d0 .?AV?$TConstructorCall@$$A6A?AVZPostfilterDisplacementAspect@@AEAVZComponentCreateInfo@@@Z@@
+a 0x00924940 .?AV?$TConstructorCall@$$A6A?AVZPostfilterXrayAspect@@AEAVZComponentCreateInfo@@@Z@@
+a 0x009249b0 .?AV?$TConstructorCall@$$A6A?AVZPostfilterFadeOverlayAspect@@AEAVZComponentCreateInfo@@@Z@@
+a 0x00924a20 .?AV?$TConstructorCall@$$A6A?AVZPostfilterLensEffectsAspect@@AEAVZComponentCreateInfo@@@Z@@
+a 0x00924a90 .?AV?$TConstructorCall@$$A6A?AVZPostfilterOutlineAspect@@AEAVZComponentCreateInfo@@@Z@@
+a 0x00924b00 .?AV?$TConstructorCall@$$A6A?AVZPostfilterGIProbeAspect@@AEAVZComponentCreateInfo@@@Z@@
+a 0x00924b70 .?AV?$TConstructorCall@$$A6A?AVZPostfilterBackLightAspect@@AEAVZComponentCreateInfo@@@Z@@
+a 0x00924be0 .?AV?$TConstructorCall@$$A6A?AVZPostfilterScopeEffectAspect@@AEAVZComponentCreateInfo@@@Z@@
+a 0x00924c50 .?AVZPostfilterColorCorrectionAspect@@
+a 0x00924c90 .?AV?$PostfilterProxy@VZPostfilterColorCorrectionAspect@@@@
+a 0x00924ce0 .?AV?$TConstructorCall@$$A6A?AVZPostfilterColorCorrectionAspect@@AEAVZComponentCreateInfo@@@Z@@
+a 0x00aa45f0 .?AV?$TEntityRefToZEntityRefConverter@VZPostfilterXrayAspect@@@@
+a 0x00aa55b0 .?AV?$TConstructorCall@$$A6A?AV?$TEntityRef@VZPostfilterXrayAspect@@@@AEBV1@@Z@@
+a 0x00aa5620 .?AV?$TConstructorCall@$$A6A?AV?$TEntityRef@VZPostfilterXrayAspect@@@@AEBVZEntityRef@@@Z@@
+a 0x00c1bc28 .?AVLoadBenchmarkOrVRDemo@uimenucommands@@
+a 0x00c22c70 .?AV?$_Ref_count_del@VLoadBenchmarkOrVRDemo@uimenucommands@@V<lambda_c380a729d07409c351465d14f0414c72>@@@std@@
+a 0x00c38770 .?AV?$TConstructorCall@$$A6A?AVLoadBenchmarkOrVRDemo@uimenucommands@@_N@Z@@
+w 0x004001d0 Force Stereo shuttering
+w 0x004011b0 Stereo - Swap eyes
+w 0x004011e0 Stereo - Display mode
+w 0x00401258 Stereo - Dongle Support
+w 0x00401290 Stereo - Enable
+w 0x004012b8 Stereo 
+w 0x05fae068 $STEREOSCOPIC
