@@ -1,0 +1,358 @@
+[19:58:55.055] D3D11CreateDevice: hr 0x00000000, flags 0x0
+[19:58:55.102] context 0000000025DC8BF0: function set 0 hooked, MH_EnableHook MH_OK
+[19:58:55.102] hooked device 0000000025DC08F8, immediate context 0000000025DC8BF0; scanning every 2000 ms for 250 ms
+[19:58:55.626] D3D11CreateDevice: hr 0x00000000, flags 0x0
+[19:58:55.761] D3D11CreateDevice: hr 0x00000001, flags 0x0
+[19:58:55.809] D3D11CreateDevice: hr 0x00000000, flags 0x0
+[19:58:58.034] D3D11CreateDevice: hr 0x00000000, flags 0x0
+[19:58:58.050] VS a071e17f matrices: b0 Constants.texgen@32/64
+[19:58:58.050] VS a071e17f matrices: b0 Constants.texgen@32/64
+[19:58:58.050] VS 97c27399 matrices: b0 Constants.texgen@64/64
+[19:58:58.050] VS e1a9dd6c matrices: b0 Constants.mvp@0/64
+[19:58:58.051] VS e1a9dd6c matrices: b0 Constants.mvp@0/64
+[19:58:58.051] VS a0575590 matrices: b0 Constants.mvp@0/64
+[19:58:58.051] VS a0575590 matrices: b0 Constants.mvp@0/64
+[19:58:58.051] VS 78ebe6a0 matrices: b0 Constants.mvp@32/64
+[19:58:58.051] VS e06400ba matrices: b0 Constants.mvp@32/64
+[19:58:58.051] VS 6656c398 matrices: b0 Constants.mvp@0/64
+[19:58:58.051] VS 45311dd9 matrices: b0 Constants.mvp@0/64
+[19:58:58.051] VS bb5b0452 matrices: b0 Constants.mvp@32/64
+[19:58:58.051] VS 79f6864a matrices: b0 Constants.mvp@32/64
+[19:58:58.051] VS 4f993b6c matrices: b0 Constants.mvp@0/64, b0 Constants.texgen@64/64
+[19:58:58.051] VS 4f993b6c matrices: b0 Constants.mvp@0/64, b0 Constants.texgen@64/64
+[19:58:58.051] VS ea37ad1b matrices: b0 Constants.mvp@32/64, b0 Constants.texgen@96/64
+[19:58:58.051] VS 2ac5f144 matrices: b0 Constants.mvp@0/64
+[19:58:58.051] VS 2ac5f144 matrices: b0 Constants.mvp@0/64
+[19:58:58.051] VS 5fa80034 matrices: b0 Constants.mvp@32/64
+[19:58:58.051] VS 4684b5db matrices: b0 Constants.vfuniforms@0/1536
+[19:58:58.051] VS 4684b5db matrices: b0 Constants.vfuniforms@0/1536
+[19:58:58.051] VS f0193c6c matrices: b0 Constants.vfuniforms@0/1536
+[19:58:58.052] VS f0193c6c matrices: b0 Constants.vfuniforms@0/1536
+[19:58:58.052] VS 759406e5 matrices: b0 Constants.vfuniforms@0/2304
+[19:58:58.052] VS 509b6f3e matrices: b0 Constants.vfuniforms@0/2304
+[19:58:58.052] VS 86996b1b matrices: b0 Constants.vfuniforms@0/768
+[19:58:58.052] VS c677e945 matrices: b0 Constants.vfuniforms@0/768
+[19:58:58.052] VS 24fb5c9d matrices: b0 Constants.vfuniforms@0/1536
+[19:58:58.052] VS 085fee1d matrices: b0 Constants.vfuniforms@0/1536
+[19:58:58.052] VS f56464a7 matrices: b0 Constants.vfuniforms@0/2304
+[19:58:58.052] VS f56464a7 matrices: b0 Constants.vfuniforms@0/2304
+[19:58:58.052] VS a3512d6b matrices: b0 Constants.vfuniforms@0/3072
+[19:58:58.052] VS b763ac42 matrices: b0 Constants.vfuniforms@0/1536
+[19:58:58.052] VS b763ac42 matrices: b0 Constants.vfuniforms@0/1536
+[19:58:58.052] VS 26e337ba matrices: b0 Constants.vfuniforms@0/2304
+[19:58:58.052] VS 09a66729 matrices: b0 Constants.vfuniforms@0/2304
+[19:58:58.052] VS 09a66729 matrices: b0 Constants.vfuniforms@0/2304
+[19:58:58.053] VS a294c439 matrices: b0 Constants.vfuniforms@0/2304
+[19:58:58.053] VS a294c439 matrices: b0 Constants.vfuniforms@0/2304
+[19:58:58.053] VS f82ec86d matrices: b0 Constants.vfuniforms@0/3072
+[19:58:58.053] VS 43c89568 matrices: b0 Constants.vfuniforms@0/3072
+[19:58:58.053] VS 5e389eed matrices: b0 Constants.vfuniforms@0/1536
+[19:58:58.053] VS 6a57b5d3 matrices: b0 Constants.vfuniforms@0/1536
+[19:58:58.053] VS ad5012a1 matrices: b0 Constants.vfuniforms@0/2304
+[19:58:58.053] VS c9238908 matrices: b0 Constants.vfuniforms@0/2304
+[19:58:58.053] VS 1e865981 matrices: b0 Constants.vfuniforms@0/3072
+[19:58:58.053] VS 1e865981 matrices: b0 Constants.vfuniforms@0/3072
+[19:58:58.053] VS abc60a59 matrices: b0 Constants.vfuniforms@0/3840
+[19:58:58.053] VS d12b0543 matrices: b0 Constants.vfuniforms@0/2304
+[19:58:58.053] VS d12b0543 matrices: b0 Constants.vfuniforms@0/2304
+[19:58:58.053] VS fba7ab9a matrices: b0 Constants.vfuniforms@0/3072
+[19:58:58.053] VS d5e6a8eb matrices: b0 Constants.vfuniforms@0/1536
+[19:58:58.053] VS d5e6a8eb matrices: b0 Constants.vfuniforms@0/1536
+[19:58:58.054] VS 67a2884f matrices: b0 Constants.vfuniforms@0/1536
+[19:58:58.054] VS 67a2884f matrices: b0 Constants.vfuniforms@0/1536
+[19:58:58.054] VS ba47f013 matrices: b0 Constants.vfuniforms@0/2304
+[19:58:58.054] VS e35815be matrices: b0 Constants.vfuniforms@0/2304
+[19:58:58.054] VS 66367680 matrices: b0 Constants.vfuniforms@0/768
+[19:58:58.054] VS 9d2bfb8d matrices: b0 Constants.vfuniforms@0/768
+[19:58:58.054] VS 8fb59177 matrices: b0 Constants.vfuniforms@0/1536
+[19:58:58.054] VS d32f614d matrices: b0 Constants.vfuniforms@0/1536
+[19:58:58.054] VS 9a67cc3a matrices: b0 Constants.vfuniforms@0/2304
+[19:58:58.054] VS 9a67cc3a matrices: b0 Constants.vfuniforms@0/2304
+[19:58:58.054] VS 4ce6ff9d matrices: b0 Constants.vfuniforms@0/3072
+[19:58:58.054] VS a2b0128b matrices: b0 Constants.vfuniforms@0/1536
+[19:58:58.054] VS a2b0128b matrices: b0 Constants.vfuniforms@0/1536
+[19:58:58.054] VS 05607318 matrices: b0 Constants.vfuniforms@0/2304
+[19:58:58.055] VS eb71eaeb matrices: b0 Constants.vfuniforms@0/2304
+[19:58:58.055] VS eb71eaeb matrices: b0 Constants.vfuniforms@0/2304
+[19:58:58.055] VS 2710c070 matrices: b0 Constants.vfuniforms@0/2304
+[19:58:58.055] VS 2710c070 matrices: b0 Constants.vfuniforms@0/2304
+[19:58:58.055] VS b19b7f93 matrices: b0 Constants.vfuniforms@0/3072
+[19:58:58.055] VS 7fccfdfb matrices: b0 Constants.vfuniforms@0/3072
+[19:58:58.055] VS d90bd857 matrices: b0 Constants.vfuniforms@0/1536
+[19:58:58.055] VS 5bca38e2 matrices: b0 Constants.vfuniforms@0/1536
+[19:58:58.055] VS 3231ff02 matrices: b0 Constants.vfuniforms@0/2304
+[19:58:58.055] VS e9696227 matrices: b0 Constants.vfuniforms@0/2304
+[19:58:58.055] VS 9a34bb2c matrices: b0 Constants.vfuniforms@0/3072
+[19:58:58.055] VS 9a34bb2c matrices: b0 Constants.vfuniforms@0/3072
+[19:58:58.055] VS 69967665 matrices: b0 Constants.vfuniforms@0/3840
+[19:58:58.055] VS a81b5e09 matrices: b0 Constants.vfuniforms@0/2304
+[19:58:58.055] VS a81b5e09 matrices: b0 Constants.vfuniforms@0/2304
+[19:58:58.055] VS e75e397c matrices: b0 Constants.vfuniforms@0/3072
+[19:58:58.056] VS 60c077b6 matrices: b0 Constants.mvp@0/64
+[19:58:58.056] VS 53073649 matrices: b0 Constants.mvp@32/64
+[19:58:58.056] VS 53073649 matrices: b0 Constants.mvp@32/64
+[19:58:58.056] VS c827595a matrices: b0 Constants.mvp@0/64
+[19:58:58.056] VS c827595a matrices: b0 Constants.mvp@0/64
+[19:58:58.056] VS 016991cf matrices: b0 Constants.mvp@32/64
+[19:58:58.056] VS a7b2c1e7 matrices: b0 Constants.vfuniforms@0/768
+[19:58:58.056] VS 1d95d373 matrices: b0 Constants.vfuniforms@0/1536
+[19:58:58.056] VS 1d95d373 matrices: b0 Constants.vfuniforms@0/1536
+[19:58:58.056] VS 93c09a2f matrices: b0 Constants.vfuniforms@0/768
+[19:58:58.056] VS 93c09a2f matrices: b0 Constants.vfuniforms@0/768
+[19:58:58.056] VS 05274959 matrices: b0 Constants.vfuniforms@0/1536
+[19:58:58.056] VS a350c0ae matrices: b0 Constants.vfuniforms@0/1536
+[19:58:58.057] VS 8c303a98 matrices: b0 Constants.vfuniforms@0/2304
+[19:58:58.057] VS 8c303a98 matrices: b0 Constants.vfuniforms@0/2304
+[19:58:58.057] VS f1f04e6e matrices: b0 Constants.vfuniforms@0/1536
+[19:58:58.057] VS f1f04e6e matrices: b0 Constants.vfuniforms@0/1536
+[19:58:58.057] VS 7ffe8110 matrices: b0 Constants.vfuniforms@0/2304
+[19:58:58.057] VS 8602ee01 matrices: b0 Constants.vfuniforms@0/768
+[19:58:58.057] VS 5e57e098 matrices: b0 Constants.vfuniforms@0/1536
+[19:58:58.057] VS 5e57e098 matrices: b0 Constants.vfuniforms@0/1536
+[19:58:58.057] VS 38e0ee59 matrices: b0 Constants.vfuniforms@0/768
+[19:58:58.057] VS 38e0ee59 matrices: b0 Constants.vfuniforms@0/768
+[19:58:58.057] VS b57766ad matrices: b0 Constants.vfuniforms@0/1536
+[19:58:58.057] VS 98afdcb8 matrices: b0 Constants.vfuniforms@0/1536
+[19:58:58.057] VS 55632262 matrices: b0 Constants.vfuniforms@0/2304
+[19:58:58.057] VS 55632262 matrices: b0 Constants.vfuniforms@0/2304
+[19:58:58.057] VS 4344693b matrices: b0 Constants.vfuniforms@0/1536
+[19:58:58.057] VS 4344693b matrices: b0 Constants.vfuniforms@0/1536
+[19:58:58.057] VS b27a04bc matrices: b0 Constants.vfuniforms@0/2304
+[19:58:58.058] VS e1a9dd6c matrices: b0 Constants.mvp@0/64
+[19:58:58.058] VS e1a9dd6c matrices: b0 Constants.mvp@0/64
+[19:58:58.058] VS a0575590 matrices: b0 Constants.mvp@0/64
+[19:58:58.058] VS a0575590 matrices: b0 Constants.mvp@0/64
+[19:58:58.058] VS 78ebe6a0 matrices: b0 Constants.mvp@32/64
+[19:58:58.058] VS e06400ba matrices: b0 Constants.mvp@32/64
+[19:58:58.058] VS 4684b5db matrices: b0 Constants.vfuniforms@0/1536
+[19:58:58.058] VS 4684b5db matrices: b0 Constants.vfuniforms@0/1536
+[19:58:58.058] VS f0193c6c matrices: b0 Constants.vfuniforms@0/1536
+[19:58:58.058] VS f0193c6c matrices: b0 Constants.vfuniforms@0/1536
+[19:58:58.058] VS 759406e5 matrices: b0 Constants.vfuniforms@0/2304
+[19:58:58.059] VS 509b6f3e matrices: b0 Constants.vfuniforms@0/2304
+[19:58:58.059] VS 09a66729 matrices: b0 Constants.vfuniforms@0/2304
+[19:58:58.059] VS 09a66729 matrices: b0 Constants.vfuniforms@0/2304
+[19:58:58.059] VS a294c439 matrices: b0 Constants.vfuniforms@0/2304
+[19:58:58.059] VS a294c439 matrices: b0 Constants.vfuniforms@0/2304
+[19:58:58.059] VS f82ec86d matrices: b0 Constants.vfuniforms@0/3072
+[19:58:58.059] VS 43c89568 matrices: b0 Constants.vfuniforms@0/3072
+[19:58:58.059] VS d5e6a8eb matrices: b0 Constants.vfuniforms@0/1536
+[19:58:58.059] VS d5e6a8eb matrices: b0 Constants.vfuniforms@0/1536
+[19:58:58.059] VS 67a2884f matrices: b0 Constants.vfuniforms@0/1536
+[19:58:58.059] VS 67a2884f matrices: b0 Constants.vfuniforms@0/1536
+[19:58:58.059] VS ba47f013 matrices: b0 Constants.vfuniforms@0/2304
+[19:58:58.059] VS e35815be matrices: b0 Constants.vfuniforms@0/2304
+[19:58:58.059] VS eb71eaeb matrices: b0 Constants.vfuniforms@0/2304
+[19:58:58.059] VS eb71eaeb matrices: b0 Constants.vfuniforms@0/2304
+[19:58:58.059] VS 2710c070 matrices: b0 Constants.vfuniforms@0/2304
+[19:58:58.059] VS 2710c070 matrices: b0 Constants.vfuniforms@0/2304
+[19:58:58.059] VS b19b7f93 matrices: b0 Constants.vfuniforms@0/3072
+[19:58:58.060] VS 7fccfdfb matrices: b0 Constants.vfuniforms@0/3072
+[19:58:58.060] VS 759406e5 matrices: b0 Constants.vfuniforms@0/2304
+[19:58:58.060] VS 525740f6 matrices: b0 Constants.vfuniforms@0/2304
+[19:58:58.060] VS 37dc40ad matrices: b0 Constants.vfuniforms@0/3072
+[19:58:58.060] VS ff11e78d matrices: b0 Constants.vfuniforms@0/3072
+[19:59:05.446] stats/5s: draws immediate 1 deferred 0, ExecuteCommandList 0, contexts 1; new VS with named matrices 147, stripped 565, no matrices 27; constant buffers copied 0, Map 0, UpdateSubresource 4 (boxed 0), too big 0, VSSetCB1 with an offset 0
+[19:59:05.711] scan 1: 7 buffer copies scanned, 0 camera-shaped place(s)
+[19:59:07.712] scan 2: 8 buffer copies scanned, 0 camera-shaped place(s)
+[19:59:09.714] scan 3: 8 buffer copies scanned, 0 camera-shaped place(s)
+[19:59:10.452] stats/5s: draws immediate 506 deferred 0, ExecuteCommandList 0, contexts 1; new VS with named matrices 0, stripped 12, no matrices 1; constant buffers copied 16, Map 38, UpdateSubresource 751 (boxed 1), too big 0, VSSetCB1 with an offset 0
+[19:59:11.741] scan 4: 8 buffer copies scanned, 0 camera-shaped place(s)
+[19:59:13.741] scan 5: 8 buffer copies scanned, 0 camera-shaped place(s)
+[19:59:15.472] stats/5s: draws immediate 550 deferred 0, ExecuteCommandList 0, contexts 1; new VS with named matrices 0, stripped 5, no matrices 0; constant buffers copied 145, Map 143, UpdateSubresource 751 (boxed 1), too big 0, VSSetCB1 with an offset 0
+[19:59:15.711] scan 6: 7 buffer copies scanned, 0 camera-shaped place(s)
+[19:59:17.757] scan 7: 8 buffer copies scanned, 0 camera-shaped place(s)
+[19:59:19.755] scan 8: 8 buffer copies scanned, 0 camera-shaped place(s)
+[19:59:20.488] stats/5s: draws immediate 453 deferred 0, ExecuteCommandList 0, contexts 1; new VS with named matrices 0, stripped 0, no matrices 0; constant buffers copied 145, Map 23, UpdateSubresource 755 (boxed 0), too big 0, VSSetCB1 with an offset 0
+[19:59:21.754] scan 9: 8 buffer copies scanned, 0 camera-shaped place(s)
+[19:59:23.730] scan 10: 6 buffer copies scanned, 0 camera-shaped place(s)
+[19:59:25.484] stats/5s: draws immediate 405 deferred 0, ExecuteCommandList 0, contexts 1; new VS with named matrices 0, stripped 0, no matrices 0; constant buffers copied 145, Map 14, UpdateSubresource 675 (boxed 0), too big 0, VSSetCB1 with an offset 0
+[19:59:25.729] scan 11: 6 buffer copies scanned, 0 camera-shaped place(s)
+[19:59:27.758] scan 12: 8 buffer copies scanned, 0 camera-shaped place(s)
+[19:59:29.768] scan 13: 8 buffer copies scanned, 0 camera-shaped place(s)
+[19:59:30.500] stats/5s: draws immediate 423 deferred 0, ExecuteCommandList 0, contexts 1; new VS with named matrices 0, stripped 0, no matrices 0; constant buffers copied 145, Map 22, UpdateSubresource 705 (boxed 0), too big 0, VSSetCB1 with an offset 0
+[19:59:32.261] scan 14: 10 buffer copies scanned, 0 camera-shaped place(s)
+[19:59:34.024] scan 15: 383 buffer copies scanned, 0 camera-shaped place(s)
+[19:59:35.492] stats/5s: draws immediate 62746 deferred 0, ExecuteCommandList 0, contexts 1; new VS with named matrices 0, stripped 0, no matrices 0; constant buffers copied 8192, Map 8283, UpdateSubresource 1089 (boxed 0), too big 0, VSSetCB1 with an offset 0
+[19:59:36.023] scan 16: 377 buffer copies scanned, 0 camera-shaped place(s)
+[19:59:38.028] context 000000814C90E110: function set 1 hooked, MH_EnableHook MH_OK
+[19:59:38.029] scan 17: 332 buffer copies scanned, 0 camera-shaped place(s)
+[19:59:40.023] scan 18: 731 buffer copies scanned, 0 camera-shaped place(s)
+[19:59:40.493] stats/5s: draws immediate 104473 deferred 149112, ExecuteCommandList 1533, contexts 8; new VS with named matrices 0, stripped 0, no matrices 0; constant buffers copied 8192, Map 438, UpdateSubresource 1300 (boxed 0), too big 0, VSSetCB1 with an offset 0
+[19:59:42.024] scan 19: 731 buffer copies scanned, 0 camera-shaped place(s)
+[19:59:44.024] scan 20: 734 buffer copies scanned, 0 camera-shaped place(s)
+[19:59:45.492] stats/5s: draws immediate 134044 deferred 360400, ExecuteCommandList 3710, contexts 8; new VS with named matrices 0, stripped 0, no matrices 0; constant buffers copied 8192, Map 56, UpdateSubresource 946 (boxed 0), too big 0, VSSetCB1 with an offset 0
+[19:59:46.024] scan 21: 730 buffer copies scanned, 0 camera-shaped place(s)
+[19:59:48.024] scan 22: 727 buffer copies scanned, 0 camera-shaped place(s)
+[19:59:50.024] scan 23: 731 buffer copies scanned, 0 camera-shaped place(s)
+[19:59:50.493] stats/5s: draws immediate 121667 deferred 329121, ExecuteCommandList 3388, contexts 8; new VS with named matrices 0, stripped 0, no matrices 0; constant buffers copied 8192, Map 86, UpdateSubresource 896 (boxed 0), too big 0, VSSetCB1 with an offset 0
+[19:59:52.024] scan 24: 735 buffer copies scanned, 0 camera-shaped place(s)
+[19:59:54.023] scan 25: 737 buffer copies scanned, 0 camera-shaped place(s)
+[19:59:55.492] stats/5s: draws immediate 131188 deferred 354960, ExecuteCommandList 3654, contexts 8; new VS with named matrices 0, stripped 0, no matrices 0; constant buffers copied 8192, Map 49, UpdateSubresource 939 (boxed 0), too big 0, VSSetCB1 with an offset 0
+[19:59:56.024] scan 26: 730 buffer copies scanned, 0 camera-shaped place(s)
+[19:59:58.024] scan 27: 733 buffer copies scanned, 0 camera-shaped place(s)
+[20:00:00.024] scan 28: 741 buffer copies scanned, 0 camera-shaped place(s)
+[20:00:00.493] stats/5s: draws immediate 124446 deferred 337280, ExecuteCommandList 3472, contexts 8; new VS with named matrices 0, stripped 0, no matrices 0; constant buffers copied 8192, Map 90, UpdateSubresource 907 (boxed 0), too big 0, VSSetCB1 with an offset 0
+[20:00:02.023] scan 29: 737 buffer copies scanned, 0 camera-shaped place(s)
+[20:00:04.024] scan 30: 739 buffer copies scanned, 0 camera-shaped place(s)
+[20:00:05.494] stats/5s: draws immediate 132705 deferred 356319, ExecuteCommandList 3668, contexts 8; new VS with named matrices 0, stripped 0, no matrices 0; constant buffers copied 8192, Map 54, UpdateSubresource 944 (boxed 0), too big 0, VSSetCB1 with an offset 0
+[20:00:06.024] scan 31: 727 buffer copies scanned, 0 camera-shaped place(s)
+[20:00:08.024] scan 32: 726 buffer copies scanned, 0 camera-shaped place(s)
+[20:00:10.024] scan 33: 728 buffer copies scanned, 0 camera-shaped place(s)
+[20:00:10.493] stats/5s: draws immediate 122749 deferred 333201, ExecuteCommandList 3430, contexts 8; new VS with named matrices 0, stripped 0, no matrices 0; constant buffers copied 8192, Map 71, UpdateSubresource 898 (boxed 0), too big 0, VSSetCB1 with an offset 0
+[20:00:12.024] scan 34: 730 buffer copies scanned, 0 camera-shaped place(s)
+[20:00:14.024] scan 35: 733 buffer copies scanned, 0 camera-shaped place(s)
+[20:00:15.493] stats/5s: draws immediate 130827 deferred 348160, ExecuteCommandList 3584, contexts 8; new VS with named matrices 0, stripped 0, no matrices 0; constant buffers copied 8192, Map 51, UpdateSubresource 1118 (boxed 0), too big 0, VSSetCB1 with an offset 0
+[20:00:16.024] scan 36: 732 buffer copies scanned, 0 camera-shaped place(s)
+[20:00:18.024] scan 37: 732 buffer copies scanned, 0 camera-shaped place(s)
+[20:00:20.056] scan 38: 7 buffer copies scanned, 0 camera-shaped place(s)
+[20:00:20.524] stats/5s: draws immediate 69404 deferred 179031, ExecuteCommandList 1841, contexts 8; new VS with named matrices 0, stripped 0, no matrices 0; constant buffers copied 8192, Map 56, UpdateSubresource 1042 (boxed 0), too big 0, VSSetCB1 with an offset 0
+[20:00:22.055] scan 39: 9 buffer copies scanned, 0 camera-shaped place(s)
+[20:00:24.057] scan 40: 6 buffer copies scanned, 0 camera-shaped place(s)
+[20:00:25.528] stats/5s: draws immediate 2250 deferred 0, ExecuteCommandList 0, contexts 8; new VS with named matrices 0, stripped 0, no matrices 0; constant buffers copied 8192, Map 15, UpdateSubresource 750 (boxed 0), too big 0, VSSetCB1 with an offset 0
+[20:00:26.056] scan 41: 7 buffer copies scanned, 0 camera-shaped place(s)
+[20:00:28.059] scan 42: 7 buffer copies scanned, 0 camera-shaped place(s)
+[20:00:30.060] scan 43: 13 buffer copies scanned, 0 camera-shaped place(s)
+[20:00:30.558] stats/5s: draws immediate 2265 deferred 0, ExecuteCommandList 0, contexts 8; new VS with named matrices 0, stripped 0, no matrices 0; constant buffers copied 8192, Map 30, UpdateSubresource 755 (boxed 0), too big 0, VSSetCB1 with an offset 0
+[20:00:32.072] scan 44: 7 buffer copies scanned, 0 camera-shaped place(s)
+[20:00:34.058] scan 45: 7 buffer copies scanned, 0 camera-shaped place(s)
+[20:00:35.556] stats/5s: draws immediate 2250 deferred 0, ExecuteCommandList 0, contexts 8; new VS with named matrices 0, stripped 2, no matrices 0; constant buffers copied 8192, Map 14, UpdateSubresource 750 (boxed 0), too big 0, VSSetCB1 with an offset 0
+[20:00:36.055] scan 46: 7 buffer copies scanned, 0 camera-shaped place(s)
+[20:00:38.089] scan 47: 13 buffer copies scanned, 0 camera-shaped place(s)
+[20:00:40.090] scan 48: 7 buffer copies scanned, 0 camera-shaped place(s)
+[20:00:40.558] stats/5s: draws immediate 2250 deferred 0, ExecuteCommandList 0, contexts 8; new VS with named matrices 0, stripped 0, no matrices 0; constant buffers copied 8192, Map 29, UpdateSubresource 750 (boxed 0), too big 0, VSSetCB1 with an offset 0
+[20:00:42.088] scan 49: 7 buffer copies scanned, 0 camera-shaped place(s)
+[20:00:44.092] scan 50: 7 buffer copies scanned, 0 camera-shaped place(s)
+[20:00:45.556] stats/5s: draws immediate 2250 deferred 0, ExecuteCommandList 0, contexts 8; new VS with named matrices 0, stripped 0, no matrices 0; constant buffers copied 8192, Map 14, UpdateSubresource 750 (boxed 0), too big 0, VSSetCB1 with an offset 0
+[20:00:46.094] scan 51: 12 buffer copies scanned, 0 camera-shaped place(s)
+[20:00:48.092] scan 52: 7 buffer copies scanned, 0 camera-shaped place(s)
+[20:00:50.091] scan 53: 7 buffer copies scanned, 0 camera-shaped place(s)
+[20:00:50.556] stats/5s: draws immediate 2250 deferred 0, ExecuteCommandList 0, contexts 8; new VS with named matrices 0, stripped 0, no matrices 0; constant buffers copied 8192, Map 26, UpdateSubresource 750 (boxed 0), too big 0, VSSetCB1 with an offset 0
+[20:00:52.089] scan 54: 11 buffer copies scanned, 0 camera-shaped place(s)
+[20:00:54.094] scan 55: 13 buffer copies scanned, 0 camera-shaped place(s)
+[20:00:55.558] stats/5s: draws immediate 2250 deferred 0, ExecuteCommandList 0, contexts 8; new VS with named matrices 0, stripped 0, no matrices 0; constant buffers copied 8192, Map 24, UpdateSubresource 750 (boxed 0), too big 0, VSSetCB1 with an offset 0
+[20:00:56.093] scan 56: 7 buffer copies scanned, 0 camera-shaped place(s)
+[20:00:58.090] scan 57: 7 buffer copies scanned, 0 camera-shaped place(s)
+[20:01:00.089] scan 58: 10 buffer copies scanned, 0 camera-shaped place(s)
+[20:01:00.560] stats/5s: draws immediate 2250 deferred 0, ExecuteCommandList 0, contexts 8; new VS with named matrices 0, stripped 2, no matrices 0; constant buffers copied 8192, Map 24, UpdateSubresource 750 (boxed 0), too big 0, VSSetCB1 with an offset 0
+[20:01:02.090] scan 59: 7 buffer copies scanned, 0 camera-shaped place(s)
+[20:01:04.092] scan 60: 7 buffer copies scanned, 0 camera-shaped place(s)
+[20:01:05.558] stats/5s: draws immediate 2250 deferred 0, ExecuteCommandList 0, contexts 8; new VS with named matrices 0, stripped 4, no matrices 0; constant buffers copied 8192, Map 14, UpdateSubresource 750 (boxed 0), too big 0, VSSetCB1 with an offset 0
+[20:01:06.089] scan 61: 7 buffer copies scanned, 0 camera-shaped place(s)
+[20:01:08.093] scan 62: 11 buffer copies scanned, 0 camera-shaped place(s)
+[20:01:10.090] scan 63: 6 buffer copies scanned, 0 camera-shaped place(s)
+[20:01:10.556] stats/5s: draws immediate 2241 deferred 0, ExecuteCommandList 0, contexts 8; new VS with named matrices 0, stripped 3, no matrices 0; constant buffers copied 8192, Map 25, UpdateSubresource 750 (boxed 0), too big 0, VSSetCB1 with an offset 0
+[20:01:12.091] scan 64: 5 buffer copies scanned, 0 camera-shaped place(s)
+[20:01:14.092] scan 65: 3 buffer copies scanned, 0 camera-shaped place(s)
+[20:01:15.558] stats/5s: draws immediate 2130 deferred 0, ExecuteCommandList 0, contexts 8; new VS with named matrices 0, stripped 0, no matrices 0; constant buffers copied 8192, Map 10, UpdateSubresource 750 (boxed 0), too big 0, VSSetCB1 with an offset 0
+[20:01:16.092] scan 66: 7 buffer copies scanned, 0 camera-shaped place(s)
+[20:01:18.093] scan 67: 6 buffer copies scanned, 0 camera-shaped place(s)
+[20:01:20.089] scan 68: 6 buffer copies scanned, 0 camera-shaped place(s)
+[20:01:20.559] stats/5s: draws immediate 2131 deferred 0, ExecuteCommandList 0, contexts 8; new VS with named matrices 0, stripped 0, no matrices 0; constant buffers copied 8192, Map 22, UpdateSubresource 750 (boxed 0), too big 0, VSSetCB1 with an offset 0
+[20:01:22.093] scan 69: 10 buffer copies scanned, 0 camera-shaped place(s)
+[20:01:24.093] scan 70: 10 buffer copies scanned, 0 camera-shaped place(s)
+[20:01:25.557] stats/5s: draws immediate 2122 deferred 0, ExecuteCommandList 0, contexts 8; new VS with named matrices 0, stripped 0, no matrices 0; constant buffers copied 8192, Map 22, UpdateSubresource 750 (boxed 0), too big 0, VSSetCB1 with an offset 0
+[20:01:26.090] scan 71: 5 buffer copies scanned, 0 camera-shaped place(s)
+[20:01:28.089] scan 72: 5 buffer copies scanned, 0 camera-shaped place(s)
+[20:01:30.090] scan 73: 3 buffer copies scanned, 0 camera-shaped place(s)
+[20:01:30.559] stats/5s: draws immediate 2149 deferred 0, ExecuteCommandList 0, contexts 8; new VS with named matrices 0, stripped 0, no matrices 0; constant buffers copied 8192, Map 17, UpdateSubresource 750 (boxed 0), too big 0, VSSetCB1 with an offset 0
+[20:01:32.092] scan 74: 4 buffer copies scanned, 0 camera-shaped place(s)
+[20:01:34.092] scan 75: 6 buffer copies scanned, 0 camera-shaped place(s)
+[20:01:35.559] stats/5s: draws immediate 2142 deferred 0, ExecuteCommandList 0, contexts 8; new VS with named matrices 0, stripped 0, no matrices 0; constant buffers copied 8192, Map 13, UpdateSubresource 750 (boxed 0), too big 0, VSSetCB1 with an offset 0
+[20:01:36.092] scan 76: 6 buffer copies scanned, 0 camera-shaped place(s)
+[20:01:38.090] scan 77: 5 buffer copies scanned, 0 camera-shaped place(s)
+[20:01:40.092] scan 78: 5 buffer copies scanned, 0 camera-shaped place(s)
+[20:01:40.557] stats/5s: draws immediate 2147 deferred 0, ExecuteCommandList 0, contexts 8; new VS with named matrices 0, stripped 0, no matrices 0; constant buffers copied 8192, Map 19, UpdateSubresource 750 (boxed 0), too big 0, VSSetCB1 with an offset 0
+[20:01:42.090] scan 79: 10 buffer copies scanned, 0 camera-shaped place(s)
+[20:01:44.091] scan 80: 3 buffer copies scanned, 0 camera-shaped place(s)
+[20:01:45.558] stats/5s: draws immediate 2135 deferred 0, ExecuteCommandList 0, contexts 8; new VS with named matrices 0, stripped 0, no matrices 0; constant buffers copied 8192, Map 16, UpdateSubresource 750 (boxed 0), too big 0, VSSetCB1 with an offset 0
+[20:01:46.090] scan 81: 4 buffer copies scanned, 0 camera-shaped place(s)
+[20:01:48.090] scan 82: 6 buffer copies scanned, 0 camera-shaped place(s)
+[20:01:50.090] scan 83: 11 buffer copies scanned, 0 camera-shaped place(s)
+[20:01:50.558] stats/5s: draws immediate 2123 deferred 0, ExecuteCommandList 0, contexts 8; new VS with named matrices 0, stripped 0, no matrices 0; constant buffers copied 8192, Map 24, UpdateSubresource 750 (boxed 0), too big 0, VSSetCB1 with an offset 0
+[20:01:52.092] scan 84: 6 buffer copies scanned, 0 camera-shaped place(s)
+[20:01:54.092] scan 85: 5 buffer copies scanned, 0 camera-shaped place(s)
+[20:01:55.557] stats/5s: draws immediate 2130 deferred 0, ExecuteCommandList 0, contexts 8; new VS with named matrices 0, stripped 0, no matrices 0; constant buffers copied 8192, Map 14, UpdateSubresource 750 (boxed 0), too big 0, VSSetCB1 with an offset 0
+[20:01:56.092] scan 86: 5 buffer copies scanned, 0 camera-shaped place(s)
+[20:01:58.090] scan 87: 9 buffer copies scanned, 0 camera-shaped place(s)
+[20:02:00.092] scan 88: 3 buffer copies scanned, 0 camera-shaped place(s)
+[20:02:00.559] stats/5s: draws immediate 2141 deferred 0, ExecuteCommandList 0, contexts 8; new VS with named matrices 0, stripped 0, no matrices 0; constant buffers copied 8192, Map 20, UpdateSubresource 750 (boxed 0), too big 0, VSSetCB1 with an offset 0
+[20:02:02.090] scan 89: 6 buffer copies scanned, 0 camera-shaped place(s)
+[20:02:04.093] scan 90: 6 buffer copies scanned, 0 camera-shaped place(s)
+[20:02:05.557] stats/5s: draws immediate 2150 deferred 0, ExecuteCommandList 0, contexts 8; new VS with named matrices 0, stripped 0, no matrices 0; constant buffers copied 8192, Map 15, UpdateSubresource 750 (boxed 0), too big 0, VSSetCB1 with an offset 0
+[20:02:06.091] scan 91: 12 buffer copies scanned, 0 camera-shaped place(s)
+[20:02:08.092] scan 92: 5 buffer copies scanned, 0 camera-shaped place(s)
+[20:02:10.091] scan 93: 3 buffer copies scanned, 0 camera-shaped place(s)
+[20:02:10.560] stats/5s: draws immediate 2128 deferred 0, ExecuteCommandList 0, contexts 8; new VS with named matrices 0, stripped 0, no matrices 0; constant buffers copied 8192, Map 23, UpdateSubresource 750 (boxed 0), too big 0, VSSetCB1 with an offset 0
+[20:02:12.094] scan 94: 4 buffer copies scanned, 0 camera-shaped place(s)
+[20:02:14.092] scan 95: 10 buffer copies scanned, 0 camera-shaped place(s)
+[20:02:15.558] stats/5s: draws immediate 2145 deferred 0, ExecuteCommandList 0, contexts 8; new VS with named matrices 0, stripped 0, no matrices 0; constant buffers copied 8192, Map 17, UpdateSubresource 750 (boxed 0), too big 0, VSSetCB1 with an offset 0
+[20:02:16.091] scan 96: 4 buffer copies scanned, 0 camera-shaped place(s)
+[20:02:18.094] scan 97: 6 buffer copies scanned, 0 camera-shaped place(s)
+[20:02:20.093] scan 98: 5 buffer copies scanned, 0 camera-shaped place(s)
+[20:02:20.559] stats/5s: draws immediate 2131 deferred 0, ExecuteCommandList 0, contexts 8; new VS with named matrices 0, stripped 0, no matrices 0; constant buffers copied 8192, Map 18, UpdateSubresource 750 (boxed 0), too big 0, VSSetCB1 with an offset 0
+[20:02:22.093] scan 99: 5 buffer copies scanned, 0 camera-shaped place(s)
+[20:02:24.093] scan 100: 3 buffer copies scanned, 0 camera-shaped place(s)
+[20:02:25.561] stats/5s: draws immediate 2134 deferred 0, ExecuteCommandList 0, contexts 8; new VS with named matrices 0, stripped 0, no matrices 0; constant buffers copied 8192, Map 10, UpdateSubresource 750 (boxed 0), too big 0, VSSetCB1 with an offset 0
+[20:02:26.092] scan 101: 3 buffer copies scanned, 0 camera-shaped place(s)
+[20:02:28.092] scan 102: 4 buffer copies scanned, 0 camera-shaped place(s)
+[20:02:30.093] scan 103: 4 buffer copies scanned, 0 camera-shaped place(s)
+[20:02:30.560] stats/5s: draws immediate 2127 deferred 0, ExecuteCommandList 0, contexts 8; new VS with named matrices 0, stripped 0, no matrices 0; constant buffers copied 8192, Map 14, UpdateSubresource 750 (boxed 0), too big 0, VSSetCB1 with an offset 0
+[20:02:32.091] scan 104: 10 buffer copies scanned, 0 camera-shaped place(s)
+[20:02:34.093] scan 105: 11 buffer copies scanned, 0 camera-shaped place(s)
+[20:02:35.561] stats/5s: draws immediate 2129 deferred 0, ExecuteCommandList 0, contexts 8; new VS with named matrices 0, stripped 0, no matrices 0; constant buffers copied 8192, Map 23, UpdateSubresource 750 (boxed 0), too big 0, VSSetCB1 with an offset 0
+[20:02:36.093] scan 106: 5 buffer copies scanned, 0 camera-shaped place(s)
+[20:02:38.091] scan 107: 4 buffer copies scanned, 0 camera-shaped place(s)
+[20:02:40.091] scan 108: 7 buffer copies scanned, 0 camera-shaped place(s)
+[20:02:40.558] stats/5s: draws immediate 2136 deferred 0, ExecuteCommandList 0, contexts 8; new VS with named matrices 0, stripped 0, no matrices 0; constant buffers copied 8192, Map 19, UpdateSubresource 750 (boxed 0), too big 0, VSSetCB1 with an offset 0
+[20:02:42.093] scan 109: 4 buffer copies scanned, 0 camera-shaped place(s)
+[20:02:44.094] scan 110: 6 buffer copies scanned, 0 camera-shaped place(s)
+[20:02:45.558] stats/5s: draws immediate 2158 deferred 0, ExecuteCommandList 0, contexts 8; new VS with named matrices 0, stripped 0, no matrices 0; constant buffers copied 8192, Map 12, UpdateSubresource 750 (boxed 0), too big 0, VSSetCB1 with an offset 0
+[20:02:46.093] scan 111: 6 buffer copies scanned, 0 camera-shaped place(s)
+[20:02:48.093] scan 112: 11 buffer copies scanned, 0 camera-shaped place(s)
+[20:02:50.092] scan 113: 5 buffer copies scanned, 0 camera-shaped place(s)
+[20:02:50.560] stats/5s: draws immediate 2144 deferred 0, ExecuteCommandList 0, contexts 8; new VS with named matrices 0, stripped 0, no matrices 0; constant buffers copied 8192, Map 25, UpdateSubresource 750 (boxed 0), too big 0, VSSetCB1 with an offset 0
+[20:02:52.094] scan 114: 5 buffer copies scanned, 0 camera-shaped place(s)
+[20:02:54.093] scan 115: 3 buffer copies scanned, 0 camera-shaped place(s)
+[20:02:55.559] stats/5s: draws immediate 2125 deferred 0, ExecuteCommandList 0, contexts 8; new VS with named matrices 0, stripped 0, no matrices 0; constant buffers copied 8192, Map 10, UpdateSubresource 750 (boxed 0), too big 0, VSSetCB1 with an offset 0
+[20:02:56.093] scan 116: 10 buffer copies scanned, 0 camera-shaped place(s)
+[20:02:58.092] scan 117: 4 buffer copies scanned, 0 camera-shaped place(s)
+[20:03:00.093] scan 118: 4 buffer copies scanned, 0 camera-shaped place(s)
+[20:03:00.559] stats/5s: draws immediate 2125 deferred 0, ExecuteCommandList 0, contexts 8; new VS with named matrices 0, stripped 0, no matrices 0; constant buffers copied 8192, Map 22, UpdateSubresource 750 (boxed 0), too big 0, VSSetCB1 with an offset 0
+[20:03:02.093] scan 119: 11 buffer copies scanned, 0 camera-shaped place(s)
+[20:03:04.168] scan 120: 1088 buffer copies scanned, 1 camera-shaped place(s), most used first:
+[20:03:04.168]   b0 @0     (544-byte buffer, columns) seen    1 x, VS 10f59914, (no names): pos 0.014 -0.000 -0.000 fwd 0.000 0.000 -1.000 aspect 1.778 lens 1.570 2.791
+[20:03:05.559] stats/5s: draws immediate 41617 deferred 72388, ExecuteCommandList 731, contexts 9; new VS with named matrices 0, stripped 0, no matrices 0; constant buffers copied 8192, Map 28, UpdateSubresource 494 (boxed 0), too big 0, VSSetCB1 with an offset 0
+[20:03:06.168] scan 121: 1130 buffer copies scanned, 0 camera-shaped place(s)
+[20:03:08.168] scan 122: 1068 buffer copies scanned, 0 camera-shaped place(s)
+[20:03:10.168] scan 123: 1126 buffer copies scanned, 1 camera-shaped place(s), most used first:
+[20:03:10.168]   b0 @0     (544-byte buffer, columns) seen    1 x, VS 10f59914, (no names): pos 0.014 -0.000 -0.000 fwd 0.000 0.000 -1.000 aspect 1.778 lens 1.570 2.791
+[20:03:10.559] stats/5s: draws immediate 157936 deferred 271077, ExecuteCommandList 2771, contexts 9; new VS with named matrices 0, stripped 0, no matrices 0; constant buffers copied 8192, Map 14, UpdateSubresource 164 (boxed 0), too big 0, VSSetCB1 with an offset 0
+[20:03:12.169] scan 124: 1119 buffer copies scanned, 0 camera-shaped place(s)
+[20:03:14.168] scan 125: 1114 buffer copies scanned, 0 camera-shaped place(s)
+[20:03:15.560] stats/5s: draws immediate 169139 deferred 291379, ExecuteCommandList 2985, contexts 9; new VS with named matrices 0, stripped 0, no matrices 0; constant buffers copied 8192, Map 12, UpdateSubresource 174 (boxed 0), too big 0, VSSetCB1 with an offset 0
+[20:03:16.168] scan 126: 1126 buffer copies scanned, 0 camera-shaped place(s)
+[20:03:18.168] scan 127: 1125 buffer copies scanned, 0 camera-shaped place(s)
+[20:03:20.168] scan 128: 859 buffer copies scanned, 0 camera-shaped place(s)
+[20:03:20.559] stats/5s: draws immediate 161579 deferred 272839, ExecuteCommandList 2765, contexts 9; new VS with named matrices 0, stripped 0, no matrices 0; constant buffers copied 8192, Map 24, UpdateSubresource 166 (boxed 0), too big 0, VSSetCB1 with an offset 0
+[20:03:22.170] scan 129: 1082 buffer copies scanned, 0 camera-shaped place(s)
+[20:03:24.169] scan 130: 1134 buffer copies scanned, 0 camera-shaped place(s)
+[20:03:25.559] stats/5s: draws immediate 154169 deferred 267784, ExecuteCommandList 2737, contexts 9; new VS with named matrices 0, stripped 0, no matrices 0; constant buffers copied 8192, Map 19, UpdateSubresource 162 (boxed 0), too big 0, VSSetCB1 with an offset 0
+[20:03:26.168] scan 131: 1132 buffer copies scanned, 0 camera-shaped place(s)
+[20:03:28.169] scan 132: 1130 buffer copies scanned, 0 camera-shaped place(s)
+[20:03:30.169] scan 133: 1083 buffer copies scanned, 0 camera-shaped place(s)
+[20:03:30.559] stats/5s: draws immediate 165110 deferred 281803, ExecuteCommandList 2869, contexts 9; new VS with named matrices 0, stripped 0, no matrices 0; constant buffers copied 8192, Map 5, UpdateSubresource 172 (boxed 0), too big 0, VSSetCB1 with an offset 0
+[20:03:32.169] scan 134: 994 buffer copies scanned, 0 camera-shaped place(s)
+[20:03:34.169] scan 135: 871 buffer copies scanned, 0 camera-shaped place(s)
+[20:03:35.561] stats/5s: draws immediate 173801 deferred 297898, ExecuteCommandList 3035, contexts 9; new VS with named matrices 0, stripped 0, no matrices 0; constant buffers copied 8192, Map 12, UpdateSubresource 184 (boxed 0), too big 0, VSSetCB1 with an offset 0
+[20:03:36.169] scan 136: 1066 buffer copies scanned, 0 camera-shaped place(s)
+[20:03:38.169] scan 137: 1009 buffer copies scanned, 0 camera-shaped place(s)
+[20:03:40.168] scan 138: 1105 buffer copies scanned, 0 camera-shaped place(s)
+[20:03:40.559] stats/5s: draws immediate 169466 deferred 286056, ExecuteCommandList 2874, contexts 9; new VS with named matrices 0, stripped 0, no matrices 0; constant buffers copied 8192, Map 31, UpdateSubresource 176 (boxed 0), too big 0, VSSetCB1 with an offset 0
+[20:03:42.169] scan 139: 1093 buffer copies scanned, 0 camera-shaped place(s)
+[20:03:44.169] scan 140: 1111 buffer copies scanned, 0 camera-shaped place(s)
+[20:03:45.560] stats/5s: draws immediate 182248 deferred 295487, ExecuteCommandList 2837, contexts 9; new VS with named matrices 0, stripped 0, no matrices 0; constant buffers copied 8192, Map 11, UpdateSubresource 186 (boxed 0), too big 0, VSSetCB1 with an offset 0
+[20:03:46.169] scan 141: 1064 buffer copies scanned, 0 camera-shaped place(s)
+[20:03:48.169] scan 142: 1127 buffer copies scanned, 0 camera-shaped place(s)
+[20:03:50.168] scan 143: 1131 buffer copies scanned, 0 camera-shaped place(s)
+[20:03:50.561] stats/5s: draws immediate 156446 deferred 270709, ExecuteCommandList 2788, contexts 9; new VS with named matrices 0, stripped 0, no matrices 0; constant buffers copied 8192, Map 10, UpdateSubresource 164 (boxed 0), too big 0, VSSetCB1 with an offset 0

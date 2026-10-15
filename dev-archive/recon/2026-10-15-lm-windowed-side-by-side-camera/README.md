@@ -10,3 +10,4 @@ Note: `modding-notes/2026-10-15-lm-windowed-side-by-side-and-the-camera.md`.
 | `dxmd_camlog.txt` | the camera finder's log: stand 19:53:30-44, turn 19:53:44-51, walk 19:53:51-53 |
 | `dxmd_vr_proxy_log.txt` | the proxy's own start-up log |
 | `d3d11.dll` (local only: dlls are not committed here) | the camera finder build, sha256 `9a90a0264f01`, taken out of the game folder after the run; the same build and its source are in `staging/deus-ex-mankind-divided-vr/proxy-d3d11-camlog/` |
+| `dxmd_camlog_side-by-side.txt`, `dxmd_vr_proxy_log_side-by-side.txt` | the same finder with side-by-side 3D on (third launch, fullscreen 1920x1080) |

@@ -65,6 +65,7 @@
   - `b1 @0` followed the player: still while standing; a mouse turn swung forward from (-0.22, 0.94) to (0.97, 0.03) and (0.84, -0.49); 2 s of walking moved it about 3 units along the heading `[verified-live 2026-10-15, n=1]`. Forward Z stayed -0.249 through the turn: **Z up** `[inferred-static 2026-10-15]`. Units probably metres `[hypothesis]`.
   - Picture shape 1.777, lens 1.092 x 1.940 (about 85 x 55 degrees) at 1280x720.
   - So a per-eye shift goes into the camera-relative matrix (`b0`, and `b1 @64`), not into a world position.
+  - **With side-by-side on, the finder is almost blind** `[measured 2026-10-15, n=1 run]`: 2 of 15 scans found `b0 @0` with the camera at x 0.014 (one eye's sideways shift? `[hypothesis]`) and a narrower lens, 1.570 x 2.791 (about 65 x 40 degrees); the rest nothing. `Map` fell from about 14,000 to 5-50 per 5 s, and the finder's 8,192-copy budget was full every 5 s. The camera reaches the shaders another way in that mode, or the budget runs out first `[hypothesis]`.
 - Exact constant-buffer slot, parameter name(s), byte offset(s), layout,
   handedness, row/column convention:
 - Where projection `P` / FOV comes from:

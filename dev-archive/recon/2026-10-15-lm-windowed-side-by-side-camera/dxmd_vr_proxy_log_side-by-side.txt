@@ -1,0 +1,3 @@
+[2026-10-15 19:58:54.567] === dxmd d3d11.dll proxy attached, PID 19836, exe D:\Program Files (x86)\Steam\steamapps\common\Deus Ex Mankind Divided\retail\DXMD.exe ===
+[2026-10-15 19:58:54.568] real dll: C:\Windows\system32\d3d11.dll (loaded at 00007FFBD52C0000), 51 of 51 exports resolved
+[2026-10-15 19:58:54.672] first call: D3D11CreateDevice (ordinal 22) thread 22520
