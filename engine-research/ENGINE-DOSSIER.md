@@ -59,6 +59,15 @@
   handedness, row/column convention:
 - Where projection `P` / FOV comes from:
 - The per-eye override maths (`K_eye = …`):
+- **2026-10-15 /pd: a camera finder is built, not yet run** `[compile-verified 2026-10-15]`. The shader variable
+  names are unknown, so `staging/deus-ex-mankind-divided-vr/proxy-d3d11-camlog/` (a `d3d11.dll` proxy, 64-bit,
+  d3d11.dll `9a90a0264f01`) recognises a camera by SHAPE: any 4x4 block in a vertex-shader constant buffer that is
+  a perspective view*projection (forward row unit length, right/up/forward at right angles, aspect from the row
+  lengths), both memory layouts, and solves the camera position from it. Where the shader keeps its reflection it
+  also names the variable (`Frame.gViewProj+0`). Tested without the game: 120,009 synthetic cameras
+  `[verified-numerically 2026-10-15, n=20000]`, planted sign mistake caught; and an end-to-end WARP run through the
+  built DLL `[verified-numerically 2026-10-15, n=1]`. Present is not hooked (d3d11 only). Log: `dxmd_camlog.txt`
+  next to the exe. Whether DXMD's shaders keep their names is unknown `[hypothesis]`.
 
 ## 7. Constant-buffer fill mechanism
 - Map/DISCARD ring / UpdateSubresource / D3D11.1 offset / **persistent map +
@@ -82,6 +91,9 @@
 - Launch to a known scene (commands used):
 - In-process input / camera drive method that worked:
 - Frame-capture method; where images land:
+- **Camera-finder run (2026-10-15, not run yet):** copy `build/d3d11.dll` from the folder above into `retail\`
+  (no d3d11.dll there today), start windowed with `-nolauncher`, stand still in gameplay for 10 s, then turn the
+  mouse; close; read `retail\dxmd_camlog.txt`. Take the dll out again after. Outcome table: that folder's README.
 
 ## 11. Dead ends & false leads (save future time)
 - Reading the exe's code straight off disk: the code section is empty or encrypted on disk (§3) `[inferred-static 2026-10-15]`.
