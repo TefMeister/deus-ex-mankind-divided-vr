@@ -1,0 +1,984 @@
+[19:46:27.708] D3D11CreateDevice: hr 0x00000000, flags 0x0
+[19:46:27.758] context 0000000025DF8D70: function set 0 hooked, MH_EnableHook MH_OK
+[19:46:27.758] hooked device 0000000025DEB9C8, immediate context 0000000025DF8D70; scanning every 2000 ms for 250 ms
+[19:46:28.211] D3D11CreateDevice: hr 0x00000000, flags 0x0
+[19:46:28.342] D3D11CreateDevice: hr 0x00000001, flags 0x0
+[19:46:28.386] D3D11CreateDevice: hr 0x00000000, flags 0x0
+[19:46:30.163] D3D11CreateDevice: hr 0x00000000, flags 0x0
+[19:46:30.180] VS a071e17f matrices: b0 Constants.texgen@32/64
+[19:46:30.181] VS a071e17f matrices: b0 Constants.texgen@32/64
+[19:46:30.181] VS 97c27399 matrices: b0 Constants.texgen@64/64
+[19:46:30.181] VS e1a9dd6c matrices: b0 Constants.mvp@0/64
+[19:46:30.181] VS e1a9dd6c matrices: b0 Constants.mvp@0/64
+[19:46:30.181] VS a0575590 matrices: b0 Constants.mvp@0/64
+[19:46:30.181] VS a0575590 matrices: b0 Constants.mvp@0/64
+[19:46:30.181] VS 78ebe6a0 matrices: b0 Constants.mvp@32/64
+[19:46:30.182] VS e06400ba matrices: b0 Constants.mvp@32/64
+[19:46:30.182] VS 6656c398 matrices: b0 Constants.mvp@0/64
+[19:46:30.182] VS 45311dd9 matrices: b0 Constants.mvp@0/64
+[19:46:30.182] VS bb5b0452 matrices: b0 Constants.mvp@32/64
+[19:46:30.182] VS 79f6864a matrices: b0 Constants.mvp@32/64
+[19:46:30.182] VS 4f993b6c matrices: b0 Constants.mvp@0/64, b0 Constants.texgen@64/64
+[19:46:30.182] VS 4f993b6c matrices: b0 Constants.mvp@0/64, b0 Constants.texgen@64/64
+[19:46:30.182] VS ea37ad1b matrices: b0 Constants.mvp@32/64, b0 Constants.texgen@96/64
+[19:46:30.182] VS 2ac5f144 matrices: b0 Constants.mvp@0/64
+[19:46:30.182] VS 2ac5f144 matrices: b0 Constants.mvp@0/64
+[19:46:30.182] VS 5fa80034 matrices: b0 Constants.mvp@32/64
+[19:46:30.182] VS 4684b5db matrices: b0 Constants.vfuniforms@0/1536
+[19:46:30.182] VS 4684b5db matrices: b0 Constants.vfuniforms@0/1536
+[19:46:30.182] VS f0193c6c matrices: b0 Constants.vfuniforms@0/1536
+[19:46:30.182] VS f0193c6c matrices: b0 Constants.vfuniforms@0/1536
+[19:46:30.182] VS 759406e5 matrices: b0 Constants.vfuniforms@0/2304
+[19:46:30.182] VS 509b6f3e matrices: b0 Constants.vfuniforms@0/2304
+[19:46:30.182] VS 86996b1b matrices: b0 Constants.vfuniforms@0/768
+[19:46:30.182] VS c677e945 matrices: b0 Constants.vfuniforms@0/768
+[19:46:30.182] VS 24fb5c9d matrices: b0 Constants.vfuniforms@0/1536
+[19:46:30.183] VS 085fee1d matrices: b0 Constants.vfuniforms@0/1536
+[19:46:30.183] VS f56464a7 matrices: b0 Constants.vfuniforms@0/2304
+[19:46:30.183] VS f56464a7 matrices: b0 Constants.vfuniforms@0/2304
+[19:46:30.183] VS a3512d6b matrices: b0 Constants.vfuniforms@0/3072
+[19:46:30.183] VS b763ac42 matrices: b0 Constants.vfuniforms@0/1536
+[19:46:30.183] VS b763ac42 matrices: b0 Constants.vfuniforms@0/1536
+[19:46:30.183] VS 26e337ba matrices: b0 Constants.vfuniforms@0/2304
+[19:46:30.183] VS 09a66729 matrices: b0 Constants.vfuniforms@0/2304
+[19:46:30.183] VS 09a66729 matrices: b0 Constants.vfuniforms@0/2304
+[19:46:30.183] VS a294c439 matrices: b0 Constants.vfuniforms@0/2304
+[19:46:30.183] VS a294c439 matrices: b0 Constants.vfuniforms@0/2304
+[19:46:30.183] VS f82ec86d matrices: b0 Constants.vfuniforms@0/3072
+[19:46:30.183] VS 43c89568 matrices: b0 Constants.vfuniforms@0/3072
+[19:46:30.183] VS 5e389eed matrices: b0 Constants.vfuniforms@0/1536
+[19:46:30.183] VS 6a57b5d3 matrices: b0 Constants.vfuniforms@0/1536
+[19:46:30.183] VS ad5012a1 matrices: b0 Constants.vfuniforms@0/2304
+[19:46:30.183] VS c9238908 matrices: b0 Constants.vfuniforms@0/2304
+[19:46:30.183] VS 1e865981 matrices: b0 Constants.vfuniforms@0/3072
+[19:46:30.183] VS 1e865981 matrices: b0 Constants.vfuniforms@0/3072
+[19:46:30.183] VS abc60a59 matrices: b0 Constants.vfuniforms@0/3840
+[19:46:30.183] VS d12b0543 matrices: b0 Constants.vfuniforms@0/2304
+[19:46:30.184] VS d12b0543 matrices: b0 Constants.vfuniforms@0/2304
+[19:46:30.184] VS fba7ab9a matrices: b0 Constants.vfuniforms@0/3072
+[19:46:30.184] VS d5e6a8eb matrices: b0 Constants.vfuniforms@0/1536
+[19:46:30.184] VS d5e6a8eb matrices: b0 Constants.vfuniforms@0/1536
+[19:46:30.184] VS 67a2884f matrices: b0 Constants.vfuniforms@0/1536
+[19:46:30.184] VS 67a2884f matrices: b0 Constants.vfuniforms@0/1536
+[19:46:30.184] VS ba47f013 matrices: b0 Constants.vfuniforms@0/2304
+[19:46:30.184] VS e35815be matrices: b0 Constants.vfuniforms@0/2304
+[19:46:30.184] VS 66367680 matrices: b0 Constants.vfuniforms@0/768
+[19:46:30.184] VS 9d2bfb8d matrices: b0 Constants.vfuniforms@0/768
+[19:46:30.184] VS 8fb59177 matrices: b0 Constants.vfuniforms@0/1536
+[19:46:30.184] VS d32f614d matrices: b0 Constants.vfuniforms@0/1536
+[19:46:30.184] VS 9a67cc3a matrices: b0 Constants.vfuniforms@0/2304
+[19:46:30.184] VS 9a67cc3a matrices: b0 Constants.vfuniforms@0/2304
+[19:46:30.184] VS 4ce6ff9d matrices: b0 Constants.vfuniforms@0/3072
+[19:46:30.184] VS a2b0128b matrices: b0 Constants.vfuniforms@0/1536
+[19:46:30.184] VS a2b0128b matrices: b0 Constants.vfuniforms@0/1536
+[19:46:30.185] VS 05607318 matrices: b0 Constants.vfuniforms@0/2304
+[19:46:30.185] VS eb71eaeb matrices: b0 Constants.vfuniforms@0/2304
+[19:46:30.185] VS eb71eaeb matrices: b0 Constants.vfuniforms@0/2304
+[19:46:30.185] VS 2710c070 matrices: b0 Constants.vfuniforms@0/2304
+[19:46:30.185] VS 2710c070 matrices: b0 Constants.vfuniforms@0/2304
+[19:46:30.185] VS b19b7f93 matrices: b0 Constants.vfuniforms@0/3072
+[19:46:30.185] VS 7fccfdfb matrices: b0 Constants.vfuniforms@0/3072
+[19:46:30.185] VS d90bd857 matrices: b0 Constants.vfuniforms@0/1536
+[19:46:30.185] VS 5bca38e2 matrices: b0 Constants.vfuniforms@0/1536
+[19:46:30.185] VS 3231ff02 matrices: b0 Constants.vfuniforms@0/2304
+[19:46:30.185] VS e9696227 matrices: b0 Constants.vfuniforms@0/2304
+[19:46:30.185] VS 9a34bb2c matrices: b0 Constants.vfuniforms@0/3072
+[19:46:30.185] VS 9a34bb2c matrices: b0 Constants.vfuniforms@0/3072
+[19:46:30.185] VS 69967665 matrices: b0 Constants.vfuniforms@0/3840
+[19:46:30.185] VS a81b5e09 matrices: b0 Constants.vfuniforms@0/2304
+[19:46:30.185] VS a81b5e09 matrices: b0 Constants.vfuniforms@0/2304
+[19:46:30.185] VS e75e397c matrices: b0 Constants.vfuniforms@0/3072
+[19:46:30.186] VS 60c077b6 matrices: b0 Constants.mvp@0/64
+[19:46:30.186] VS 53073649 matrices: b0 Constants.mvp@32/64
+[19:46:30.186] VS 53073649 matrices: b0 Constants.mvp@32/64
+[19:46:30.186] VS c827595a matrices: b0 Constants.mvp@0/64
+[19:46:30.186] VS c827595a matrices: b0 Constants.mvp@0/64
+[19:46:30.186] VS 016991cf matrices: b0 Constants.mvp@32/64
+[19:46:30.186] VS a7b2c1e7 matrices: b0 Constants.vfuniforms@0/768
+[19:46:30.186] VS 1d95d373 matrices: b0 Constants.vfuniforms@0/1536
+[19:46:30.186] VS 1d95d373 matrices: b0 Constants.vfuniforms@0/1536
+[19:46:30.186] VS 93c09a2f matrices: b0 Constants.vfuniforms@0/768
+[19:46:30.186] VS 93c09a2f matrices: b0 Constants.vfuniforms@0/768
+[19:46:30.186] VS 05274959 matrices: b0 Constants.vfuniforms@0/1536
+[19:46:30.186] VS a350c0ae matrices: b0 Constants.vfuniforms@0/1536
+[19:46:30.186] VS 8c303a98 matrices: b0 Constants.vfuniforms@0/2304
+[19:46:30.186] VS 8c303a98 matrices: b0 Constants.vfuniforms@0/2304
+[19:46:30.186] VS f1f04e6e matrices: b0 Constants.vfuniforms@0/1536
+[19:46:30.186] VS f1f04e6e matrices: b0 Constants.vfuniforms@0/1536
+[19:46:30.186] VS 7ffe8110 matrices: b0 Constants.vfuniforms@0/2304
+[19:46:30.187] VS 8602ee01 matrices: b0 Constants.vfuniforms@0/768
+[19:46:30.187] VS 5e57e098 matrices: b0 Constants.vfuniforms@0/1536
+[19:46:30.187] VS 5e57e098 matrices: b0 Constants.vfuniforms@0/1536
+[19:46:30.187] VS 38e0ee59 matrices: b0 Constants.vfuniforms@0/768
+[19:46:30.187] VS 38e0ee59 matrices: b0 Constants.vfuniforms@0/768
+[19:46:30.187] VS b57766ad matrices: b0 Constants.vfuniforms@0/1536
+[19:46:30.187] VS 98afdcb8 matrices: b0 Constants.vfuniforms@0/1536
+[19:46:30.187] VS 55632262 matrices: b0 Constants.vfuniforms@0/2304
+[19:46:30.187] VS 55632262 matrices: b0 Constants.vfuniforms@0/2304
+[19:46:30.187] VS 4344693b matrices: b0 Constants.vfuniforms@0/1536
+[19:46:30.187] VS 4344693b matrices: b0 Constants.vfuniforms@0/1536
+[19:46:30.187] VS b27a04bc matrices: b0 Constants.vfuniforms@0/2304
+[19:46:30.187] VS e1a9dd6c matrices: b0 Constants.mvp@0/64
+[19:46:30.188] VS e1a9dd6c matrices: b0 Constants.mvp@0/64
+[19:46:30.188] VS a0575590 matrices: b0 Constants.mvp@0/64
+[19:46:30.188] VS a0575590 matrices: b0 Constants.mvp@0/64
+[19:46:30.188] VS 78ebe6a0 matrices: b0 Constants.mvp@32/64
+[19:46:30.188] VS e06400ba matrices: b0 Constants.mvp@32/64
+[19:46:30.188] VS 4684b5db matrices: b0 Constants.vfuniforms@0/1536
+[19:46:30.188] VS 4684b5db matrices: b0 Constants.vfuniforms@0/1536
+[19:46:30.188] VS f0193c6c matrices: b0 Constants.vfuniforms@0/1536
+[19:46:30.188] VS f0193c6c matrices: b0 Constants.vfuniforms@0/1536
+[19:46:30.188] VS 759406e5 matrices: b0 Constants.vfuniforms@0/2304
+[19:46:30.188] VS 509b6f3e matrices: b0 Constants.vfuniforms@0/2304
+[19:46:30.188] VS 09a66729 matrices: b0 Constants.vfuniforms@0/2304
+[19:46:30.188] VS 09a66729 matrices: b0 Constants.vfuniforms@0/2304
+[19:46:30.188] VS a294c439 matrices: b0 Constants.vfuniforms@0/2304
+[19:46:30.188] VS a294c439 matrices: b0 Constants.vfuniforms@0/2304
+[19:46:30.188] VS f82ec86d matrices: b0 Constants.vfuniforms@0/3072
+[19:46:30.188] VS 43c89568 matrices: b0 Constants.vfuniforms@0/3072
+[19:46:30.188] VS d5e6a8eb matrices: b0 Constants.vfuniforms@0/1536
+[19:46:30.188] VS d5e6a8eb matrices: b0 Constants.vfuniforms@0/1536
+[19:46:30.188] VS 67a2884f matrices: b0 Constants.vfuniforms@0/1536
+[19:46:30.188] VS 67a2884f matrices: b0 Constants.vfuniforms@0/1536
+[19:46:30.188] VS ba47f013 matrices: b0 Constants.vfuniforms@0/2304
+[19:46:30.189] VS e35815be matrices: b0 Constants.vfuniforms@0/2304
+[19:46:30.189] VS eb71eaeb matrices: b0 Constants.vfuniforms@0/2304
+[19:46:30.189] VS eb71eaeb matrices: b0 Constants.vfuniforms@0/2304
+[19:46:30.189] VS 2710c070 matrices: b0 Constants.vfuniforms@0/2304
+[19:46:30.189] VS 2710c070 matrices: b0 Constants.vfuniforms@0/2304
+[19:46:30.189] VS b19b7f93 matrices: b0 Constants.vfuniforms@0/3072
+[19:46:30.189] VS 7fccfdfb matrices: b0 Constants.vfuniforms@0/3072
+[19:46:30.189] VS 759406e5 matrices: b0 Constants.vfuniforms@0/2304
+[19:46:30.189] VS 525740f6 matrices: b0 Constants.vfuniforms@0/2304
+[19:46:30.189] VS 37dc40ad matrices: b0 Constants.vfuniforms@0/3072
+[19:46:30.189] VS ff11e78d matrices: b0 Constants.vfuniforms@0/3072
+[19:46:37.464] stats/5s: draws immediate 1 deferred 0, ExecuteCommandList 0, contexts 1; new VS with named matrices 147, stripped 565, no matrices 27; constant buffers copied 0, Map 0, UpdateSubresource 4 (boxed 0), too big 0, VSSetCB1 with an offset 0
+[19:46:37.731] scan 1: 7 buffer copies scanned, 0 camera-shaped place(s)
+[19:46:39.733] scan 2: 8 buffer copies scanned, 0 camera-shaped place(s)
+[19:46:41.734] scan 3: 8 buffer copies scanned, 0 camera-shaped place(s)
+[19:46:42.474] stats/5s: draws immediate 977 deferred 0, ExecuteCommandList 0, contexts 1; new VS with named matrices 0, stripped 12, no matrices 1; constant buffers copied 43, Map 65, UpdateSubresource 1802 (boxed 2), too big 0, VSSetCB1 with an offset 0
+[19:46:43.725] scan 4: 4 buffer copies scanned, 0 camera-shaped place(s)
+[19:46:45.728] scan 5: 7 buffer copies scanned, 0 camera-shaped place(s)
+[19:46:47.492] stats/5s: draws immediate 975 deferred 0, ExecuteCommandList 0, contexts 1; new VS with named matrices 0, stripped 1, no matrices 0; constant buffers copied 55, Map 23, UpdateSubresource 1765 (boxed 1), too big 0, VSSetCB1 with an offset 0
+[19:46:47.759] scan 6: 8 buffer copies scanned, 0 camera-shaped place(s)
+[19:46:49.775] scan 7: 8 buffer copies scanned, 0 camera-shaped place(s)
+[19:46:51.774] scan 8: 8 buffer copies scanned, 0 camera-shaped place(s)
+[19:46:52.503] stats/5s: draws immediate 894 deferred 0, ExecuteCommandList 0, contexts 1; new VS with named matrices 0, stripped 1, no matrices 0; constant buffers copied 71, Map 40, UpdateSubresource 1788 (boxed 0), too big 0, VSSetCB1 with an offset 0
+[19:46:53.772] scan 9: 7 buffer copies scanned, 0 camera-shaped place(s)
+[19:46:55.749] scan 10: 6 buffer copies scanned, 0 camera-shaped place(s)
+[19:46:57.500] stats/5s: draws immediate 810 deferred 0, ExecuteCommandList 0, contexts 1; new VS with named matrices 0, stripped 3, no matrices 0; constant buffers copied 74, Map 14, UpdateSubresource 1620 (boxed 0), too big 0, VSSetCB1 with an offset 0
+[19:46:57.748] scan 11: 6 buffer copies scanned, 0 camera-shaped place(s)
+[19:46:59.755] scan 12: 7 buffer copies scanned, 0 camera-shaped place(s)
+[19:47:01.770] scan 13: 8 buffer copies scanned, 0 camera-shaped place(s)
+[19:47:02.504] stats/5s: draws immediate 828 deferred 0, ExecuteCommandList 0, contexts 1; new VS with named matrices 0, stripped 0, no matrices 0; constant buffers copied 74, Map 21, UpdateSubresource 1656 (boxed 0), too big 0, VSSetCB1 with an offset 0
+[19:47:04.068] scan 14: 5 buffer copies scanned, 0 camera-shaped place(s)
+[19:47:05.775] scan 15: 474 buffer copies scanned, 1 camera-shaped place(s), most used first:
+[19:47:05.775]   b0 @0     (544-byte buffer, columns) seen   45 x, VS c81169f1, (no names): pos -0.000 -0.000 -0.000 fwd 0.000 0.000 -1.000 aspect 1.777 lens 1.358 2.413
+[19:47:07.494] stats/5s: draws immediate 33682 deferred 0, ExecuteCommandList 0, contexts 1; new VS with named matrices 0, stripped 0, no matrices 0; constant buffers copied 219, Map 1243, UpdateSubresource 2715 (boxed 0), too big 0, VSSetCB1 with an offset 0
+[19:47:07.775] scan 16: 474 buffer copies scanned, 1 camera-shaped place(s), most used first:
+[19:47:07.775]   b0 @0     (544-byte buffer, columns) seen   45 x, VS c81169f1, (no names): pos -0.000 -0.000 -0.000 fwd 0.000 0.000 -1.000 aspect 1.777 lens 1.358 2.413
+[19:47:09.802] context 000000013D85A100: function set 1 hooked, MH_EnableHook MH_OK
+[19:47:09.806] scan 17: 394 buffer copies scanned, 1 camera-shaped place(s), most used first:
+[19:47:09.806]   b0 @0     (544-byte buffer, columns) seen   39 x, VS c81169f1, (no names): pos -0.000 -0.000 -0.000 fwd 0.000 0.000 -1.000 aspect 1.777 lens 1.358 2.413
+[19:47:11.776] scan 18: 2048 buffer copies scanned, 4 camera-shaped place(s), most used first:
+[19:47:11.776]   b0 @0     (544-byte buffer, columns) seen 2630 x, VS c81169f1, (no names): pos -0.000 -0.000 -0.000 fwd 0.000 0.000 -1.000 aspect 1.777 lens 0.883 1.569
+[19:47:11.776]   b1 @64    (144-byte buffer, columns) seen  112 x, VS 11c8871c, (no names): pos -0.000 -0.000 -0.000 fwd 0.000 0.000 -1.000 aspect 1.777 lens 0.883 1.569
+[19:47:11.776]   b1 @0     (144-byte buffer, columns) seen  112 x, VS 11c8871c, (no names): pos -78.390 27.840 -7.140 fwd -0.522 0.812 0.260 aspect 1.777 lens 0.883 1.569
+[19:47:11.776]   b11 @32    (336-byte buffer, columns) seen   50 x, VS a1ea87bd, (no names): pos -78.390 27.840 -7.140 fwd -0.522 0.812 0.260 aspect 1.777 lens 0.883 1.569
+[19:47:12.494] stats/5s: draws immediate 64441 deferred 106584, ExecuteCommandList 1099, contexts 8; new VS with named matrices 0, stripped 0, no matrices 0; constant buffers copied 1159, Map 7516, UpdateSubresource 3393 (boxed 0), too big 0, VSSetCB1 with an offset 0
+[19:47:13.776] scan 19: 2048 buffer copies scanned, 4 camera-shaped place(s), most used first:
+[19:47:13.776]   b0 @0     (544-byte buffer, columns) seen 2629 x, VS 97fa8170, (no names): pos -0.000 -0.000 -0.000 fwd 0.000 0.000 -1.000 aspect 1.777 lens 0.883 1.569
+[19:47:13.776]   b1 @64    (144-byte buffer, columns) seen  112 x, VS 11c8871c, (no names): pos -0.000 -0.000 -0.000 fwd 0.000 0.000 -1.000 aspect 1.777 lens 0.883 1.569
+[19:47:13.776]   b1 @0     (144-byte buffer, columns) seen  112 x, VS 11c8871c, (no names): pos -78.390 27.840 -7.140 fwd -0.522 0.812 0.260 aspect 1.777 lens 0.883 1.569
+[19:47:13.776]   b11 @32    (336-byte buffer, columns) seen   50 x, VS a1ea87bd, (no names): pos -78.390 27.840 -7.140 fwd -0.522 0.812 0.260 aspect 1.777 lens 0.883 1.569
+[19:47:15.775] scan 20: 2048 buffer copies scanned, 4 camera-shaped place(s), most used first:
+[19:47:15.775]   b0 @0     (544-byte buffer, columns) seen 1822 x, VS 97fa8170, (no names): pos -0.000 -0.000 -0.000 fwd 0.000 0.000 -1.000 aspect 1.777 lens 0.883 1.569
+[19:47:15.775]   b1 @64    (144-byte buffer, columns) seen   80 x, VS 11c8871c, (no names): pos -0.000 -0.000 -0.000 fwd 0.000 0.000 -1.000 aspect 1.777 lens 0.883 1.569
+[19:47:15.775]   b1 @0     (144-byte buffer, columns) seen   80 x, VS 11c8871c, (no names): pos -78.390 27.840 -7.140 fwd -0.522 0.812 0.260 aspect 1.777 lens 0.883 1.569
+[19:47:15.775]   b11 @32    (336-byte buffer, columns) seen   55 x, VS a1ea87bd, (no names): pos -78.390 27.840 -7.140 fwd -0.522 0.812 0.260 aspect 1.777 lens 0.883 1.569
+[19:47:17.495] stats/5s: draws immediate 75573 deferred 197188, ExecuteCommandList 2037, contexts 8; new VS with named matrices 0, stripped 0, no matrices 0; constant buffers copied 1165, Map 8900, UpdateSubresource 3069 (boxed 0), too big 0, VSSetCB1 with an offset 0
+[19:47:17.775] scan 21: 2048 buffer copies scanned, 4 camera-shaped place(s), most used first:
+[19:47:17.775]   b0 @0     (544-byte buffer, columns) seen 2611 x, VS 97fa8170, (no names): pos -0.000 -0.000 -0.000 fwd 0.000 0.000 -1.000 aspect 1.777 lens 0.883 1.569
+[19:47:17.775]   b1 @64    (144-byte buffer, columns) seen  112 x, VS 11c8871c, (no names): pos -0.000 -0.000 -0.000 fwd 0.000 0.000 -1.000 aspect 1.777 lens 0.883 1.569
+[19:47:17.775]   b1 @0     (144-byte buffer, columns) seen  112 x, VS 11c8871c, (no names): pos -78.390 27.840 -7.140 fwd -0.522 0.812 0.260 aspect 1.777 lens 0.883 1.569
+[19:47:17.775]   b11 @32    (336-byte buffer, columns) seen   55 x, VS a1ea87bd, (no names): pos -78.390 27.840 -7.140 fwd -0.522 0.812 0.260 aspect 1.777 lens 0.883 1.569
+[19:47:19.775] scan 22: 2048 buffer copies scanned, 4 camera-shaped place(s), most used first:
+[19:47:19.775]   b0 @0     (544-byte buffer, columns) seen 2627 x, VS 97fa8170, (no names): pos -0.000 -0.000 -0.000 fwd 0.000 0.000 -1.000 aspect 1.777 lens 0.883 1.569
+[19:47:19.775]   b1 @64    (144-byte buffer, columns) seen  112 x, VS 11c8871c, (no names): pos -0.000 -0.000 -0.000 fwd 0.000 0.000 -1.000 aspect 1.777 lens 0.883 1.569
+[19:47:19.775]   b1 @0     (144-byte buffer, columns) seen  112 x, VS 11c8871c, (no names): pos -78.390 27.840 -7.140 fwd -0.522 0.812 0.260 aspect 1.777 lens 0.883 1.569
+[19:47:19.775]   b11 @32    (336-byte buffer, columns) seen   55 x, VS a1ea87bd, (no names): pos -78.390 27.840 -7.140 fwd -0.522 0.812 0.260 aspect 1.777 lens 0.883 1.569
+[19:47:21.782] scan 23: 2048 buffer copies scanned, 4 camera-shaped place(s), most used first:
+[19:47:21.782]   b0 @0     (544-byte buffer, columns) seen 2526 x, VS c81169f1, (no names): pos -0.000 -0.000 -0.000 fwd 0.000 0.000 -1.000 aspect 1.777 lens 0.883 1.569
+[19:47:21.782]   b1 @64    (144-byte buffer, columns) seen   80 x, VS 11c8871c, (no names): pos -0.000 -0.000 -0.000 fwd 0.000 0.000 -1.000 aspect 1.777 lens 0.883 1.569
+[19:47:21.782]   b1 @0     (144-byte buffer, columns) seen   80 x, VS 11c8871c, (no names): pos -78.390 27.840 -7.140 fwd -0.522 0.812 0.260 aspect 1.777 lens 0.883 1.569
+[19:47:21.782]   b11 @32    (336-byte buffer, columns) seen   50 x, VS a1ea87bd, (no names): pos -78.390 27.840 -7.140 fwd -0.522 0.812 0.260 aspect 1.777 lens 0.883 1.569
+[19:47:22.494] stats/5s: draws immediate 74095 deferred 195156, ExecuteCommandList 2016, contexts 8; new VS with named matrices 0, stripped 0, no matrices 0; constant buffers copied 1166, Map 13632, UpdateSubresource 3033 (boxed 0), too big 0, VSSetCB1 with an offset 0
+[19:47:23.775] scan 24: 2048 buffer copies scanned, 4 camera-shaped place(s), most used first:
+[19:47:23.775]   b0 @0     (544-byte buffer, columns) seen 2631 x, VS 97fa8170, (no names): pos -0.000 -0.000 -0.000 fwd 0.000 0.000 -1.000 aspect 1.777 lens 0.883 1.569
+[19:47:23.775]   b1 @64    (144-byte buffer, columns) seen  112 x, VS 11c8871c, (no names): pos -0.000 -0.000 -0.000 fwd 0.000 0.000 -1.000 aspect 1.777 lens 0.883 1.569
+[19:47:23.775]   b1 @0     (144-byte buffer, columns) seen  112 x, VS 11c8871c, (no names): pos -78.390 27.840 -7.140 fwd -0.522 0.812 0.260 aspect 1.777 lens 0.883 1.569
+[19:47:23.775]   b11 @32    (336-byte buffer, columns) seen   50 x, VS a1ea87bd, (no names): pos -78.390 27.840 -7.140 fwd -0.522 0.812 0.260 aspect 1.777 lens 0.883 1.569
+[19:47:25.775] scan 25: 2048 buffer copies scanned, 4 camera-shaped place(s), most used first:
+[19:47:25.775]   b0 @0     (544-byte buffer, columns) seen 2605 x, VS 97fa8170, (no names): pos -0.000 -0.000 -0.000 fwd 0.000 0.000 -1.000 aspect 1.777 lens 0.883 1.569
+[19:47:25.775]   b1 @64    (144-byte buffer, columns) seen  112 x, VS 11c8871c, (no names): pos -0.000 -0.000 -0.000 fwd 0.000 0.000 -1.000 aspect 1.777 lens 0.883 1.569
+[19:47:25.775]   b1 @0     (144-byte buffer, columns) seen  112 x, VS 11c8871c, (no names): pos -78.390 27.840 -7.140 fwd -0.522 0.812 0.260 aspect 1.777 lens 0.883 1.569
+[19:47:25.775]   b11 @32    (336-byte buffer, columns) seen   50 x, VS a1ea87bd, (no names): pos -78.390 27.840 -7.140 fwd -0.522 0.812 0.260 aspect 1.777 lens 0.883 1.569
+[19:47:27.494] stats/5s: draws immediate 74863 deferred 197189, ExecuteCommandList 2037, contexts 8; new VS with named matrices 0, stripped 0, no matrices 0; constant buffers copied 1166, Map 8989, UpdateSubresource 3078 (boxed 0), too big 0, VSSetCB1 with an offset 0
+[19:47:27.775] scan 26: 2048 buffer copies scanned, 4 camera-shaped place(s), most used first:
+[19:47:27.775]   b0 @0     (544-byte buffer, columns) seen 2631 x, VS c81169f1, (no names): pos -0.000 -0.000 -0.000 fwd 0.000 0.000 -1.000 aspect 1.777 lens 0.883 1.569
+[19:47:27.775]   b1 @64    (144-byte buffer, columns) seen  112 x, VS 11c8871c, (no names): pos -0.000 -0.000 -0.000 fwd 0.000 0.000 -1.000 aspect 1.777 lens 0.883 1.569
+[19:47:27.775]   b1 @0     (144-byte buffer, columns) seen  112 x, VS 11c8871c, (no names): pos -78.390 27.840 -7.140 fwd -0.522 0.812 0.260 aspect 1.777 lens 0.883 1.569
+[19:47:27.775]   b11 @32    (336-byte buffer, columns) seen   50 x, VS a1ea87bd, (no names): pos -78.390 27.840 -7.140 fwd -0.522 0.812 0.260 aspect 1.777 lens 0.883 1.569
+[19:47:29.776] scan 27: 2048 buffer copies scanned, 4 camera-shaped place(s), most used first:
+[19:47:29.776]   b0 @0     (544-byte buffer, columns) seen 2643 x, VS c81169f1, (no names): pos -0.000 -0.000 -0.000 fwd 0.000 0.000 -1.000 aspect 1.777 lens 0.883 1.569
+[19:47:29.776]   b1 @64    (144-byte buffer, columns) seen  112 x, VS 11c8871c, (no names): pos -0.000 -0.000 -0.000 fwd 0.000 0.000 -1.000 aspect 1.777 lens 0.883 1.569
+[19:47:29.776]   b1 @0     (144-byte buffer, columns) seen  112 x, VS 11c8871c, (no names): pos -78.390 27.840 -7.140 fwd -0.522 0.812 0.260 aspect 1.777 lens 0.883 1.569
+[19:47:29.776]   b11 @32    (336-byte buffer, columns) seen   55 x, VS a1ea87bd, (no names): pos -78.390 27.840 -7.140 fwd -0.522 0.812 0.260 aspect 1.777 lens 0.883 1.569
+[19:47:31.776] scan 28: 2048 buffer copies scanned, 4 camera-shaped place(s), most used first:
+[19:47:31.776]   b0 @0     (544-byte buffer, columns) seen 2626 x, VS c81169f1, (no names): pos -0.000 -0.000 -0.000 fwd 0.000 0.000 -1.000 aspect 1.777 lens 0.883 1.569
+[19:47:31.776]   b1 @64    (144-byte buffer, columns) seen  112 x, VS 11c8871c, (no names): pos -0.000 -0.000 -0.000 fwd 0.000 0.000 -1.000 aspect 1.777 lens 0.883 1.569
+[19:47:31.776]   b1 @0     (144-byte buffer, columns) seen  112 x, VS 11c8871c, (no names): pos -78.390 27.840 -7.140 fwd -0.522 0.812 0.260 aspect 1.777 lens 0.883 1.569
+[19:47:31.776]   b11 @32    (336-byte buffer, columns) seen   50 x, VS a1ea87bd, (no names): pos -78.390 27.840 -7.140 fwd -0.522 0.812 0.260 aspect 1.777 lens 0.883 1.569
+[19:47:32.495] stats/5s: draws immediate 74494 deferred 195156, ExecuteCommandList 2016, contexts 8; new VS with named matrices 0, stripped 0, no matrices 0; constant buffers copied 1167, Map 13818, UpdateSubresource 3042 (boxed 0), too big 0, VSSetCB1 with an offset 0
+[19:47:33.776] scan 29: 2048 buffer copies scanned, 4 camera-shaped place(s), most used first:
+[19:47:33.776]   b0 @0     (544-byte buffer, columns) seen 2596 x, VS 97fa8170, (no names): pos -0.000 -0.000 -0.000 fwd 0.000 0.000 -1.000 aspect 1.777 lens 0.883 1.569
+[19:47:33.776]   b1 @64    (144-byte buffer, columns) seen  112 x, VS 11c8871c, (no names): pos -0.000 -0.000 -0.000 fwd 0.000 0.000 -1.000 aspect 1.777 lens 0.883 1.569
+[19:47:33.776]   b1 @0     (144-byte buffer, columns) seen  112 x, VS 11c8871c, (no names): pos -78.390 27.840 -7.140 fwd -0.522 0.812 0.260 aspect 1.777 lens 0.883 1.569
+[19:47:33.776]   b11 @32    (336-byte buffer, columns) seen   50 x, VS a1ea87bd, (no names): pos -78.390 27.840 -7.140 fwd -0.522 0.812 0.260 aspect 1.777 lens 0.883 1.569
+[19:47:35.775] scan 30: 2048 buffer copies scanned, 4 camera-shaped place(s), most used first:
+[19:47:35.775]   b0 @0     (544-byte buffer, columns) seen 2645 x, VS c81169f1, (no names): pos -0.000 -0.000 -0.000 fwd 0.000 0.000 -1.000 aspect 1.777 lens 0.883 1.569
+[19:47:35.775]   b1 @64    (144-byte buffer, columns) seen  112 x, VS 11c8871c, (no names): pos -0.000 -0.000 -0.000 fwd 0.000 0.000 -1.000 aspect 1.777 lens 0.883 1.569
+[19:47:35.775]   b1 @0     (144-byte buffer, columns) seen  112 x, VS 11c8871c, (no names): pos -78.390 27.840 -7.140 fwd -0.522 0.812 0.260 aspect 1.777 lens 0.883 1.569
+[19:47:35.775]   b11 @32    (336-byte buffer, columns) seen   50 x, VS a1ea87bd, (no names): pos -78.390 27.840 -7.140 fwd -0.522 0.812 0.260 aspect 1.777 lens 0.883 1.569
+[19:47:37.495] stats/5s: draws immediate 75166 deferred 198518, ExecuteCommandList 2044, contexts 8; new VS with named matrices 0, stripped 0, no matrices 0; constant buffers copied 1167, Map 9074, UpdateSubresource 3078 (boxed 0), too big 0, VSSetCB1 with an offset 0
+[19:47:37.776] scan 31: 2048 buffer copies scanned, 4 camera-shaped place(s), most used first:
+[19:47:37.776]   b0 @0     (544-byte buffer, columns) seen 2642 x, VS c81169f1, (no names): pos -0.000 -0.000 -0.000 fwd 0.000 0.000 -1.000 aspect 1.777 lens 0.883 1.569
+[19:47:37.776]   b1 @64    (144-byte buffer, columns) seen  112 x, VS 11c8871c, (no names): pos -0.000 -0.000 -0.000 fwd 0.000 0.000 -1.000 aspect 1.777 lens 0.883 1.569
+[19:47:37.776]   b1 @0     (144-byte buffer, columns) seen  112 x, VS 11c8871c, (no names): pos -78.390 27.840 -7.140 fwd -0.522 0.812 0.260 aspect 1.777 lens 0.883 1.569
+[19:47:37.776]   b11 @32    (336-byte buffer, columns) seen   50 x, VS a1ea87bd, (no names): pos -78.390 27.840 -7.140 fwd -0.522 0.812 0.260 aspect 1.777 lens 0.883 1.569
+[19:47:39.775] scan 32: 2048 buffer copies scanned, 4 camera-shaped place(s), most used first:
+[19:47:39.775]   b0 @0     (544-byte buffer, columns) seen 2627 x, VS c81169f1, (no names): pos -0.000 -0.000 -0.000 fwd 0.000 0.000 -1.000 aspect 1.777 lens 0.883 1.569
+[19:47:39.775]   b1 @64    (144-byte buffer, columns) seen  112 x, VS 11c8871c, (no names): pos -0.000 -0.000 -0.000 fwd 0.000 0.000 -1.000 aspect 1.777 lens 0.883 1.569
+[19:47:39.775]   b1 @0     (144-byte buffer, columns) seen  112 x, VS 11c8871c, (no names): pos -78.390 27.840 -7.140 fwd -0.522 0.812 0.260 aspect 1.777 lens 0.883 1.569
+[19:47:39.775]   b11 @32    (336-byte buffer, columns) seen   50 x, VS a1ea87bd, (no names): pos -78.390 27.840 -7.140 fwd -0.522 0.812 0.260 aspect 1.777 lens 0.883 1.569
+[19:47:41.775] scan 33: 2048 buffer copies scanned, 4 camera-shaped place(s), most used first:
+[19:47:41.775]   b0 @0     (544-byte buffer, columns) seen 2641 x, VS 97fa8170, (no names): pos -0.000 -0.000 -0.000 fwd 0.000 0.000 -1.000 aspect 1.777 lens 0.883 1.569
+[19:47:41.775]   b1 @64    (144-byte buffer, columns) seen  112 x, VS 11c8871c, (no names): pos -0.000 -0.000 -0.000 fwd 0.000 0.000 -1.000 aspect 1.777 lens 0.883 1.569
+[19:47:41.775]   b1 @0     (144-byte buffer, columns) seen  112 x, VS 11c8871c, (no names): pos -78.390 27.840 -7.140 fwd -0.522 0.812 0.260 aspect 1.777 lens 0.883 1.569
+[19:47:41.775]   b11 @32    (336-byte buffer, columns) seen   50 x, VS a1ea87bd, (no names): pos -78.390 27.840 -7.140 fwd -0.522 0.812 0.260 aspect 1.777 lens 0.883 1.569
+[19:47:42.495] stats/5s: draws immediate 74120 deferred 195143, ExecuteCommandList 2016, contexts 8; new VS with named matrices 0, stripped 0, no matrices 0; constant buffers copied 1167, Map 13767, UpdateSubresource 3042 (boxed 0), too big 0, VSSetCB1 with an offset 0
+[19:47:43.776] scan 34: 2048 buffer copies scanned, 4 camera-shaped place(s), most used first:
+[19:47:43.776]   b0 @0     (544-byte buffer, columns) seen 2620 x, VS 97fa8170, (no names): pos -0.000 -0.000 -0.000 fwd 0.000 0.000 -1.000 aspect 1.777 lens 0.883 1.569
+[19:47:43.776]   b1 @64    (144-byte buffer, columns) seen  112 x, VS 11c8871c, (no names): pos -0.000 -0.000 -0.000 fwd 0.000 0.000 -1.000 aspect 1.777 lens 0.883 1.569
+[19:47:43.776]   b1 @0     (144-byte buffer, columns) seen  112 x, VS 11c8871c, (no names): pos -78.390 27.840 -7.140 fwd -0.522 0.812 0.260 aspect 1.777 lens 0.883 1.569
+[19:47:43.776]   b11 @32    (336-byte buffer, columns) seen   50 x, VS a1ea87bd, (no names): pos -78.390 27.840 -7.140 fwd -0.522 0.812 0.260 aspect 1.777 lens 0.883 1.569
+[19:47:45.775] scan 35: 2048 buffer copies scanned, 4 camera-shaped place(s), most used first:
+[19:47:45.775]   b0 @0     (544-byte buffer, columns) seen 2637 x, VS c81169f1, (no names): pos -0.000 -0.000 -0.000 fwd 0.000 0.000 -1.000 aspect 1.777 lens 0.883 1.569
+[19:47:45.775]   b1 @64    (144-byte buffer, columns) seen  112 x, VS 11c8871c, (no names): pos -0.000 -0.000 -0.000 fwd 0.000 0.000 -1.000 aspect 1.777 lens 0.883 1.569
+[19:47:45.775]   b1 @0     (144-byte buffer, columns) seen  112 x, VS 11c8871c, (no names): pos -78.390 27.840 -7.140 fwd -0.522 0.812 0.260 aspect 1.777 lens 0.883 1.569
+[19:47:45.775]   b11 @32    (336-byte buffer, columns) seen   50 x, VS a1ea87bd, (no names): pos -78.390 27.840 -7.140 fwd -0.522 0.812 0.260 aspect 1.777 lens 0.883 1.569
+[19:47:47.495] stats/5s: draws immediate 75420 deferred 197905, ExecuteCommandList 2051, contexts 8; new VS with named matrices 0, stripped 0, no matrices 0; constant buffers copied 1167, Map 9135, UpdateSubresource 3078 (boxed 0), too big 0, VSSetCB1 with an offset 0
+[19:47:47.775] scan 36: 2048 buffer copies scanned, 4 camera-shaped place(s), most used first:
+[19:47:47.775]   b0 @0     (544-byte buffer, columns) seen 2640 x, VS c81169f1, (no names): pos -0.000 -0.000 -0.000 fwd 0.000 0.000 -1.000 aspect 1.777 lens 0.883 1.569
+[19:47:47.775]   b1 @64    (144-byte buffer, columns) seen  112 x, VS 11c8871c, (no names): pos -0.000 -0.000 -0.000 fwd 0.000 0.000 -1.000 aspect 1.777 lens 0.883 1.569
+[19:47:47.775]   b1 @0     (144-byte buffer, columns) seen  112 x, VS 11c8871c, (no names): pos -78.390 27.840 -7.140 fwd -0.522 0.812 0.260 aspect 1.777 lens 0.883 1.569
+[19:47:47.775]   b11 @32    (336-byte buffer, columns) seen   50 x, VS a1ea87bd, (no names): pos -78.390 27.840 -7.140 fwd -0.522 0.812 0.260 aspect 1.777 lens 0.883 1.569
+[19:47:49.776] scan 37: 2048 buffer copies scanned, 4 camera-shaped place(s), most used first:
+[19:47:49.776]   b0 @0     (544-byte buffer, columns) seen 2648 x, VS c81169f1, (no names): pos -0.000 -0.000 -0.000 fwd 0.000 0.000 -1.000 aspect 1.777 lens 0.883 1.569
+[19:47:49.776]   b1 @64    (144-byte buffer, columns) seen  112 x, VS 11c8871c, (no names): pos -0.000 -0.000 -0.000 fwd 0.000 0.000 -1.000 aspect 1.777 lens 0.883 1.569
+[19:47:49.776]   b1 @0     (144-byte buffer, columns) seen  112 x, VS 11c8871c, (no names): pos -78.390 27.840 -7.140 fwd -0.522 0.812 0.260 aspect 1.777 lens 0.883 1.569
+[19:47:49.776]   b11 @32    (336-byte buffer, columns) seen   50 x, VS a1ea87bd, (no names): pos -78.390 27.840 -7.140 fwd -0.522 0.812 0.260 aspect 1.777 lens 0.883 1.569
+[19:47:51.776] scan 38: 2048 buffer copies scanned, 4 camera-shaped place(s), most used first:
+[19:47:51.776]   b0 @0     (544-byte buffer, columns) seen 2639 x, VS c81169f1, (no names): pos -0.000 -0.000 -0.000 fwd 0.000 0.000 -1.000 aspect 1.777 lens 0.883 1.569
+[19:47:51.776]   b1 @64    (144-byte buffer, columns) seen  112 x, VS 11c8871c, (no names): pos -0.000 -0.000 -0.000 fwd 0.000 0.000 -1.000 aspect 1.777 lens 0.883 1.569
+[19:47:51.776]   b1 @0     (144-byte buffer, columns) seen  112 x, VS 11c8871c, (no names): pos -78.390 27.840 -7.140 fwd -0.522 0.812 0.260 aspect 1.777 lens 0.883 1.569
+[19:47:51.776]   b11 @32    (336-byte buffer, columns) seen   50 x, VS a1ea87bd, (no names): pos -78.390 27.840 -7.140 fwd -0.522 0.812 0.260 aspect 1.777 lens 0.883 1.569
+[19:47:52.495] stats/5s: draws immediate 74319 deferred 194556, ExecuteCommandList 2009, contexts 8; new VS with named matrices 0, stripped 0, no matrices 0; constant buffers copied 1167, Map 13845, UpdateSubresource 3042 (boxed 0), too big 0, VSSetCB1 with an offset 0
+[19:47:53.776] scan 39: 2048 buffer copies scanned, 4 camera-shaped place(s), most used first:
+[19:47:53.776]   b0 @0     (544-byte buffer, columns) seen 1937 x, VS c81169f1, (no names): pos -0.000 -0.000 -0.000 fwd 0.000 0.000 -1.000 aspect 1.777 lens 0.883 1.569
+[19:47:53.776]   b1 @64    (144-byte buffer, columns) seen  112 x, VS 11c8871c, (no names): pos -0.000 -0.000 -0.000 fwd 0.000 0.000 -1.000 aspect 1.777 lens 0.883 1.569
+[19:47:53.776]   b1 @0     (144-byte buffer, columns) seen  112 x, VS 11c8871c, (no names): pos -78.390 27.840 -7.140 fwd -0.522 0.812 0.260 aspect 1.777 lens 0.883 1.569
+[19:47:53.776]   b11 @32    (336-byte buffer, columns) seen   50 x, VS a1ea87bd, (no names): pos -78.390 27.840 -7.140 fwd -0.522 0.812 0.260 aspect 1.777 lens 0.883 1.569
+[19:47:55.776] scan 40: 2048 buffer copies scanned, 4 camera-shaped place(s), most used first:
+[19:47:55.776]   b0 @0     (544-byte buffer, columns) seen 2663 x, VS c81169f1, (no names): pos -0.000 -0.000 -0.000 fwd 0.000 0.000 -1.000 aspect 1.777 lens 0.883 1.569
+[19:47:55.776]   b1 @64    (144-byte buffer, columns) seen  112 x, VS 11c8871c, (no names): pos -0.000 -0.000 -0.000 fwd 0.000 0.000 -1.000 aspect 1.777 lens 0.883 1.569
+[19:47:55.776]   b1 @0     (144-byte buffer, columns) seen  112 x, VS 11c8871c, (no names): pos -78.390 27.840 -7.140 fwd -0.522 0.812 0.260 aspect 1.777 lens 0.883 1.569
+[19:47:55.776]   b11 @32    (336-byte buffer, columns) seen   50 x, VS a1ea87bd, (no names): pos -78.390 27.840 -7.140 fwd -0.522 0.812 0.260 aspect 1.777 lens 0.883 1.569
+[19:47:57.495] stats/5s: draws immediate 75114 deferred 197790, ExecuteCommandList 2044, contexts 8; new VS with named matrices 0, stripped 0, no matrices 0; constant buffers copied 1167, Map 9176, UpdateSubresource 3078 (boxed 0), too big 0, VSSetCB1 with an offset 0
+[19:47:57.776] scan 41: 2048 buffer copies scanned, 4 camera-shaped place(s), most used first:
+[19:47:57.776]   b0 @0     (544-byte buffer, columns) seen 2626 x, VS c81169f1, (no names): pos -0.000 -0.000 -0.000 fwd 0.000 0.000 -1.000 aspect 1.777 lens 0.883 1.569
+[19:47:57.776]   b1 @64    (144-byte buffer, columns) seen  112 x, VS 11c8871c, (no names): pos -0.000 -0.000 -0.000 fwd 0.000 0.000 -1.000 aspect 1.777 lens 0.883 1.569
+[19:47:57.776]   b1 @0     (144-byte buffer, columns) seen  112 x, VS 11c8871c, (no names): pos -78.390 27.840 -7.140 fwd -0.522 0.812 0.260 aspect 1.777 lens 0.883 1.569
+[19:47:57.776]   b11 @32    (336-byte buffer, columns) seen   50 x, VS a1ea87bd, (no names): pos -78.390 27.840 -7.140 fwd -0.522 0.812 0.260 aspect 1.777 lens 0.883 1.569
+[19:47:59.776] scan 42: 2048 buffer copies scanned, 4 camera-shaped place(s), most used first:
+[19:47:59.776]   b0 @0     (544-byte buffer, columns) seen 1875 x, VS c81169f1, (no names): pos -0.000 -0.000 -0.000 fwd 0.000 0.000 -1.000 aspect 1.777 lens 0.883 1.569
+[19:47:59.776]   b1 @64    (144-byte buffer, columns) seen   82 x, VS 11c8871c, (no names): pos -0.000 -0.000 -0.000 fwd 0.000 0.000 -1.000 aspect 1.777 lens 0.883 1.569
+[19:47:59.776]   b1 @0     (144-byte buffer, columns) seen   82 x, VS 11c8871c, (no names): pos -78.390 27.840 -7.140 fwd -0.522 0.812 0.260 aspect 1.777 lens 0.883 1.569
+[19:47:59.776]   b11 @32    (336-byte buffer, columns) seen   55 x, VS a1ea87bd, (no names): pos -78.390 27.840 -7.140 fwd -0.522 0.812 0.260 aspect 1.777 lens 0.883 1.569
+[19:48:01.776] scan 43: 2048 buffer copies scanned, 4 camera-shaped place(s), most used first:
+[19:48:01.776]   b0 @0     (544-byte buffer, columns) seen 2613 x, VS 97fa8170, (no names): pos -0.000 -0.000 -0.000 fwd 0.000 0.000 -1.000 aspect 1.777 lens 0.883 1.569
+[19:48:01.776]   b1 @64    (144-byte buffer, columns) seen  112 x, VS 11c8871c, (no names): pos -0.000 -0.000 -0.000 fwd 0.000 0.000 -1.000 aspect 1.777 lens 0.883 1.569
+[19:48:01.776]   b1 @0     (144-byte buffer, columns) seen  112 x, VS 11c8871c, (no names): pos -78.390 27.840 -7.140 fwd -0.522 0.812 0.260 aspect 1.777 lens 0.883 1.569
+[19:48:01.776]   b11 @32    (336-byte buffer, columns) seen   50 x, VS a1ea87bd, (no names): pos -78.390 27.840 -7.140 fwd -0.522 0.812 0.260 aspect 1.777 lens 0.883 1.569
+[19:48:02.495] stats/5s: draws immediate 74259 deferred 195155, ExecuteCommandList 2016, contexts 8; new VS with named matrices 0, stripped 0, no matrices 0; constant buffers copied 1167, Map 13754, UpdateSubresource 3042 (boxed 0), too big 0, VSSetCB1 with an offset 0
+[19:48:03.777] scan 44: 2048 buffer copies scanned, 4 camera-shaped place(s), most used first:
+[19:48:03.777]   b0 @0     (544-byte buffer, columns) seen 2630 x, VS c81169f1, (no names): pos -0.000 -0.000 -0.000 fwd 0.000 0.000 -1.000 aspect 1.777 lens 0.883 1.569
+[19:48:03.777]   b1 @64    (144-byte buffer, columns) seen  112 x, VS 11c8871c, (no names): pos -0.000 -0.000 -0.000 fwd 0.000 0.000 -1.000 aspect 1.777 lens 0.883 1.569
+[19:48:03.777]   b1 @0     (144-byte buffer, columns) seen  112 x, VS 11c8871c, (no names): pos -78.390 27.840 -7.140 fwd -0.522 0.812 0.260 aspect 1.777 lens 0.883 1.569
+[19:48:03.777]   b11 @32    (336-byte buffer, columns) seen   50 x, VS a1ea87bd, (no names): pos -78.390 27.840 -7.140 fwd -0.522 0.812 0.260 aspect 1.777 lens 0.883 1.569
+[19:48:05.777] scan 45: 2048 buffer copies scanned, 4 camera-shaped place(s), most used first:
+[19:48:05.777]   b0 @0     (544-byte buffer, columns) seen 1955 x, VS c81169f1, (no names): pos -0.000 -0.000 -0.000 fwd 0.000 0.000 -1.000 aspect 1.777 lens 0.883 1.569
+[19:48:05.777]   b1 @64    (144-byte buffer, columns) seen  112 x, VS 11c8871c, (no names): pos -0.000 -0.000 -0.000 fwd 0.000 0.000 -1.000 aspect 1.777 lens 0.883 1.569
+[19:48:05.777]   b1 @0     (144-byte buffer, columns) seen  112 x, VS 11c8871c, (no names): pos -78.390 27.840 -7.140 fwd -0.522 0.812 0.260 aspect 1.777 lens 0.883 1.569
+[19:48:05.777]   b11 @32    (336-byte buffer, columns) seen   50 x, VS a1ea87bd, (no names): pos -78.390 27.840 -7.140 fwd -0.522 0.812 0.260 aspect 1.777 lens 0.883 1.569
+[19:48:07.495] stats/5s: draws immediate 75519 deferred 198285, ExecuteCommandList 2044, contexts 8; new VS with named matrices 0, stripped 0, no matrices 0; constant buffers copied 1167, Map 9191, UpdateSubresource 3078 (boxed 0), too big 0, VSSetCB1 with an offset 0
+[19:48:07.776] scan 46: 2048 buffer copies scanned, 4 camera-shaped place(s), most used first:
+[19:48:07.776]   b0 @0     (544-byte buffer, columns) seen 2636 x, VS c81169f1, (no names): pos -0.000 -0.000 -0.000 fwd 0.000 0.000 -1.000 aspect 1.777 lens 0.883 1.569
+[19:48:07.776]   b1 @64    (144-byte buffer, columns) seen  112 x, VS 11c8871c, (no names): pos -0.000 -0.000 -0.000 fwd 0.000 0.000 -1.000 aspect 1.777 lens 0.883 1.569
+[19:48:07.776]   b1 @0     (144-byte buffer, columns) seen  112 x, VS 11c8871c, (no names): pos -78.390 27.840 -7.140 fwd -0.522 0.812 0.260 aspect 1.777 lens 0.883 1.569
+[19:48:07.776]   b11 @32    (336-byte buffer, columns) seen   50 x, VS a1ea87bd, (no names): pos -78.390 27.840 -7.140 fwd -0.522 0.812 0.260 aspect 1.777 lens 0.883 1.569
+[19:48:09.776] scan 47: 2048 buffer copies scanned, 4 camera-shaped place(s), most used first:
+[19:48:09.776]   b0 @0     (544-byte buffer, columns) seen 2638 x, VS c81169f1, (no names): pos -0.000 -0.000 -0.000 fwd 0.000 0.000 -1.000 aspect 1.777 lens 0.883 1.569
+[19:48:09.776]   b1 @64    (144-byte buffer, columns) seen  112 x, VS 11c8871c, (no names): pos -0.000 -0.000 -0.000 fwd 0.000 0.000 -1.000 aspect 1.777 lens 0.883 1.569
+[19:48:09.776]   b1 @0     (144-byte buffer, columns) seen  112 x, VS 11c8871c, (no names): pos -78.390 27.840 -7.140 fwd -0.522 0.812 0.260 aspect 1.777 lens 0.883 1.569
+[19:48:09.776]   b11 @32    (336-byte buffer, columns) seen   50 x, VS a1ea87bd, (no names): pos -78.390 27.840 -7.140 fwd -0.522 0.812 0.260 aspect 1.777 lens 0.883 1.569
+[19:48:11.776] scan 48: 2048 buffer copies scanned, 4 camera-shaped place(s), most used first:
+[19:48:11.776]   b0 @0     (544-byte buffer, columns) seen 2639 x, VS 97fa8170, (no names): pos -0.000 -0.000 -0.000 fwd 0.000 0.000 -1.000 aspect 1.777 lens 0.883 1.569
+[19:48:11.776]   b1 @64    (144-byte buffer, columns) seen  112 x, VS 11c8871c, (no names): pos -0.000 -0.000 -0.000 fwd 0.000 0.000 -1.000 aspect 1.777 lens 0.883 1.569
+[19:48:11.776]   b1 @0     (144-byte buffer, columns) seen  112 x, VS 11c8871c, (no names): pos -78.390 27.840 -7.140 fwd -0.522 0.812 0.260 aspect 1.777 lens 0.883 1.569
+[19:48:11.776]   b11 @32    (336-byte buffer, columns) seen   50 x, VS a1ea87bd, (no names): pos -78.390 27.840 -7.140 fwd -0.522 0.812 0.260 aspect 1.777 lens 0.883 1.569
+[19:48:12.495] stats/5s: draws immediate 74078 deferred 194738, ExecuteCommandList 2016, contexts 8; new VS with named matrices 0, stripped 0, no matrices 0; constant buffers copied 1167, Map 13752, UpdateSubresource 3042 (boxed 0), too big 0, VSSetCB1 with an offset 0
+[19:48:13.777] scan 49: 2048 buffer copies scanned, 4 camera-shaped place(s), most used first:
+[19:48:13.777]   b0 @0     (544-byte buffer, columns) seen 2624 x, VS 97fa8170, (no names): pos -0.000 -0.000 -0.000 fwd 0.000 0.000 -1.000 aspect 1.777 lens 0.883 1.569
+[19:48:13.777]   b1 @64    (144-byte buffer, columns) seen  112 x, VS 11c8871c, (no names): pos -0.000 -0.000 -0.000 fwd 0.000 0.000 -1.000 aspect 1.777 lens 0.883 1.569
+[19:48:13.777]   b1 @0     (144-byte buffer, columns) seen  112 x, VS 11c8871c, (no names): pos -78.390 27.840 -7.140 fwd -0.522 0.812 0.260 aspect 1.777 lens 0.883 1.569
+[19:48:13.777]   b11 @32    (336-byte buffer, columns) seen   50 x, VS a1ea87bd, (no names): pos -78.390 27.840 -7.140 fwd -0.522 0.812 0.260 aspect 1.777 lens 0.883 1.569
+[19:48:15.776] scan 50: 2048 buffer copies scanned, 4 camera-shaped place(s), most used first:
+[19:48:15.776]   b0 @0     (544-byte buffer, columns) seen 2640 x, VS c81169f1, (no names): pos -0.000 -0.000 -0.000 fwd 0.000 0.000 -1.000 aspect 1.777 lens 0.883 1.569
+[19:48:15.776]   b1 @64    (144-byte buffer, columns) seen  112 x, VS 11c8871c, (no names): pos -0.000 -0.000 -0.000 fwd 0.000 0.000 -1.000 aspect 1.777 lens 0.883 1.569
+[19:48:15.776]   b1 @0     (144-byte buffer, columns) seen  112 x, VS 11c8871c, (no names): pos -78.390 27.840 -7.140 fwd -0.522 0.812 0.260 aspect 1.777 lens 0.883 1.569
+[19:48:15.776]   b11 @32    (336-byte buffer, columns) seen   50 x, VS a1ea87bd, (no names): pos -78.390 27.840 -7.140 fwd -0.522 0.812 0.260 aspect 1.777 lens 0.883 1.569
+[19:48:17.495] stats/5s: draws immediate 75190 deferred 198244, ExecuteCommandList 2044, contexts 8; new VS with named matrices 0, stripped 0, no matrices 0; constant buffers copied 1167, Map 9134, UpdateSubresource 3078 (boxed 0), too big 0, VSSetCB1 with an offset 0
+[19:48:17.776] scan 51: 2048 buffer copies scanned, 4 camera-shaped place(s), most used first:
+[19:48:17.776]   b0 @0     (544-byte buffer, columns) seen 2626 x, VS c81169f1, (no names): pos -0.000 -0.000 -0.000 fwd 0.000 0.000 -1.000 aspect 1.777 lens 0.883 1.569
+[19:48:17.776]   b1 @64    (144-byte buffer, columns) seen  112 x, VS 11c8871c, (no names): pos -0.000 -0.000 -0.000 fwd 0.000 0.000 -1.000 aspect 1.777 lens 0.883 1.569
+[19:48:17.776]   b1 @0     (144-byte buffer, columns) seen  112 x, VS 11c8871c, (no names): pos -78.390 27.840 -7.140 fwd -0.522 0.812 0.260 aspect 1.777 lens 0.883 1.569
+[19:48:17.776]   b11 @32    (336-byte buffer, columns) seen   50 x, VS a1ea87bd, (no names): pos -78.390 27.840 -7.140 fwd -0.522 0.812 0.260 aspect 1.777 lens 0.883 1.569
+[19:48:19.777] scan 52: 2048 buffer copies scanned, 4 camera-shaped place(s), most used first:
+[19:48:19.777]   b0 @0     (544-byte buffer, columns) seen 2639 x, VS 97fa8170, (no names): pos -0.000 -0.000 -0.000 fwd 0.000 0.000 -1.000 aspect 1.777 lens 0.883 1.569
+[19:48:19.777]   b1 @64    (144-byte buffer, columns) seen  112 x, VS 11c8871c, (no names): pos -0.000 -0.000 -0.000 fwd 0.000 0.000 -1.000 aspect 1.777 lens 0.883 1.569
+[19:48:19.777]   b1 @0     (144-byte buffer, columns) seen  112 x, VS 11c8871c, (no names): pos -78.390 27.840 -7.140 fwd -0.522 0.812 0.260 aspect 1.777 lens 0.883 1.569
+[19:48:19.777]   b11 @32    (336-byte buffer, columns) seen   55 x, VS a1ea87bd, (no names): pos -78.390 27.840 -7.140 fwd -0.522 0.812 0.260 aspect 1.777 lens 0.883 1.569
+[19:48:21.777] scan 53: 2048 buffer copies scanned, 4 camera-shaped place(s), most used first:
+[19:48:21.777]   b0 @0     (544-byte buffer, columns) seen 2641 x, VS c81169f1, (no names): pos -0.000 -0.000 -0.000 fwd 0.000 0.000 -1.000 aspect 1.777 lens 0.883 1.569
+[19:48:21.777]   b1 @64    (144-byte buffer, columns) seen  112 x, VS 11c8871c, (no names): pos -0.000 -0.000 -0.000 fwd 0.000 0.000 -1.000 aspect 1.777 lens 0.883 1.569
+[19:48:21.777]   b1 @0     (144-byte buffer, columns) seen  112 x, VS 11c8871c, (no names): pos -78.390 27.840 -7.140 fwd -0.522 0.812 0.260 aspect 1.777 lens 0.883 1.569
+[19:48:21.777]   b11 @32    (336-byte buffer, columns) seen   50 x, VS a1ea87bd, (no names): pos -78.390 27.840 -7.140 fwd -0.522 0.812 0.260 aspect 1.777 lens 0.883 1.569
+[19:48:22.495] stats/5s: draws immediate 74579 deferred 194778, ExecuteCommandList 2016, contexts 8; new VS with named matrices 0, stripped 0, no matrices 0; constant buffers copied 1167, Map 13771, UpdateSubresource 3042 (boxed 0), too big 0, VSSetCB1 with an offset 0
+[19:48:23.777] scan 54: 2048 buffer copies scanned, 4 camera-shaped place(s), most used first:
+[19:48:23.777]   b0 @0     (544-byte buffer, columns) seen 1892 x, VS 97fa8170, (no names): pos -0.000 -0.000 -0.000 fwd 0.000 0.000 -1.000 aspect 1.777 lens 0.883 1.569
+[19:48:23.777]   b1 @64    (144-byte buffer, columns) seen   82 x, VS 11c8871c, (no names): pos -0.000 -0.000 -0.000 fwd 0.000 0.000 -1.000 aspect 1.777 lens 0.883 1.569
+[19:48:23.777]   b1 @0     (144-byte buffer, columns) seen   82 x, VS 11c8871c, (no names): pos -78.390 27.840 -7.140 fwd -0.522 0.812 0.260 aspect 1.777 lens 0.883 1.569
+[19:48:23.777]   b11 @32    (336-byte buffer, columns) seen   50 x, VS a1ea87bd, (no names): pos -78.390 27.840 -7.140 fwd -0.522 0.812 0.260 aspect 1.777 lens 0.883 1.569
+[19:48:25.777] scan 55: 2048 buffer copies scanned, 4 camera-shaped place(s), most used first:
+[19:48:25.777]   b0 @0     (544-byte buffer, columns) seen 2639 x, VS c81169f1, (no names): pos -0.000 -0.000 -0.000 fwd 0.000 0.000 -1.000 aspect 1.777 lens 0.883 1.569
+[19:48:25.777]   b1 @64    (144-byte buffer, columns) seen  112 x, VS 11c8871c, (no names): pos -0.000 -0.000 -0.000 fwd 0.000 0.000 -1.000 aspect 1.777 lens 0.883 1.569
+[19:48:25.777]   b1 @0     (144-byte buffer, columns) seen  112 x, VS 11c8871c, (no names): pos -78.390 27.840 -7.140 fwd -0.522 0.812 0.260 aspect 1.777 lens 0.883 1.569
+[19:48:25.777]   b11 @32    (336-byte buffer, columns) seen   55 x, VS a1ea87bd, (no names): pos -78.390 27.840 -7.140 fwd -0.522 0.812 0.260 aspect 1.777 lens 0.883 1.569
+[19:48:27.495] stats/5s: draws immediate 75148 deferred 197867, ExecuteCommandList 2044, contexts 8; new VS with named matrices 0, stripped 0, no matrices 0; constant buffers copied 1167, Map 9164, UpdateSubresource 3078 (boxed 0), too big 0, VSSetCB1 with an offset 0
+[19:48:27.776] scan 56: 2048 buffer copies scanned, 4 camera-shaped place(s), most used first:
+[19:48:27.776]   b0 @0     (544-byte buffer, columns) seen 2651 x, VS c81169f1, (no names): pos -0.000 -0.000 -0.000 fwd 0.000 0.000 -1.000 aspect 1.777 lens 0.883 1.569
+[19:48:27.776]   b1 @64    (144-byte buffer, columns) seen  112 x, VS 11c8871c, (no names): pos -0.000 -0.000 -0.000 fwd 0.000 0.000 -1.000 aspect 1.777 lens 0.883 1.569
+[19:48:27.776]   b1 @0     (144-byte buffer, columns) seen  112 x, VS 11c8871c, (no names): pos -78.390 27.840 -7.140 fwd -0.522 0.812 0.260 aspect 1.777 lens 0.883 1.569
+[19:48:27.776]   b11 @32    (336-byte buffer, columns) seen   50 x, VS a1ea87bd, (no names): pos -78.390 27.840 -7.140 fwd -0.522 0.812 0.260 aspect 1.777 lens 0.883 1.569
+[19:48:29.777] scan 57: 2048 buffer copies scanned, 4 camera-shaped place(s), most used first:
+[19:48:29.777]   b0 @0     (544-byte buffer, columns) seen 2638 x, VS c81169f1, (no names): pos -0.000 -0.000 -0.000 fwd 0.000 0.000 -1.000 aspect 1.777 lens 0.883 1.569
+[19:48:29.777]   b1 @64    (144-byte buffer, columns) seen  112 x, VS 11c8871c, (no names): pos -0.000 -0.000 -0.000 fwd 0.000 0.000 -1.000 aspect 1.777 lens 0.883 1.569
+[19:48:29.777]   b1 @0     (144-byte buffer, columns) seen  112 x, VS 11c8871c, (no names): pos -78.390 27.840 -7.140 fwd -0.522 0.812 0.260 aspect 1.777 lens 0.883 1.569
+[19:48:29.777]   b11 @32    (336-byte buffer, columns) seen   50 x, VS a1ea87bd, (no names): pos -78.390 27.840 -7.140 fwd -0.522 0.812 0.260 aspect 1.777 lens 0.883 1.569
+[19:48:31.777] scan 58: 2048 buffer copies scanned, 4 camera-shaped place(s), most used first:
+[19:48:31.777]   b0 @0     (544-byte buffer, columns) seen 2652 x, VS c81169f1, (no names): pos -0.000 -0.000 -0.000 fwd 0.000 0.000 -1.000 aspect 1.777 lens 0.883 1.569
+[19:48:31.777]   b1 @64    (144-byte buffer, columns) seen  112 x, VS 11c8871c, (no names): pos -0.000 -0.000 -0.000 fwd 0.000 0.000 -1.000 aspect 1.777 lens 0.883 1.569
+[19:48:31.777]   b1 @0     (144-byte buffer, columns) seen  112 x, VS 11c8871c, (no names): pos -78.390 27.840 -7.140 fwd -0.522 0.812 0.260 aspect 1.777 lens 0.883 1.569
+[19:48:31.777]   b11 @32    (336-byte buffer, columns) seen   50 x, VS a1ea87bd, (no names): pos -78.390 27.840 -7.140 fwd -0.522 0.812 0.260 aspect 1.777 lens 0.883 1.569
+[19:48:32.495] stats/5s: draws immediate 74031 deferred 195155, ExecuteCommandList 2016, contexts 8; new VS with named matrices 0, stripped 0, no matrices 0; constant buffers copied 1167, Map 13754, UpdateSubresource 3042 (boxed 0), too big 0, VSSetCB1 with an offset 0
+[19:48:33.777] scan 59: 2048 buffer copies scanned, 4 camera-shaped place(s), most used first:
+[19:48:33.777]   b0 @0     (544-byte buffer, columns) seen 2310 x, VS 97fa8170, (no names): pos -0.000 -0.000 -0.000 fwd 0.000 0.000 -1.000 aspect 1.777 lens 0.883 1.569
+[19:48:33.777]   b1 @64    (144-byte buffer, columns) seen   80 x, VS 11c8871c, (no names): pos -0.000 -0.000 -0.000 fwd 0.000 0.000 -1.000 aspect 1.777 lens 0.883 1.569
+[19:48:33.777]   b1 @0     (144-byte buffer, columns) seen   80 x, VS 11c8871c, (no names): pos -78.390 27.840 -7.140 fwd -0.522 0.812 0.260 aspect 1.777 lens 0.883 1.569
+[19:48:33.777]   b11 @32    (336-byte buffer, columns) seen   50 x, VS a1ea87bd, (no names): pos -78.390 27.840 -7.140 fwd -0.522 0.812 0.260 aspect 1.777 lens 0.883 1.569
+[19:48:35.777] scan 60: 2048 buffer copies scanned, 4 camera-shaped place(s), most used first:
+[19:48:35.777]   b0 @0     (544-byte buffer, columns) seen 2617 x, VS c81169f1, (no names): pos -0.000 -0.000 -0.000 fwd 0.000 0.000 -1.000 aspect 1.777 lens 0.883 1.569
+[19:48:35.777]   b1 @64    (144-byte buffer, columns) seen  112 x, VS 11c8871c, (no names): pos -0.000 -0.000 -0.000 fwd 0.000 0.000 -1.000 aspect 1.777 lens 0.883 1.569
+[19:48:35.777]   b1 @0     (144-byte buffer, columns) seen  112 x, VS 11c8871c, (no names): pos -78.390 27.840 -7.140 fwd -0.522 0.812 0.260 aspect 1.777 lens 0.883 1.569
+[19:48:35.777]   b11 @32    (336-byte buffer, columns) seen   50 x, VS a1ea87bd, (no names): pos -78.390 27.840 -7.140 fwd -0.522 0.812 0.260 aspect 1.777 lens 0.883 1.569
+[19:48:37.495] stats/5s: draws immediate 75722 deferred 197867, ExecuteCommandList 2044, contexts 8; new VS with named matrices 0, stripped 0, no matrices 0; constant buffers copied 1167, Map 9050, UpdateSubresource 3078 (boxed 0), too big 0, VSSetCB1 with an offset 0
+[19:48:37.777] scan 61: 2048 buffer copies scanned, 4 camera-shaped place(s), most used first:
+[19:48:37.777]   b0 @0     (544-byte buffer, columns) seen 2643 x, VS 97fa8170, (no names): pos -0.000 -0.000 -0.000 fwd 0.000 0.000 -1.000 aspect 1.777 lens 0.883 1.569
+[19:48:37.777]   b1 @64    (144-byte buffer, columns) seen  112 x, VS 11c8871c, (no names): pos -0.000 -0.000 -0.000 fwd 0.000 0.000 -1.000 aspect 1.777 lens 0.883 1.569
+[19:48:37.777]   b1 @0     (144-byte buffer, columns) seen  112 x, VS 11c8871c, (no names): pos -78.390 27.840 -7.140 fwd -0.522 0.812 0.260 aspect 1.777 lens 0.883 1.569
+[19:48:37.777]   b11 @32    (336-byte buffer, columns) seen   50 x, VS a1ea87bd, (no names): pos -78.390 27.840 -7.140 fwd -0.522 0.812 0.260 aspect 1.777 lens 0.883 1.569
+[19:48:39.777] scan 62: 2048 buffer copies scanned, 4 camera-shaped place(s), most used first:
+[19:48:39.777]   b0 @0     (544-byte buffer, columns) seen 2627 x, VS c81169f1, (no names): pos -0.000 -0.000 -0.000 fwd 0.000 0.000 -1.000 aspect 1.777 lens 0.883 1.569
+[19:48:39.777]   b1 @64    (144-byte buffer, columns) seen  112 x, VS 11c8871c, (no names): pos -0.000 -0.000 -0.000 fwd 0.000 0.000 -1.000 aspect 1.777 lens 0.883 1.569
+[19:48:39.777]   b1 @0     (144-byte buffer, columns) seen  112 x, VS 11c8871c, (no names): pos -78.390 27.840 -7.140 fwd -0.522 0.812 0.260 aspect 1.777 lens 0.883 1.569
+[19:48:39.777]   b11 @32    (336-byte buffer, columns) seen   50 x, VS a1ea87bd, (no names): pos -78.390 27.840 -7.140 fwd -0.522 0.812 0.260 aspect 1.777 lens 0.883 1.569
+[19:48:41.776] scan 63: 2048 buffer copies scanned, 4 camera-shaped place(s), most used first:
+[19:48:41.776]   b0 @0     (544-byte buffer, columns) seen 2639 x, VS c81169f1, (no names): pos -0.000 -0.000 -0.000 fwd 0.000 0.000 -1.000 aspect 1.777 lens 0.883 1.569
+[19:48:41.776]   b1 @64    (144-byte buffer, columns) seen  112 x, VS 11c8871c, (no names): pos -0.000 -0.000 -0.000 fwd 0.000 0.000 -1.000 aspect 1.777 lens 0.883 1.569
+[19:48:41.776]   b1 @0     (144-byte buffer, columns) seen  112 x, VS 11c8871c, (no names): pos -78.390 27.840 -7.140 fwd -0.522 0.812 0.260 aspect 1.777 lens 0.883 1.569
+[19:48:41.776]   b11 @32    (336-byte buffer, columns) seen   55 x, VS a1ea87bd, (no names): pos -78.390 27.840 -7.140 fwd -0.522 0.812 0.260 aspect 1.777 lens 0.883 1.569
+[19:48:42.495] stats/5s: draws immediate 74178 deferred 195156, ExecuteCommandList 2016, contexts 8; new VS with named matrices 0, stripped 0, no matrices 0; constant buffers copied 1167, Map 13772, UpdateSubresource 3042 (boxed 0), too big 0, VSSetCB1 with an offset 0
+[19:48:43.777] scan 64: 2048 buffer copies scanned, 4 camera-shaped place(s), most used first:
+[19:48:43.777]   b0 @0     (544-byte buffer, columns) seen 2631 x, VS c81169f1, (no names): pos -0.000 -0.000 -0.000 fwd 0.000 0.000 -1.000 aspect 1.777 lens 0.883 1.569
+[19:48:43.777]   b1 @64    (144-byte buffer, columns) seen  112 x, VS 11c8871c, (no names): pos -0.000 -0.000 -0.000 fwd 0.000 0.000 -1.000 aspect 1.777 lens 0.883 1.569
+[19:48:43.777]   b1 @0     (144-byte buffer, columns) seen  112 x, VS 11c8871c, (no names): pos -78.390 27.840 -7.140 fwd -0.522 0.812 0.260 aspect 1.777 lens 0.883 1.569
+[19:48:43.777]   b11 @32    (336-byte buffer, columns) seen   50 x, VS a1ea87bd, (no names): pos -78.390 27.840 -7.140 fwd -0.522 0.812 0.260 aspect 1.777 lens 0.883 1.569
+[19:48:45.776] scan 65: 2048 buffer copies scanned, 4 camera-shaped place(s), most used first:
+[19:48:45.776]   b0 @0     (544-byte buffer, columns) seen 2636 x, VS c81169f1, (no names): pos -0.000 -0.000 -0.000 fwd 0.000 0.000 -1.000 aspect 1.777 lens 0.883 1.569
+[19:48:45.776]   b1 @64    (144-byte buffer, columns) seen  112 x, VS 11c8871c, (no names): pos -0.000 -0.000 -0.000 fwd 0.000 0.000 -1.000 aspect 1.777 lens 0.883 1.569
+[19:48:45.776]   b1 @0     (144-byte buffer, columns) seen  112 x, VS 11c8871c, (no names): pos -78.390 27.840 -7.140 fwd -0.522 0.812 0.260 aspect 1.777 lens 0.883 1.569
+[19:48:45.776]   b11 @32    (336-byte buffer, columns) seen   50 x, VS a1ea87bd, (no names): pos -78.390 27.840 -7.140 fwd -0.522 0.812 0.260 aspect 1.777 lens 0.883 1.569
+[19:48:47.496] stats/5s: draws immediate 74811 deferred 198496, ExecuteCommandList 2044, contexts 8; new VS with named matrices 0, stripped 0, no matrices 0; constant buffers copied 1167, Map 9109, UpdateSubresource 3078 (boxed 0), too big 0, VSSetCB1 with an offset 0
+[19:48:47.777] scan 66: 2048 buffer copies scanned, 4 camera-shaped place(s), most used first:
+[19:48:47.777]   b0 @0     (544-byte buffer, columns) seen 2642 x, VS c81169f1, (no names): pos -0.000 -0.000 -0.000 fwd 0.000 0.000 -1.000 aspect 1.777 lens 0.883 1.569
+[19:48:47.777]   b1 @64    (144-byte buffer, columns) seen  112 x, VS 11c8871c, (no names): pos -0.000 -0.000 -0.000 fwd 0.000 0.000 -1.000 aspect 1.777 lens 0.883 1.569
+[19:48:47.777]   b1 @0     (144-byte buffer, columns) seen  112 x, VS 11c8871c, (no names): pos -78.390 27.840 -7.140 fwd -0.522 0.812 0.260 aspect 1.777 lens 0.883 1.569
+[19:48:47.777]   b11 @32    (336-byte buffer, columns) seen   50 x, VS a1ea87bd, (no names): pos -78.390 27.840 -7.140 fwd -0.522 0.812 0.260 aspect 1.777 lens 0.883 1.569
+[19:48:49.777] scan 67: 2048 buffer copies scanned, 4 camera-shaped place(s), most used first:
+[19:48:49.777]   b0 @0     (544-byte buffer, columns) seen 2589 x, VS c81169f1, (no names): pos -0.000 -0.000 -0.000 fwd 0.000 0.000 -1.000 aspect 1.777 lens 0.883 1.569
+[19:48:49.777]   b1 @64    (144-byte buffer, columns) seen  112 x, VS 11c8871c, (no names): pos -0.000 -0.000 -0.000 fwd 0.000 0.000 -1.000 aspect 1.777 lens 0.883 1.569
+[19:48:49.777]   b1 @0     (144-byte buffer, columns) seen  112 x, VS 11c8871c, (no names): pos -78.390 27.840 -7.140 fwd -0.522 0.812 0.260 aspect 1.777 lens 0.883 1.569
+[19:48:49.777]   b11 @32    (336-byte buffer, columns) seen   55 x, VS a1ea87bd, (no names): pos -78.390 27.840 -7.140 fwd -0.522 0.812 0.260 aspect 1.777 lens 0.883 1.569
+[19:48:51.777] scan 68: 2048 buffer copies scanned, 4 camera-shaped place(s), most used first:
+[19:48:51.777]   b0 @0     (544-byte buffer, columns) seen 2635 x, VS c81169f1, (no names): pos -0.000 -0.000 -0.000 fwd 0.000 0.000 -1.000 aspect 1.777 lens 0.883 1.569
+[19:48:51.777]   b1 @64    (144-byte buffer, columns) seen  112 x, VS 11c8871c, (no names): pos -0.000 -0.000 -0.000 fwd 0.000 0.000 -1.000 aspect 1.777 lens 0.883 1.569
+[19:48:51.777]   b1 @0     (144-byte buffer, columns) seen  112 x, VS 11c8871c, (no names): pos -78.390 27.840 -7.140 fwd -0.522 0.812 0.260 aspect 1.777 lens 0.883 1.569
+[19:48:51.777]   b11 @32    (336-byte buffer, columns) seen   50 x, VS a1ea87bd, (no names): pos -78.390 27.840 -7.140 fwd -0.522 0.812 0.260 aspect 1.777 lens 0.883 1.569
+[19:48:52.496] stats/5s: draws immediate 74821 deferred 194736, ExecuteCommandList 2016, contexts 8; new VS with named matrices 0, stripped 0, no matrices 0; constant buffers copied 1167, Map 13764, UpdateSubresource 3042 (boxed 0), too big 0, VSSetCB1 with an offset 0
+[19:48:53.777] scan 69: 2048 buffer copies scanned, 4 camera-shaped place(s), most used first:
+[19:48:53.777]   b0 @0     (544-byte buffer, columns) seen 2619 x, VS 97fa8170, (no names): pos -0.000 -0.000 -0.000 fwd 0.000 0.000 -1.000 aspect 1.777 lens 0.883 1.569
+[19:48:53.777]   b1 @64    (144-byte buffer, columns) seen  112 x, VS 11c8871c, (no names): pos -0.000 -0.000 -0.000 fwd 0.000 0.000 -1.000 aspect 1.777 lens 0.883 1.569
+[19:48:53.777]   b1 @0     (144-byte buffer, columns) seen  112 x, VS 11c8871c, (no names): pos -78.390 27.840 -7.140 fwd -0.522 0.812 0.260 aspect 1.777 lens 0.883 1.569
+[19:48:53.777]   b11 @32    (336-byte buffer, columns) seen   50 x, VS a1ea87bd, (no names): pos -78.390 27.840 -7.140 fwd -0.522 0.812 0.260 aspect 1.777 lens 0.883 1.569
+[19:48:55.777] scan 70: 2048 buffer copies scanned, 4 camera-shaped place(s), most used first:
+[19:48:55.777]   b0 @0     (544-byte buffer, columns) seen 1955 x, VS c81169f1, (no names): pos -0.000 -0.000 -0.000 fwd 0.000 0.000 -1.000 aspect 1.777 lens 0.883 1.569
+[19:48:55.777]   b1 @64    (144-byte buffer, columns) seen  112 x, VS 11c8871c, (no names): pos -0.000 -0.000 -0.000 fwd 0.000 0.000 -1.000 aspect 1.777 lens 0.883 1.569
+[19:48:55.777]   b1 @0     (144-byte buffer, columns) seen  112 x, VS 11c8871c, (no names): pos -78.390 27.840 -7.140 fwd -0.522 0.812 0.260 aspect 1.777 lens 0.883 1.569
+[19:48:55.777]   b11 @32    (336-byte buffer, columns) seen   50 x, VS a1ea87bd, (no names): pos -78.390 27.840 -7.140 fwd -0.522 0.812 0.260 aspect 1.777 lens 0.883 1.569
+[19:48:57.496] stats/5s: draws immediate 75055 deferred 197658, ExecuteCommandList 2044, contexts 8; new VS with named matrices 0, stripped 0, no matrices 0; constant buffers copied 1167, Map 9120, UpdateSubresource 3078 (boxed 0), too big 0, VSSetCB1 with an offset 0
+[19:48:57.777] scan 71: 2048 buffer copies scanned, 4 camera-shaped place(s), most used first:
+[19:48:57.777]   b0 @0     (544-byte buffer, columns) seen 2629 x, VS c81169f1, (no names): pos -0.000 -0.000 -0.000 fwd 0.000 0.000 -1.000 aspect 1.777 lens 0.883 1.569
+[19:48:57.777]   b1 @64    (144-byte buffer, columns) seen  112 x, VS 11c8871c, (no names): pos -0.000 -0.000 -0.000 fwd 0.000 0.000 -1.000 aspect 1.777 lens 0.883 1.569
+[19:48:57.777]   b1 @0     (144-byte buffer, columns) seen  112 x, VS 11c8871c, (no names): pos -78.390 27.840 -7.140 fwd -0.522 0.812 0.260 aspect 1.777 lens 0.883 1.569
+[19:48:57.777]   b11 @32    (336-byte buffer, columns) seen   55 x, VS a1ea87bd, (no names): pos -78.390 27.840 -7.140 fwd -0.522 0.812 0.260 aspect 1.777 lens 0.883 1.569
+[19:48:59.777] scan 72: 2048 buffer copies scanned, 4 camera-shaped place(s), most used first:
+[19:48:59.777]   b0 @0     (544-byte buffer, columns) seen 2638 x, VS c81169f1, (no names): pos -0.000 -0.000 -0.000 fwd 0.000 0.000 -1.000 aspect 1.777 lens 0.883 1.569
+[19:48:59.777]   b1 @64    (144-byte buffer, columns) seen  112 x, VS 11c8871c, (no names): pos -0.000 -0.000 -0.000 fwd 0.000 0.000 -1.000 aspect 1.777 lens 0.883 1.569
+[19:48:59.777]   b1 @0     (144-byte buffer, columns) seen  112 x, VS 11c8871c, (no names): pos -78.390 27.840 -7.140 fwd -0.522 0.812 0.260 aspect 1.777 lens 0.883 1.569
+[19:48:59.777]   b11 @32    (336-byte buffer, columns) seen   50 x, VS a1ea87bd, (no names): pos -78.390 27.840 -7.140 fwd -0.522 0.812 0.260 aspect 1.777 lens 0.883 1.569
+[19:49:01.777] scan 73: 2048 buffer copies scanned, 4 camera-shaped place(s), most used first:
+[19:49:01.777]   b0 @0     (544-byte buffer, columns) seen 2637 x, VS c81169f1, (no names): pos -0.000 -0.000 -0.000 fwd 0.000 0.000 -1.000 aspect 1.777 lens 0.883 1.569
+[19:49:01.777]   b1 @64    (144-byte buffer, columns) seen  112 x, VS 11c8871c, (no names): pos -0.000 -0.000 -0.000 fwd 0.000 0.000 -1.000 aspect 1.777 lens 0.883 1.569
+[19:49:01.777]   b1 @0     (144-byte buffer, columns) seen  112 x, VS 11c8871c, (no names): pos -78.390 27.840 -7.140 fwd -0.522 0.812 0.260 aspect 1.777 lens 0.883 1.569
+[19:49:01.777]   b11 @32    (336-byte buffer, columns) seen   50 x, VS a1ea87bd, (no names): pos -78.390 27.840 -7.140 fwd -0.522 0.812 0.260 aspect 1.777 lens 0.883 1.569
+[19:49:02.496] stats/5s: draws immediate 73897 deferred 195810, ExecuteCommandList 2016, contexts 8; new VS with named matrices 0, stripped 0, no matrices 0; constant buffers copied 1167, Map 13786, UpdateSubresource 3042 (boxed 0), too big 0, VSSetCB1 with an offset 0
+[19:49:03.777] scan 74: 2048 buffer copies scanned, 4 camera-shaped place(s), most used first:
+[19:49:03.777]   b0 @0     (544-byte buffer, columns) seen 2614 x, VS 97fa8170, (no names): pos -0.000 -0.000 -0.000 fwd 0.000 0.000 -1.000 aspect 1.777 lens 0.883 1.569
+[19:49:03.777]   b1 @64    (144-byte buffer, columns) seen  112 x, VS 11c8871c, (no names): pos -0.000 -0.000 -0.000 fwd 0.000 0.000 -1.000 aspect 1.777 lens 0.883 1.569
+[19:49:03.777]   b1 @0     (144-byte buffer, columns) seen  112 x, VS 11c8871c, (no names): pos -78.390 27.840 -7.140 fwd -0.522 0.812 0.260 aspect 1.777 lens 0.883 1.569
+[19:49:03.777]   b11 @32    (336-byte buffer, columns) seen   55 x, VS a1ea87bd, (no names): pos -78.390 27.840 -7.140 fwd -0.522 0.812 0.260 aspect 1.777 lens 0.883 1.569
+[19:49:05.777] scan 75: 2048 buffer copies scanned, 4 camera-shaped place(s), most used first:
+[19:49:05.777]   b0 @0     (544-byte buffer, columns) seen 2635 x, VS c81169f1, (no names): pos -0.000 -0.000 -0.000 fwd 0.000 0.000 -1.000 aspect 1.777 lens 0.883 1.569
+[19:49:05.777]   b1 @64    (144-byte buffer, columns) seen  112 x, VS 11c8871c, (no names): pos -0.000 -0.000 -0.000 fwd 0.000 0.000 -1.000 aspect 1.777 lens 0.883 1.569
+[19:49:05.777]   b1 @0     (144-byte buffer, columns) seen  112 x, VS 11c8871c, (no names): pos -78.390 27.840 -7.140 fwd -0.522 0.812 0.260 aspect 1.777 lens 0.883 1.569
+[19:49:05.777]   b11 @32    (336-byte buffer, columns) seen   50 x, VS a1ea87bd, (no names): pos -78.390 27.840 -7.140 fwd -0.522 0.812 0.260 aspect 1.777 lens 0.883 1.569
+[19:49:07.497] stats/5s: draws immediate 75854 deferred 197884, ExecuteCommandList 2044, contexts 8; new VS with named matrices 0, stripped 0, no matrices 0; constant buffers copied 1167, Map 9184, UpdateSubresource 3078 (boxed 0), too big 0, VSSetCB1 with an offset 0
+[19:49:07.777] scan 76: 2048 buffer copies scanned, 4 camera-shaped place(s), most used first:
+[19:49:07.777]   b0 @0     (544-byte buffer, columns) seen 2632 x, VS c81169f1, (no names): pos -0.000 -0.000 -0.000 fwd 0.000 0.000 -1.000 aspect 1.777 lens 0.883 1.569
+[19:49:07.777]   b1 @64    (144-byte buffer, columns) seen  112 x, VS 11c8871c, (no names): pos -0.000 -0.000 -0.000 fwd 0.000 0.000 -1.000 aspect 1.777 lens 0.883 1.569
+[19:49:07.777]   b1 @0     (144-byte buffer, columns) seen  112 x, VS 11c8871c, (no names): pos -78.390 27.840 -7.140 fwd -0.522 0.812 0.260 aspect 1.777 lens 0.883 1.569
+[19:49:07.777]   b11 @32    (336-byte buffer, columns) seen   50 x, VS a1ea87bd, (no names): pos -78.390 27.840 -7.140 fwd -0.522 0.812 0.260 aspect 1.777 lens 0.883 1.569
+[19:49:09.777] scan 77: 2048 buffer copies scanned, 4 camera-shaped place(s), most used first:
+[19:49:09.777]   b0 @0     (544-byte buffer, columns) seen 2644 x, VS c81169f1, (no names): pos -0.000 -0.000 -0.000 fwd 0.000 0.000 -1.000 aspect 1.777 lens 0.883 1.569
+[19:49:09.777]   b1 @64    (144-byte buffer, columns) seen  112 x, VS 11c8871c, (no names): pos -0.000 -0.000 -0.000 fwd 0.000 0.000 -1.000 aspect 1.777 lens 0.883 1.569
+[19:49:09.777]   b1 @0     (144-byte buffer, columns) seen  112 x, VS 11c8871c, (no names): pos -78.390 27.840 -7.140 fwd -0.522 0.812 0.260 aspect 1.777 lens 0.883 1.569
+[19:49:09.777]   b11 @32    (336-byte buffer, columns) seen   50 x, VS a1ea87bd, (no names): pos -78.390 27.840 -7.140 fwd -0.522 0.812 0.260 aspect 1.777 lens 0.883 1.569
+[19:49:11.778] scan 78: 2048 buffer copies scanned, 4 camera-shaped place(s), most used first:
+[19:49:11.778]   b0 @0     (544-byte buffer, columns) seen 2636 x, VS 97fa8170, (no names): pos -0.000 -0.000 -0.000 fwd 0.000 0.000 -1.000 aspect 1.777 lens 0.883 1.569
+[19:49:11.778]   b1 @64    (144-byte buffer, columns) seen  112 x, VS 11c8871c, (no names): pos -0.000 -0.000 -0.000 fwd 0.000 0.000 -1.000 aspect 1.777 lens 0.883 1.569
+[19:49:11.778]   b1 @0     (144-byte buffer, columns) seen  112 x, VS 11c8871c, (no names): pos -78.390 27.840 -7.140 fwd -0.522 0.812 0.260 aspect 1.777 lens 0.883 1.569
+[19:49:11.778]   b11 @32    (336-byte buffer, columns) seen   50 x, VS a1ea87bd, (no names): pos -78.390 27.840 -7.140 fwd -0.522 0.812 0.260 aspect 1.777 lens 0.883 1.569
+[19:49:12.496] stats/5s: draws immediate 73826 deferred 194483, ExecuteCommandList 2016, contexts 8; new VS with named matrices 0, stripped 0, no matrices 0; constant buffers copied 1167, Map 13742, UpdateSubresource 3042 (boxed 0), too big 0, VSSetCB1 with an offset 0
+[19:49:13.778] scan 79: 2048 buffer copies scanned, 4 camera-shaped place(s), most used first:
+[19:49:13.778]   b0 @0     (544-byte buffer, columns) seen 2623 x, VS c81169f1, (no names): pos -0.000 -0.000 -0.000 fwd 0.000 0.000 -1.000 aspect 1.777 lens 0.883 1.569
+[19:49:13.778]   b1 @64    (144-byte buffer, columns) seen  112 x, VS 11c8871c, (no names): pos -0.000 -0.000 -0.000 fwd 0.000 0.000 -1.000 aspect 1.777 lens 0.883 1.569
+[19:49:13.778]   b1 @0     (144-byte buffer, columns) seen  112 x, VS 11c8871c, (no names): pos -78.390 27.840 -7.140 fwd -0.522 0.812 0.260 aspect 1.777 lens 0.883 1.569
+[19:49:13.778]   b11 @32    (336-byte buffer, columns) seen   50 x, VS a1ea87bd, (no names): pos -78.390 27.840 -7.140 fwd -0.522 0.812 0.260 aspect 1.777 lens 0.883 1.569
+[19:49:15.777] scan 80: 2048 buffer copies scanned, 4 camera-shaped place(s), most used first:
+[19:49:15.777]   b0 @0     (544-byte buffer, columns) seen 2644 x, VS c81169f1, (no names): pos -0.000 -0.000 -0.000 fwd 0.000 0.000 -1.000 aspect 1.777 lens 0.883 1.569
+[19:49:15.777]   b1 @64    (144-byte buffer, columns) seen  112 x, VS 11c8871c, (no names): pos -0.000 -0.000 -0.000 fwd 0.000 0.000 -1.000 aspect 1.777 lens 0.883 1.569
+[19:49:15.777]   b1 @0     (144-byte buffer, columns) seen  112 x, VS 11c8871c, (no names): pos -78.390 27.840 -7.140 fwd -0.522 0.812 0.260 aspect 1.777 lens 0.883 1.569
+[19:49:15.777]   b11 @32    (336-byte buffer, columns) seen   50 x, VS a1ea87bd, (no names): pos -78.390 27.840 -7.140 fwd -0.522 0.812 0.260 aspect 1.777 lens 0.883 1.569
+[19:49:17.496] stats/5s: draws immediate 75127 deferred 198309, ExecuteCommandList 2044, contexts 8; new VS with named matrices 0, stripped 0, no matrices 0; constant buffers copied 1167, Map 9117, UpdateSubresource 3078 (boxed 0), too big 0, VSSetCB1 with an offset 0
+[19:49:17.778] scan 81: 2048 buffer copies scanned, 4 camera-shaped place(s), most used first:
+[19:49:17.778]   b0 @0     (544-byte buffer, columns) seen 2642 x, VS c81169f1, (no names): pos -0.000 -0.000 -0.000 fwd 0.000 0.000 -1.000 aspect 1.777 lens 0.883 1.569
+[19:49:17.778]   b1 @64    (144-byte buffer, columns) seen  112 x, VS 11c8871c, (no names): pos -0.000 -0.000 -0.000 fwd 0.000 0.000 -1.000 aspect 1.777 lens 0.883 1.569
+[19:49:17.778]   b1 @0     (144-byte buffer, columns) seen  112 x, VS 11c8871c, (no names): pos -78.390 27.840 -7.140 fwd -0.522 0.812 0.260 aspect 1.777 lens 0.883 1.569
+[19:49:17.778]   b11 @32    (336-byte buffer, columns) seen   50 x, VS a1ea87bd, (no names): pos -78.390 27.840 -7.140 fwd -0.522 0.812 0.260 aspect 1.777 lens 0.883 1.569
+[19:49:19.778] scan 82: 2048 buffer copies scanned, 4 camera-shaped place(s), most used first:
+[19:49:19.778]   b0 @0     (544-byte buffer, columns) seen 2640 x, VS c81169f1, (no names): pos -0.000 -0.000 -0.000 fwd 0.000 0.000 -1.000 aspect 1.777 lens 0.883 1.569
+[19:49:19.778]   b1 @64    (144-byte buffer, columns) seen  112 x, VS 11c8871c, (no names): pos -0.000 -0.000 -0.000 fwd 0.000 0.000 -1.000 aspect 1.777 lens 0.883 1.569
+[19:49:19.778]   b1 @0     (144-byte buffer, columns) seen  112 x, VS 11c8871c, (no names): pos -78.390 27.840 -7.140 fwd -0.522 0.812 0.260 aspect 1.777 lens 0.883 1.569
+[19:49:19.778]   b11 @32    (336-byte buffer, columns) seen   55 x, VS a1ea87bd, (no names): pos -78.390 27.840 -7.140 fwd -0.522 0.812 0.260 aspect 1.777 lens 0.883 1.569
+[19:49:21.778] scan 83: 2048 buffer copies scanned, 4 camera-shaped place(s), most used first:
+[19:49:21.778]   b0 @0     (544-byte buffer, columns) seen 2628 x, VS c81169f1, (no names): pos -0.000 -0.000 -0.000 fwd 0.000 0.000 -1.000 aspect 1.777 lens 0.883 1.569
+[19:49:21.778]   b1 @64    (144-byte buffer, columns) seen  112 x, VS 11c8871c, (no names): pos -0.000 -0.000 -0.000 fwd 0.000 0.000 -1.000 aspect 1.777 lens 0.883 1.569
+[19:49:21.778]   b1 @0     (144-byte buffer, columns) seen  112 x, VS 11c8871c, (no names): pos -78.390 27.840 -7.140 fwd -0.522 0.812 0.260 aspect 1.777 lens 0.883 1.569
+[19:49:21.778]   b11 @32    (336-byte buffer, columns) seen   50 x, VS a1ea87bd, (no names): pos -78.390 27.840 -7.140 fwd -0.522 0.812 0.260 aspect 1.777 lens 0.883 1.569
+[19:49:22.508] stats/5s: draws immediate 74702 deferred 194714, ExecuteCommandList 2016, contexts 8; new VS with named matrices 0, stripped 0, no matrices 0; constant buffers copied 1167, Map 13800, UpdateSubresource 3042 (boxed 0), too big 0, VSSetCB1 with an offset 0
+[19:49:23.778] scan 84: 2048 buffer copies scanned, 4 camera-shaped place(s), most used first:
+[19:49:23.778]   b0 @0     (544-byte buffer, columns) seen 2574 x, VS d6cc3e4b, (no names): pos -0.000 -0.000 -0.000 fwd 0.000 0.000 -1.000 aspect 1.777 lens 0.883 1.569
+[19:49:23.778]   b1 @0     (144-byte buffer, columns) seen  112 x, VS 11c8871c, (no names): pos -78.390 27.840 -7.140 fwd -0.522 0.812 0.260 aspect 1.777 lens 0.883 1.569
+[19:49:23.778]   b1 @64    (144-byte buffer, columns) seen  112 x, VS 11c8871c, (no names): pos -0.000 -0.000 -0.000 fwd 0.000 0.000 -1.000 aspect 1.777 lens 0.883 1.569
+[19:49:23.778]   b11 @32    (336-byte buffer, columns) seen   59 x, VS a1ea87bd, (no names): pos -78.390 27.840 -7.140 fwd -0.522 0.812 0.260 aspect 1.777 lens 0.883 1.569
+[19:49:25.777] scan 85: 2048 buffer copies scanned, 4 camera-shaped place(s), most used first:
+[19:49:25.777]   b0 @0     (544-byte buffer, columns) seen 1927 x, VS c81169f1, (no names): pos -0.000 -0.000 -0.000 fwd 0.000 0.000 -1.000 aspect 1.777 lens 0.883 1.569
+[19:49:25.777]   b1 @64    (144-byte buffer, columns) seen  112 x, VS 11c8871c, (no names): pos -0.000 -0.000 -0.000 fwd 0.000 0.000 -1.000 aspect 1.777 lens 0.883 1.569
+[19:49:25.777]   b1 @0     (144-byte buffer, columns) seen  112 x, VS 11c8871c, (no names): pos -78.390 27.840 -7.140 fwd -0.522 0.812 0.260 aspect 1.777 lens 0.883 1.569
+[19:49:25.777]   b11 @32    (336-byte buffer, columns) seen   50 x, VS a1ea87bd, (no names): pos -78.390 27.840 -7.140 fwd -0.522 0.812 0.260 aspect 1.777 lens 0.883 1.569
+[19:49:27.496] stats/5s: draws immediate 75018 deferred 198003, ExecuteCommandList 2044, contexts 8; new VS with named matrices 0, stripped 0, no matrices 0; constant buffers copied 1167, Map 9133, UpdateSubresource 3078 (boxed 0), too big 0, VSSetCB1 with an offset 0
+[19:49:27.778] scan 86: 2048 buffer copies scanned, 4 camera-shaped place(s), most used first:
+[19:49:27.778]   b0 @0     (544-byte buffer, columns) seen 1954 x, VS 97fa8170, (no names): pos -0.000 -0.000 -0.000 fwd 0.000 0.000 -1.000 aspect 1.777 lens 0.883 1.569
+[19:49:27.778]   b1 @64    (144-byte buffer, columns) seen  112 x, VS 11c8871c, (no names): pos -0.000 -0.000 -0.000 fwd 0.000 0.000 -1.000 aspect 1.777 lens 0.883 1.569
+[19:49:27.778]   b1 @0     (144-byte buffer, columns) seen  112 x, VS 11c8871c, (no names): pos -78.390 27.840 -7.140 fwd -0.522 0.812 0.260 aspect 1.777 lens 0.883 1.569
+[19:49:27.778]   b11 @32    (336-byte buffer, columns) seen   50 x, VS a1ea87bd, (no names): pos -78.390 27.840 -7.140 fwd -0.522 0.812 0.260 aspect 1.777 lens 0.883 1.569
+[19:49:29.778] scan 87: 2048 buffer copies scanned, 4 camera-shaped place(s), most used first:
+[19:49:29.778]   b0 @0     (544-byte buffer, columns) seen 1848 x, VS 97fa8170, (no names): pos -0.000 -0.000 -0.000 fwd 0.000 0.000 -1.000 aspect 1.777 lens 0.883 1.569
+[19:49:29.778]   b1 @64    (144-byte buffer, columns) seen   82 x, VS 11c8871c, (no names): pos -0.000 -0.000 -0.000 fwd 0.000 0.000 -1.000 aspect 1.777 lens 0.883 1.569
+[19:49:29.778]   b1 @0     (144-byte buffer, columns) seen   82 x, VS 11c8871c, (no names): pos -78.390 27.840 -7.140 fwd -0.522 0.812 0.260 aspect 1.777 lens 0.883 1.569
+[19:49:29.778]   b11 @32    (336-byte buffer, columns) seen   50 x, VS a1ea87bd, (no names): pos -78.390 27.840 -7.140 fwd -0.522 0.812 0.260 aspect 1.777 lens 0.883 1.569
+[19:49:31.778] scan 88: 2048 buffer copies scanned, 4 camera-shaped place(s), most used first:
+[19:49:31.778]   b0 @0     (544-byte buffer, columns) seen 1910 x, VS c81169f1, (no names): pos -0.000 -0.000 -0.000 fwd 0.000 0.000 -1.000 aspect 1.777 lens 0.883 1.569
+[19:49:31.778]   b1 @64    (144-byte buffer, columns) seen   82 x, VS 11c8871c, (no names): pos -0.000 -0.000 -0.000 fwd 0.000 0.000 -1.000 aspect 1.777 lens 0.883 1.569
+[19:49:31.778]   b1 @0     (144-byte buffer, columns) seen   82 x, VS 11c8871c, (no names): pos -78.390 27.840 -7.140 fwd -0.522 0.812 0.260 aspect 1.777 lens 0.883 1.569
+[19:49:31.778]   b11 @32    (336-byte buffer, columns) seen   50 x, VS a1ea87bd, (no names): pos -78.390 27.840 -7.140 fwd -0.522 0.812 0.260 aspect 1.777 lens 0.883 1.569
+[19:49:32.496] stats/5s: draws immediate 74076 deferred 195059, ExecuteCommandList 2016, contexts 8; new VS with named matrices 0, stripped 0, no matrices 0; constant buffers copied 1167, Map 13708, UpdateSubresource 3042 (boxed 0), too big 0, VSSetCB1 with an offset 0
+[19:49:33.778] scan 89: 2048 buffer copies scanned, 4 camera-shaped place(s), most used first:
+[19:49:33.778]   b0 @0     (544-byte buffer, columns) seen 2625 x, VS 97fa8170, (no names): pos -0.000 -0.000 -0.000 fwd 0.000 0.000 -1.000 aspect 1.777 lens 0.883 1.569
+[19:49:33.778]   b1 @64    (144-byte buffer, columns) seen  112 x, VS 11c8871c, (no names): pos -0.000 -0.000 -0.000 fwd 0.000 0.000 -1.000 aspect 1.777 lens 0.883 1.569
+[19:49:33.778]   b1 @0     (144-byte buffer, columns) seen  112 x, VS 11c8871c, (no names): pos -78.390 27.840 -7.140 fwd -0.522 0.812 0.260 aspect 1.777 lens 0.883 1.569
+[19:49:33.778]   b11 @32    (336-byte buffer, columns) seen   50 x, VS a1ea87bd, (no names): pos -78.390 27.840 -7.140 fwd -0.522 0.812 0.260 aspect 1.777 lens 0.883 1.569
+[19:49:35.778] scan 90: 2048 buffer copies scanned, 4 camera-shaped place(s), most used first:
+[19:49:35.778]   b0 @0     (544-byte buffer, columns) seen 2643 x, VS c81169f1, (no names): pos -0.000 -0.000 -0.000 fwd 0.000 0.000 -1.000 aspect 1.777 lens 0.883 1.569
+[19:49:35.778]   b1 @64    (144-byte buffer, columns) seen  112 x, VS 11c8871c, (no names): pos -0.000 -0.000 -0.000 fwd 0.000 0.000 -1.000 aspect 1.777 lens 0.883 1.569
+[19:49:35.778]   b1 @0     (144-byte buffer, columns) seen  112 x, VS 11c8871c, (no names): pos -78.390 27.840 -7.140 fwd -0.522 0.812 0.260 aspect 1.777 lens 0.883 1.569
+[19:49:35.778]   b11 @32    (336-byte buffer, columns) seen   50 x, VS a1ea87bd, (no names): pos -78.390 27.840 -7.140 fwd -0.522 0.812 0.260 aspect 1.777 lens 0.883 1.569
+[19:49:37.496] stats/5s: draws immediate 75652 deferred 198097, ExecuteCommandList 2044, contexts 8; new VS with named matrices 0, stripped 0, no matrices 0; constant buffers copied 1167, Map 9157, UpdateSubresource 3078 (boxed 0), too big 0, VSSetCB1 with an offset 0
+[19:49:37.778] scan 91: 2048 buffer copies scanned, 4 camera-shaped place(s), most used first:
+[19:49:37.778]   b0 @0     (544-byte buffer, columns) seen 2643 x, VS 97fa8170, (no names): pos -0.000 -0.000 -0.000 fwd 0.000 0.000 -1.000 aspect 1.777 lens 0.883 1.569
+[19:49:37.778]   b1 @64    (144-byte buffer, columns) seen  112 x, VS 11c8871c, (no names): pos -0.000 -0.000 -0.000 fwd 0.000 0.000 -1.000 aspect 1.777 lens 0.883 1.569
+[19:49:37.778]   b1 @0     (144-byte buffer, columns) seen  112 x, VS 11c8871c, (no names): pos -78.390 27.840 -7.140 fwd -0.522 0.812 0.260 aspect 1.777 lens 0.883 1.569
+[19:49:37.778]   b11 @32    (336-byte buffer, columns) seen   50 x, VS a1ea87bd, (no names): pos -78.390 27.840 -7.140 fwd -0.522 0.812 0.260 aspect 1.777 lens 0.883 1.569
+[19:49:39.778] scan 92: 2048 buffer copies scanned, 4 camera-shaped place(s), most used first:
+[19:49:39.778]   b0 @0     (544-byte buffer, columns) seen 1937 x, VS c81169f1, (no names): pos -0.000 -0.000 -0.000 fwd 0.000 0.000 -1.000 aspect 1.777 lens 0.883 1.569
+[19:49:39.778]   b1 @64    (144-byte buffer, columns) seen  112 x, VS 11c8871c, (no names): pos -0.000 -0.000 -0.000 fwd 0.000 0.000 -1.000 aspect 1.777 lens 0.883 1.569
+[19:49:39.778]   b1 @0     (144-byte buffer, columns) seen  112 x, VS 11c8871c, (no names): pos -78.390 27.840 -7.140 fwd -0.522 0.812 0.260 aspect 1.777 lens 0.883 1.569
+[19:49:39.778]   b11 @32    (336-byte buffer, columns) seen   50 x, VS a1ea87bd, (no names): pos -78.390 27.840 -7.140 fwd -0.522 0.812 0.260 aspect 1.777 lens 0.883 1.569
+[19:49:41.778] scan 93: 2048 buffer copies scanned, 4 camera-shaped place(s), most used first:
+[19:49:41.778]   b0 @0     (544-byte buffer, columns) seen 2644 x, VS 97fa8170, (no names): pos -0.000 -0.000 -0.000 fwd 0.000 0.000 -1.000 aspect 1.777 lens 0.883 1.569
+[19:49:41.778]   b1 @64    (144-byte buffer, columns) seen  112 x, VS 11c8871c, (no names): pos -0.000 -0.000 -0.000 fwd 0.000 0.000 -1.000 aspect 1.777 lens 0.883 1.569
+[19:49:41.778]   b1 @0     (144-byte buffer, columns) seen  112 x, VS 11c8871c, (no names): pos -78.390 27.840 -7.140 fwd -0.522 0.812 0.260 aspect 1.777 lens 0.883 1.569
+[19:49:41.778]   b11 @32    (336-byte buffer, columns) seen   50 x, VS a1ea87bd, (no names): pos -78.390 27.840 -7.140 fwd -0.522 0.812 0.260 aspect 1.777 lens 0.883 1.569
+[19:49:42.496] stats/5s: draws immediate 74214 deferred 194887, ExecuteCommandList 2016, contexts 8; new VS with named matrices 0, stripped 0, no matrices 0; constant buffers copied 1167, Map 13750, UpdateSubresource 3042 (boxed 0), too big 0, VSSetCB1 with an offset 0
+[19:49:43.778] scan 94: 2048 buffer copies scanned, 4 camera-shaped place(s), most used first:
+[19:49:43.778]   b0 @0     (544-byte buffer, columns) seen 2631 x, VS c81169f1, (no names): pos -0.000 -0.000 -0.000 fwd 0.000 0.000 -1.000 aspect 1.777 lens 0.883 1.569
+[19:49:43.778]   b1 @64    (144-byte buffer, columns) seen  112 x, VS 11c8871c, (no names): pos -0.000 -0.000 -0.000 fwd 0.000 0.000 -1.000 aspect 1.777 lens 0.883 1.569
+[19:49:43.778]   b1 @0     (144-byte buffer, columns) seen  112 x, VS 11c8871c, (no names): pos -78.390 27.840 -7.140 fwd -0.522 0.812 0.260 aspect 1.777 lens 0.883 1.569
+[19:49:43.778]   b11 @32    (336-byte buffer, columns) seen   50 x, VS a1ea87bd, (no names): pos -78.390 27.840 -7.140 fwd -0.522 0.812 0.260 aspect 1.777 lens 0.883 1.569
+[19:49:45.778] scan 95: 2048 buffer copies scanned, 4 camera-shaped place(s), most used first:
+[19:49:45.778]   b0 @0     (544-byte buffer, columns) seen 2624 x, VS c81169f1, (no names): pos -0.000 -0.000 -0.000 fwd 0.000 0.000 -1.000 aspect 1.777 lens 0.883 1.569
+[19:49:45.778]   b1 @64    (144-byte buffer, columns) seen  112 x, VS 11c8871c, (no names): pos -0.000 -0.000 -0.000 fwd 0.000 0.000 -1.000 aspect 1.777 lens 0.883 1.569
+[19:49:45.778]   b1 @0     (144-byte buffer, columns) seen  112 x, VS 11c8871c, (no names): pos -78.390 27.840 -7.140 fwd -0.522 0.812 0.260 aspect 1.777 lens 0.883 1.569
+[19:49:45.778]   b11 @32    (336-byte buffer, columns) seen   50 x, VS a1ea87bd, (no names): pos -78.390 27.840 -7.140 fwd -0.522 0.812 0.260 aspect 1.777 lens 0.883 1.569
+[19:49:47.497] stats/5s: draws immediate 75136 deferred 197865, ExecuteCommandList 2044, contexts 8; new VS with named matrices 0, stripped 0, no matrices 0; constant buffers copied 1167, Map 9131, UpdateSubresource 3078 (boxed 0), too big 0, VSSetCB1 with an offset 0
+[19:49:47.778] scan 96: 2048 buffer copies scanned, 4 camera-shaped place(s), most used first:
+[19:49:47.778]   b0 @0     (544-byte buffer, columns) seen 2635 x, VS c81169f1, (no names): pos -0.000 -0.000 -0.000 fwd 0.000 0.000 -1.000 aspect 1.777 lens 0.883 1.569
+[19:49:47.778]   b1 @64    (144-byte buffer, columns) seen  112 x, VS 11c8871c, (no names): pos -0.000 -0.000 -0.000 fwd 0.000 0.000 -1.000 aspect 1.777 lens 0.883 1.569
+[19:49:47.778]   b1 @0     (144-byte buffer, columns) seen  112 x, VS 11c8871c, (no names): pos -78.390 27.840 -7.140 fwd -0.522 0.812 0.260 aspect 1.777 lens 0.883 1.569
+[19:49:47.778]   b11 @32    (336-byte buffer, columns) seen   50 x, VS a1ea87bd, (no names): pos -78.390 27.840 -7.140 fwd -0.522 0.812 0.260 aspect 1.777 lens 0.883 1.569
+[19:49:49.778] scan 97: 2048 buffer copies scanned, 4 camera-shaped place(s), most used first:
+[19:49:49.778]   b0 @0     (544-byte buffer, columns) seen 2646 x, VS 97fa8170, (no names): pos -0.000 -0.000 -0.000 fwd 0.000 0.000 -1.000 aspect 1.777 lens 0.883 1.569
+[19:49:49.778]   b1 @64    (144-byte buffer, columns) seen  112 x, VS 11c8871c, (no names): pos -0.000 -0.000 -0.000 fwd 0.000 0.000 -1.000 aspect 1.777 lens 0.883 1.569
+[19:49:49.778]   b1 @0     (144-byte buffer, columns) seen  112 x, VS 11c8871c, (no names): pos -78.390 27.840 -7.140 fwd -0.522 0.812 0.260 aspect 1.777 lens 0.883 1.569
+[19:49:49.778]   b11 @32    (336-byte buffer, columns) seen   50 x, VS a1ea87bd, (no names): pos -78.390 27.840 -7.140 fwd -0.522 0.812 0.260 aspect 1.777 lens 0.883 1.569
+[19:49:51.778] scan 98: 2048 buffer copies scanned, 4 camera-shaped place(s), most used first:
+[19:49:51.778]   b0 @0     (544-byte buffer, columns) seen 2592 x, VS 97fa8170, (no names): pos -0.000 -0.000 -0.000 fwd 0.000 0.000 -1.000 aspect 1.777 lens 0.883 1.569
+[19:49:51.778]   b1 @64    (144-byte buffer, columns) seen  112 x, VS 11c8871c, (no names): pos -0.000 -0.000 -0.000 fwd 0.000 0.000 -1.000 aspect 1.777 lens 0.883 1.569
+[19:49:51.778]   b1 @0     (144-byte buffer, columns) seen  112 x, VS 11c8871c, (no names): pos -78.390 27.840 -7.140 fwd -0.522 0.812 0.260 aspect 1.777 lens 0.883 1.569
+[19:49:51.778]   b11 @32    (336-byte buffer, columns) seen   50 x, VS a1ea87bd, (no names): pos -78.390 27.840 -7.140 fwd -0.522 0.812 0.260 aspect 1.777 lens 0.883 1.569
+[19:49:52.497] stats/5s: draws immediate 74361 deferred 195156, ExecuteCommandList 2016, contexts 8; new VS with named matrices 0, stripped 0, no matrices 0; constant buffers copied 1167, Map 13674, UpdateSubresource 3042 (boxed 0), too big 0, VSSetCB1 with an offset 0
+[19:49:53.778] scan 99: 2048 buffer copies scanned, 4 camera-shaped place(s), most used first:
+[19:49:53.778]   b0 @0     (544-byte buffer, columns) seen 2622 x, VS 97fa8170, (no names): pos -0.000 -0.000 -0.000 fwd 0.000 0.000 -1.000 aspect 1.777 lens 0.883 1.569
+[19:49:53.778]   b1 @64    (144-byte buffer, columns) seen  112 x, VS 11c8871c, (no names): pos -0.000 -0.000 -0.000 fwd 0.000 0.000 -1.000 aspect 1.777 lens 0.883 1.569
+[19:49:53.778]   b1 @0     (144-byte buffer, columns) seen  112 x, VS 11c8871c, (no names): pos -78.390 27.840 -7.140 fwd -0.522 0.812 0.260 aspect 1.777 lens 0.883 1.569
+[19:49:53.778]   b11 @32    (336-byte buffer, columns) seen   50 x, VS a1ea87bd, (no names): pos -78.390 27.840 -7.140 fwd -0.522 0.812 0.260 aspect 1.777 lens 0.883 1.569
+[19:49:55.778] scan 100: 2048 buffer copies scanned, 4 camera-shaped place(s), most used first:
+[19:49:55.778]   b0 @0     (544-byte buffer, columns) seen 2630 x, VS c81169f1, (no names): pos -0.000 -0.000 -0.000 fwd 0.000 0.000 -1.000 aspect 1.777 lens 0.883 1.569
+[19:49:55.778]   b1 @64    (144-byte buffer, columns) seen  112 x, VS 11c8871c, (no names): pos -0.000 -0.000 -0.000 fwd 0.000 0.000 -1.000 aspect 1.777 lens 0.883 1.569
+[19:49:55.778]   b1 @0     (144-byte buffer, columns) seen  112 x, VS 11c8871c, (no names): pos -78.390 27.840 -7.140 fwd -0.522 0.812 0.260 aspect 1.777 lens 0.883 1.569
+[19:49:55.778]   b11 @32    (336-byte buffer, columns) seen   55 x, VS a1ea87bd, (no names): pos -78.390 27.840 -7.140 fwd -0.522 0.812 0.260 aspect 1.777 lens 0.883 1.569
+[19:49:57.497] stats/5s: draws immediate 75320 deferred 198471, ExecuteCommandList 2044, contexts 8; new VS with named matrices 0, stripped 0, no matrices 0; constant buffers copied 1167, Map 9140, UpdateSubresource 3078 (boxed 0), too big 0, VSSetCB1 with an offset 0
+[19:49:57.778] scan 101: 2048 buffer copies scanned, 4 camera-shaped place(s), most used first:
+[19:49:57.778]   b0 @0     (544-byte buffer, columns) seen 2652 x, VS c81169f1, (no names): pos -0.000 -0.000 -0.000 fwd 0.000 0.000 -1.000 aspect 1.777 lens 0.883 1.569
+[19:49:57.778]   b1 @64    (144-byte buffer, columns) seen  112 x, VS 11c8871c, (no names): pos -0.000 -0.000 -0.000 fwd 0.000 0.000 -1.000 aspect 1.777 lens 0.883 1.569
+[19:49:57.778]   b1 @0     (144-byte buffer, columns) seen  112 x, VS 11c8871c, (no names): pos -78.390 27.840 -7.140 fwd -0.522 0.812 0.260 aspect 1.777 lens 0.883 1.569
+[19:49:57.778]   b11 @32    (336-byte buffer, columns) seen   50 x, VS a1ea87bd, (no names): pos -78.390 27.840 -7.140 fwd -0.522 0.812 0.260 aspect 1.777 lens 0.883 1.569
+[19:49:59.779] scan 102: 2048 buffer copies scanned, 4 camera-shaped place(s), most used first:
+[19:49:59.779]   b0 @0     (544-byte buffer, columns) seen 2644 x, VS c81169f1, (no names): pos -0.000 -0.000 -0.000 fwd 0.000 0.000 -1.000 aspect 1.777 lens 0.883 1.569
+[19:49:59.779]   b1 @64    (144-byte buffer, columns) seen  112 x, VS 11c8871c, (no names): pos -0.000 -0.000 -0.000 fwd 0.000 0.000 -1.000 aspect 1.777 lens 0.883 1.569
+[19:49:59.779]   b1 @0     (144-byte buffer, columns) seen  112 x, VS 11c8871c, (no names): pos -78.390 27.840 -7.140 fwd -0.522 0.812 0.260 aspect 1.777 lens 0.883 1.569
+[19:49:59.779]   b11 @32    (336-byte buffer, columns) seen   50 x, VS a1ea87bd, (no names): pos -78.390 27.840 -7.140 fwd -0.522 0.812 0.260 aspect 1.777 lens 0.883 1.569
+[19:50:01.779] scan 103: 2048 buffer copies scanned, 4 camera-shaped place(s), most used first:
+[19:50:01.779]   b0 @0     (544-byte buffer, columns) seen 2156 x, VS 97fa8170, (no names): pos -0.000 -0.000 -0.000 fwd 0.000 0.000 -1.000 aspect 1.777 lens 0.883 1.569
+[19:50:01.779]   b1 @64    (144-byte buffer, columns) seen   82 x, VS 11c8871c, (no names): pos -0.000 -0.000 -0.000 fwd 0.000 0.000 -1.000 aspect 1.777 lens 0.883 1.569
+[19:50:01.779]   b1 @0     (144-byte buffer, columns) seen   82 x, VS 11c8871c, (no names): pos -78.390 27.840 -7.140 fwd -0.522 0.812 0.260 aspect 1.777 lens 0.883 1.569
+[19:50:01.779]   b11 @32    (336-byte buffer, columns) seen   59 x, VS a1ea87bd, (no names): pos -78.390 27.840 -7.140 fwd -0.522 0.812 0.260 aspect 1.777 lens 0.883 1.569
+[19:50:02.509] stats/5s: draws immediate 74340 deferred 195230, ExecuteCommandList 2023, contexts 8; new VS with named matrices 0, stripped 0, no matrices 0; constant buffers copied 1167, Map 14027, UpdateSubresource 3051 (boxed 0), too big 0, VSSetCB1 with an offset 0
+[19:50:03.779] scan 104: 2048 buffer copies scanned, 4 camera-shaped place(s), most used first:
+[19:50:03.779]   b0 @0     (544-byte buffer, columns) seen 1894 x, VS c81169f1, (no names): pos -0.000 -0.000 -0.000 fwd 0.000 0.000 -1.000 aspect 1.777 lens 0.883 1.569
+[19:50:03.779]   b1 @64    (144-byte buffer, columns) seen  112 x, VS 11c8871c, (no names): pos -0.000 -0.000 -0.000 fwd 0.000 0.000 -1.000 aspect 1.777 lens 0.883 1.569
+[19:50:03.779]   b1 @0     (144-byte buffer, columns) seen  112 x, VS 11c8871c, (no names): pos -78.390 27.840 -7.140 fwd -0.522 0.812 0.260 aspect 1.777 lens 0.883 1.569
+[19:50:03.779]   b11 @32    (336-byte buffer, columns) seen   50 x, VS a1ea87bd, (no names): pos -78.390 27.840 -7.140 fwd -0.522 0.812 0.260 aspect 1.777 lens 0.883 1.569
+[19:50:05.778] scan 105: 2048 buffer copies scanned, 4 camera-shaped place(s), most used first:
+[19:50:05.778]   b0 @0     (544-byte buffer, columns) seen 2584 x, VS 97fa8170, (no names): pos -0.000 -0.000 -0.000 fwd 0.000 0.000 -1.000 aspect 1.777 lens 0.883 1.569
+[19:50:05.778]   b1 @64    (144-byte buffer, columns) seen  112 x, VS 11c8871c, (no names): pos -0.000 -0.000 -0.000 fwd 0.000 0.000 -1.000 aspect 1.777 lens 0.883 1.569
+[19:50:05.778]   b1 @0     (144-byte buffer, columns) seen  112 x, VS 11c8871c, (no names): pos -78.390 27.840 -7.140 fwd -0.522 0.812 0.260 aspect 1.777 lens 0.883 1.569
+[19:50:05.778]   b11 @32    (336-byte buffer, columns) seen   50 x, VS a1ea87bd, (no names): pos -78.390 27.840 -7.140 fwd -0.522 0.812 0.260 aspect 1.777 lens 0.883 1.569
+[19:50:07.497] stats/5s: draws immediate 75236 deferred 197941, ExecuteCommandList 2044, contexts 8; new VS with named matrices 0, stripped 0, no matrices 0; constant buffers copied 1167, Map 8997, UpdateSubresource 3078 (boxed 0), too big 0, VSSetCB1 with an offset 0
+[19:50:07.779] scan 106: 2048 buffer copies scanned, 4 camera-shaped place(s), most used first:
+[19:50:07.779]   b0 @0     (544-byte buffer, columns) seen 2582 x, VS c81169f1, (no names): pos -0.000 -0.000 -0.000 fwd 0.000 0.000 -1.000 aspect 1.777 lens 0.883 1.569
+[19:50:07.779]   b1 @64    (144-byte buffer, columns) seen  112 x, VS 11c8871c, (no names): pos -0.000 -0.000 -0.000 fwd 0.000 0.000 -1.000 aspect 1.777 lens 0.883 1.569
+[19:50:07.779]   b1 @0     (144-byte buffer, columns) seen  112 x, VS 11c8871c, (no names): pos -78.390 27.840 -7.140 fwd -0.522 0.812 0.260 aspect 1.777 lens 0.883 1.569
+[19:50:07.779]   b11 @32    (336-byte buffer, columns) seen   50 x, VS a1ea87bd, (no names): pos -78.390 27.840 -7.140 fwd -0.522 0.812 0.260 aspect 1.777 lens 0.883 1.569
+[19:50:09.779] scan 107: 2048 buffer copies scanned, 4 camera-shaped place(s), most used first:
+[19:50:09.779]   b0 @0     (544-byte buffer, columns) seen 2631 x, VS c81169f1, (no names): pos -0.000 -0.000 -0.000 fwd 0.000 0.000 -1.000 aspect 1.777 lens 0.883 1.569
+[19:50:09.779]   b1 @64    (144-byte buffer, columns) seen  112 x, VS 11c8871c, (no names): pos -0.000 -0.000 -0.000 fwd 0.000 0.000 -1.000 aspect 1.777 lens 0.883 1.569
+[19:50:09.779]   b1 @0     (144-byte buffer, columns) seen  112 x, VS 11c8871c, (no names): pos -78.390 27.840 -7.140 fwd -0.522 0.812 0.260 aspect 1.777 lens 0.883 1.569
+[19:50:09.779]   b11 @32    (336-byte buffer, columns) seen   55 x, VS a1ea87bd, (no names): pos -78.390 27.840 -7.140 fwd -0.522 0.812 0.260 aspect 1.777 lens 0.883 1.569
+[19:50:11.779] scan 108: 2048 buffer copies scanned, 4 camera-shaped place(s), most used first:
+[19:50:11.779]   b0 @0     (544-byte buffer, columns) seen 1855 x, VS 97fa8170, (no names): pos -0.000 -0.000 -0.000 fwd 0.000 0.000 -1.000 aspect 1.777 lens 0.883 1.569
+[19:50:11.779]   b1 @64    (144-byte buffer, columns) seen   80 x, VS 11c8871c, (no names): pos -0.000 -0.000 -0.000 fwd 0.000 0.000 -1.000 aspect 1.777 lens 0.883 1.569
+[19:50:11.779]   b1 @0     (144-byte buffer, columns) seen   80 x, VS 11c8871c, (no names): pos -78.390 27.840 -7.140 fwd -0.522 0.812 0.260 aspect 1.777 lens 0.883 1.569
+[19:50:11.779]   b11 @32    (336-byte buffer, columns) seen   50 x, VS a1ea87bd, (no names): pos -78.390 27.840 -7.140 fwd -0.522 0.812 0.260 aspect 1.777 lens 0.883 1.569
+[19:50:12.497] stats/5s: draws immediate 74356 deferred 195081, ExecuteCommandList 2016, contexts 8; new VS with named matrices 0, stripped 0, no matrices 0; constant buffers copied 1167, Map 13595, UpdateSubresource 3033 (boxed 0), too big 0, VSSetCB1 with an offset 0
+[19:50:13.778] scan 109: 2048 buffer copies scanned, 4 camera-shaped place(s), most used first:
+[19:50:13.778]   b0 @0     (544-byte buffer, columns) seen 2634 x, VS ebf89f90, (no names): pos -0.000 -0.000 -0.000 fwd 0.000 0.000 -1.000 aspect 1.777 lens 0.883 1.569
+[19:50:13.778]   b1 @0     (144-byte buffer, columns) seen  110 x, VS 11c8871c, (no names): pos -78.390 27.840 -7.140 fwd -0.522 0.812 0.260 aspect 1.777 lens 0.883 1.569
+[19:50:13.778]   b1 @64    (144-byte buffer, columns) seen  110 x, VS 11c8871c, (no names): pos -0.000 -0.000 -0.000 fwd 0.000 0.000 -1.000 aspect 1.777 lens 0.883 1.569
+[19:50:13.778]   b11 @32    (336-byte buffer, columns) seen   50 x, VS a1ea87bd, (no names): pos -78.390 27.840 -7.140 fwd -0.522 0.812 0.260 aspect 1.777 lens 0.883 1.569
+[19:50:15.779] scan 110: 2048 buffer copies scanned, 4 camera-shaped place(s), most used first:
+[19:50:15.779]   b0 @0     (544-byte buffer, columns) seen 2623 x, VS c81169f1, (no names): pos -0.000 -0.000 -0.000 fwd 0.000 0.000 -1.000 aspect 1.777 lens 0.883 1.569
+[19:50:15.779]   b1 @64    (144-byte buffer, columns) seen  112 x, VS 11c8871c, (no names): pos -0.000 -0.000 -0.000 fwd 0.000 0.000 -1.000 aspect 1.777 lens 0.883 1.569
+[19:50:15.779]   b1 @0     (144-byte buffer, columns) seen  112 x, VS 11c8871c, (no names): pos -78.390 27.840 -7.140 fwd -0.522 0.812 0.260 aspect 1.777 lens 0.883 1.569
+[19:50:15.779]   b11 @32    (336-byte buffer, columns) seen   55 x, VS a1ea87bd, (no names): pos -78.390 27.840 -7.140 fwd -0.522 0.812 0.260 aspect 1.777 lens 0.883 1.569
+[19:50:17.497] stats/5s: draws immediate 77017 deferred 196511, ExecuteCommandList 2030, contexts 8; new VS with named matrices 0, stripped 0, no matrices 0; constant buffers copied 1176, Map 9147, UpdateSubresource 3459 (boxed 0), too big 0, VSSetCB1 with an offset 0
+[19:50:17.779] scan 111: 2048 buffer copies scanned, 4 camera-shaped place(s), most used first:
+[19:50:17.779]   b0 @0     (544-byte buffer, columns) seen 2577 x, VS c81169f1, (no names): pos -0.000 -0.000 -0.000 fwd 0.000 0.000 -1.000 aspect 1.777 lens 0.883 1.569
+[19:50:17.779]   b1 @64    (144-byte buffer, columns) seen  112 x, VS 11c8871c, (no names): pos -0.000 -0.000 -0.000 fwd 0.000 0.000 -1.000 aspect 1.777 lens 0.883 1.569
+[19:50:17.779]   b1 @0     (144-byte buffer, columns) seen  112 x, VS 11c8871c, (no names): pos -78.390 27.840 -7.140 fwd -0.522 0.812 0.260 aspect 1.777 lens 0.883 1.569
+[19:50:17.779]   b11 @32    (336-byte buffer, columns) seen   55 x, VS a1ea87bd, (no names): pos -78.390 27.840 -7.140 fwd -0.522 0.812 0.260 aspect 1.777 lens 0.883 1.569
+[19:50:19.779] scan 112: 2048 buffer copies scanned, 4 camera-shaped place(s), most used first:
+[19:50:19.779]   b0 @0     (544-byte buffer, columns) seen 2609 x, VS c81169f1, (no names): pos -0.000 -0.000 -0.000 fwd 0.000 0.000 -1.000 aspect 1.777 lens 0.883 1.569
+[19:50:19.779]   b1 @64    (144-byte buffer, columns) seen  112 x, VS 11c8871c, (no names): pos -0.000 -0.000 -0.000 fwd 0.000 0.000 -1.000 aspect 1.777 lens 0.883 1.569
+[19:50:19.779]   b1 @0     (144-byte buffer, columns) seen  112 x, VS 11c8871c, (no names): pos -78.390 27.840 -7.140 fwd -0.522 0.812 0.260 aspect 1.777 lens 0.883 1.569
+[19:50:19.779]   b11 @32    (336-byte buffer, columns) seen   55 x, VS a1ea87bd, (no names): pos -78.390 27.840 -7.140 fwd -0.522 0.812 0.260 aspect 1.777 lens 0.883 1.569
+[19:50:21.779] scan 113: 2048 buffer copies scanned, 4 camera-shaped place(s), most used first:
+[19:50:21.779]   b0 @0     (544-byte buffer, columns) seen 2619 x, VS c81169f1, (no names): pos -0.000 -0.000 -0.000 fwd 0.000 0.000 -1.000 aspect 1.777 lens 0.883 1.569
+[19:50:21.779]   b1 @64    (144-byte buffer, columns) seen  112 x, VS 11c8871c, (no names): pos -0.000 -0.000 -0.000 fwd 0.000 0.000 -1.000 aspect 1.777 lens 0.883 1.569
+[19:50:21.779]   b1 @0     (144-byte buffer, columns) seen  112 x, VS 11c8871c, (no names): pos -78.390 27.840 -7.140 fwd -0.522 0.812 0.260 aspect 1.777 lens 0.883 1.569
+[19:50:21.779]   b11 @32    (336-byte buffer, columns) seen   55 x, VS a1ea87bd, (no names): pos -78.390 27.840 -7.140 fwd -0.522 0.812 0.260 aspect 1.777 lens 0.883 1.569
+[19:50:22.498] stats/5s: draws immediate 77280 deferred 195156, ExecuteCommandList 2016, contexts 8; new VS with named matrices 0, stripped 0, no matrices 0; constant buffers copied 1179, Map 13966, UpdateSubresource 3492 (boxed 0), too big 0, VSSetCB1 with an offset 0
+[19:50:23.779] scan 114: 2048 buffer copies scanned, 4 camera-shaped place(s), most used first:
+[19:50:23.779]   b0 @0     (544-byte buffer, columns) seen 1734 x, VS 97fa8170, (no names): pos -0.000 -0.000 -0.000 fwd 0.000 0.000 -1.000 aspect 1.777 lens 0.883 1.569
+[19:50:23.779]   b1 @64    (144-byte buffer, columns) seen   80 x, VS 11c8871c, (no names): pos -0.000 -0.000 -0.000 fwd 0.000 0.000 -1.000 aspect 1.777 lens 0.883 1.569
+[19:50:23.779]   b1 @0     (144-byte buffer, columns) seen   80 x, VS 11c8871c, (no names): pos -78.390 27.840 -7.140 fwd -0.522 0.812 0.260 aspect 1.777 lens 0.883 1.569
+[19:50:23.779]   b11 @32    (336-byte buffer, columns) seen   46 x, VS a1ea87bd, (no names): pos -78.390 27.840 -7.140 fwd -0.522 0.812 0.260 aspect 1.777 lens 0.883 1.569
+[19:50:25.796] scan 115: 111 buffer copies scanned, 0 camera-shaped place(s)
+[19:50:27.524] stats/5s: draws immediate 47703 deferred 118778, ExecuteCommandList 1225, contexts 8; new VS with named matrices 0, stripped 0, no matrices 0; constant buffers copied 1181, Map 4291, UpdateSubresource 2829 (boxed 0), too big 0, VSSetCB1 with an offset 0
+[19:50:27.823] scan 116: 104 buffer copies scanned, 0 camera-shaped place(s)
+[19:50:29.824] scan 117: 104 buffer copies scanned, 0 camera-shaped place(s)
+[19:50:31.824] scan 118: 104 buffer copies scanned, 0 camera-shaped place(s)
+[19:50:32.523] stats/5s: draws immediate 2700 deferred 0, ExecuteCommandList 0, contexts 8; new VS with named matrices 0, stripped 0, no matrices 0; constant buffers copied 1184, Map 314, UpdateSubresource 1800 (boxed 0), too big 0, VSSetCB1 with an offset 0
+[19:50:33.825] scan 119: 104 buffer copies scanned, 0 camera-shaped place(s)
+[19:50:35.825] scan 120: 104 buffer copies scanned, 0 camera-shaped place(s)
+[19:50:37.526] stats/5s: draws immediate 2700 deferred 0, ExecuteCommandList 0, contexts 8; new VS with named matrices 0, stripped 0, no matrices 0; constant buffers copied 1194, Map 218, UpdateSubresource 1800 (boxed 0), too big 0, VSSetCB1 with an offset 0
+[19:50:37.858] scan 121: 104 buffer copies scanned, 0 camera-shaped place(s)
+[19:50:39.857] scan 122: 104 buffer copies scanned, 0 camera-shaped place(s)
+[19:50:41.869] scan 123: 104 buffer copies scanned, 0 camera-shaped place(s)
+[19:50:42.523] stats/5s: draws immediate 2700 deferred 0, ExecuteCommandList 0, contexts 8; new VS with named matrices 0, stripped 2, no matrices 0; constant buffers copied 1231, Map 362, UpdateSubresource 1800 (boxed 0), too big 0, VSSetCB1 with an offset 0
+[19:50:43.860] scan 124: 104 buffer copies scanned, 0 camera-shaped place(s)
+[19:50:45.859] scan 125: 104 buffer copies scanned, 0 camera-shaped place(s)
+[19:50:47.526] stats/5s: draws immediate 2700 deferred 0, ExecuteCommandList 0, contexts 8; new VS with named matrices 0, stripped 0, no matrices 0; constant buffers copied 1243, Map 224, UpdateSubresource 1800 (boxed 0), too big 0, VSSetCB1 with an offset 0
+[19:50:47.857] scan 126: 104 buffer copies scanned, 0 camera-shaped place(s)
+[19:50:49.857] scan 127: 104 buffer copies scanned, 0 camera-shaped place(s)
+[19:50:51.860] scan 128: 104 buffer copies scanned, 0 camera-shaped place(s)
+[19:50:52.526] stats/5s: draws immediate 2700 deferred 0, ExecuteCommandList 0, contexts 8; new VS with named matrices 0, stripped 0, no matrices 0; constant buffers copied 1278, Map 347, UpdateSubresource 1800 (boxed 0), too big 0, VSSetCB1 with an offset 0
+[19:50:53.893] scan 129: 104 buffer copies scanned, 0 camera-shaped place(s)
+[19:50:55.893] scan 130: 104 buffer copies scanned, 0 camera-shaped place(s)
+[19:50:57.526] stats/5s: draws immediate 2700 deferred 0, ExecuteCommandList 0, contexts 8; new VS with named matrices 0, stripped 0, no matrices 0; constant buffers copied 1293, Map 223, UpdateSubresource 1800 (boxed 0), too big 0, VSSetCB1 with an offset 0
+[19:50:57.893] scan 131: 104 buffer copies scanned, 0 camera-shaped place(s)
+[19:50:59.893] scan 132: 104 buffer copies scanned, 0 camera-shaped place(s)
+[19:51:01.892] scan 133: 104 buffer copies scanned, 0 camera-shaped place(s)
+[19:51:02.526] stats/5s: draws immediate 2700 deferred 0, ExecuteCommandList 0, contexts 8; new VS with named matrices 0, stripped 0, no matrices 0; constant buffers copied 1302, Map 321, UpdateSubresource 1800 (boxed 0), too big 0, VSSetCB1 with an offset 0
+[19:51:03.891] scan 134: 104 buffer copies scanned, 0 camera-shaped place(s)
+[19:51:05.894] scan 135: 104 buffer copies scanned, 0 camera-shaped place(s)
+[19:51:07.526] stats/5s: draws immediate 2700 deferred 0, ExecuteCommandList 0, contexts 8; new VS with named matrices 0, stripped 2, no matrices 0; constant buffers copied 1306, Map 212, UpdateSubresource 1800 (boxed 0), too big 0, VSSetCB1 with an offset 0
+[19:51:07.891] scan 136: 104 buffer copies scanned, 0 camera-shaped place(s)
+[19:51:09.894] scan 137: 104 buffer copies scanned, 0 camera-shaped place(s)
+[19:51:11.892] scan 138: 104 buffer copies scanned, 0 camera-shaped place(s)
+[19:51:12.526] stats/5s: draws immediate 2700 deferred 0, ExecuteCommandList 0, contexts 8; new VS with named matrices 0, stripped 4, no matrices 0; constant buffers copied 1316, Map 322, UpdateSubresource 1800 (boxed 0), too big 0, VSSetCB1 with an offset 0
+[19:51:13.893] scan 139: 104 buffer copies scanned, 0 camera-shaped place(s)
+[19:51:15.892] scan 140: 104 buffer copies scanned, 0 camera-shaped place(s)
+[19:51:17.526] stats/5s: draws immediate 2700 deferred 0, ExecuteCommandList 0, contexts 8; new VS with named matrices 0, stripped 3, no matrices 0; constant buffers copied 1353, Map 226, UpdateSubresource 1800 (boxed 0), too big 0, VSSetCB1 with an offset 0
+[19:51:17.893] scan 141: 110 buffer copies scanned, 0 camera-shaped place(s)
+[19:51:19.894] scan 142: 92 buffer copies scanned, 0 camera-shaped place(s)
+[19:51:21.891] scan 143: 88 buffer copies scanned, 0 camera-shaped place(s)
+[19:51:22.525] stats/5s: draws immediate 2592 deferred 0, ExecuteCommandList 0, contexts 8; new VS with named matrices 0, stripped 0, no matrices 0; constant buffers copied 1376, Map 312, UpdateSubresource 1800 (boxed 0), too big 0, VSSetCB1 with an offset 0
+[19:51:23.895] scan 144: 109 buffer copies scanned, 0 camera-shaped place(s)
+[19:51:25.892] scan 145: 106 buffer copies scanned, 0 camera-shaped place(s)
+[19:51:27.524] stats/5s: draws immediate 2598 deferred 0, ExecuteCommandList 0, contexts 8; new VS with named matrices 0, stripped 0, no matrices 0; constant buffers copied 1386, Map 254, UpdateSubresource 1800 (boxed 0), too big 0, VSSetCB1 with an offset 0
+[19:51:27.893] scan 146: 93 buffer copies scanned, 0 camera-shaped place(s)
+[19:51:29.893] scan 147: 88 buffer copies scanned, 0 camera-shaped place(s)
+[19:51:31.893] scan 148: 109 buffer copies scanned, 0 camera-shaped place(s)
+[19:51:32.524] stats/5s: draws immediate 2585 deferred 0, ExecuteCommandList 0, contexts 8; new VS with named matrices 0, stripped 0, no matrices 0; constant buffers copied 1386, Map 316, UpdateSubresource 1800 (boxed 0), too big 0, VSSetCB1 with an offset 0
+[19:51:33.893] scan 149: 109 buffer copies scanned, 0 camera-shaped place(s)
+[19:51:35.891] scan 150: 88 buffer copies scanned, 0 camera-shaped place(s)
+[19:51:37.529] stats/5s: draws immediate 2572 deferred 0, ExecuteCommandList 0, contexts 8; new VS with named matrices 0, stripped 0, no matrices 0; constant buffers copied 1386, Map 218, UpdateSubresource 1800 (boxed 0), too big 0, VSSetCB1 with an offset 0
+[19:51:37.894] scan 151: 109 buffer copies scanned, 0 camera-shaped place(s)
+[19:51:39.894] scan 152: 111 buffer copies scanned, 0 camera-shaped place(s)
+[19:51:41.895] scan 153: 89 buffer copies scanned, 0 camera-shaped place(s)
+[19:51:42.528] stats/5s: draws immediate 2592 deferred 0, ExecuteCommandList 0, contexts 8; new VS with named matrices 0, stripped 0, no matrices 0; constant buffers copied 1386, Map 354, UpdateSubresource 1800 (boxed 0), too big 0, VSSetCB1 with an offset 0
+[19:51:43.893] scan 154: 88 buffer copies scanned, 0 camera-shaped place(s)
+[19:51:45.893] scan 155: 108 buffer copies scanned, 0 camera-shaped place(s)
+[19:51:47.526] stats/5s: draws immediate 2599 deferred 0, ExecuteCommandList 0, contexts 8; new VS with named matrices 0, stripped 0, no matrices 0; constant buffers copied 1386, Map 216, UpdateSubresource 1800 (boxed 0), too big 0, VSSetCB1 with an offset 0
+[19:51:47.892] scan 156: 102 buffer copies scanned, 0 camera-shaped place(s)
+[19:51:49.894] scan 157: 88 buffer copies scanned, 0 camera-shaped place(s)
+[19:51:51.892] scan 158: 104 buffer copies scanned, 0 camera-shaped place(s)
+[19:51:52.529] stats/5s: draws immediate 2598 deferred 0, ExecuteCommandList 0, contexts 8; new VS with named matrices 0, stripped 0, no matrices 0; constant buffers copied 1386, Map 324, UpdateSubresource 1800 (boxed 0), too big 0, VSSetCB1 with an offset 0
+[19:51:53.893] scan 159: 111 buffer copies scanned, 0 camera-shaped place(s)
+[19:51:55.893] scan 160: 91 buffer copies scanned, 0 camera-shaped place(s)
+[19:51:57.524] stats/5s: draws immediate 2576 deferred 0, ExecuteCommandList 0, contexts 8; new VS with named matrices 0, stripped 0, no matrices 0; constant buffers copied 1386, Map 228, UpdateSubresource 1800 (boxed 0), too big 0, VSSetCB1 with an offset 0
+[19:51:57.896] scan 161: 88 buffer copies scanned, 0 camera-shaped place(s)
+[19:51:59.892] scan 162: 114 buffer copies scanned, 0 camera-shaped place(s)
+[19:52:01.892] scan 163: 88 buffer copies scanned, 0 camera-shaped place(s)
+[19:52:02.528] stats/5s: draws immediate 2581 deferred 0, ExecuteCommandList 0, contexts 8; new VS with named matrices 0, stripped 0, no matrices 0; constant buffers copied 1386, Map 316, UpdateSubresource 1800 (boxed 0), too big 0, VSSetCB1 with an offset 0
+[19:52:03.893] scan 164: 88 buffer copies scanned, 0 camera-shaped place(s)
+[19:52:05.894] scan 165: 109 buffer copies scanned, 0 camera-shaped place(s)
+[19:52:07.528] stats/5s: draws immediate 2588 deferred 0, ExecuteCommandList 0, contexts 8; new VS with named matrices 0, stripped 0, no matrices 0; constant buffers copied 1386, Map 218, UpdateSubresource 1800 (boxed 0), too big 0, VSSetCB1 with an offset 0
+[19:52:07.891] scan 166: 110 buffer copies scanned, 0 camera-shaped place(s)
+[19:52:09.893] scan 167: 95 buffer copies scanned, 0 camera-shaped place(s)
+[19:52:11.894] scan 168: 88 buffer copies scanned, 0 camera-shaped place(s)
+[19:52:12.529] stats/5s: draws immediate 2582 deferred 0, ExecuteCommandList 0, contexts 8; new VS with named matrices 0, stripped 0, no matrices 0; constant buffers copied 1386, Map 322, UpdateSubresource 1800 (boxed 0), too big 0, VSSetCB1 with an offset 0
+[19:52:13.892] scan 169: 91 buffer copies scanned, 0 camera-shaped place(s)
+[19:52:15.893] scan 170: 111 buffer copies scanned, 0 camera-shaped place(s)
+[19:52:17.527] stats/5s: draws immediate 2594 deferred 0, ExecuteCommandList 0, contexts 8; new VS with named matrices 0, stripped 0, no matrices 0; constant buffers copied 1386, Map 228, UpdateSubresource 1800 (boxed 0), too big 0, VSSetCB1 with an offset 0
+[19:52:17.894] scan 171: 98 buffer copies scanned, 0 camera-shaped place(s)
+[19:52:19.893] scan 172: 88 buffer copies scanned, 0 camera-shaped place(s)
+[19:52:21.896] scan 173: 99 buffer copies scanned, 0 camera-shaped place(s)
+[19:52:22.526] stats/5s: draws immediate 2593 deferred 0, ExecuteCommandList 0, contexts 8; new VS with named matrices 0, stripped 0, no matrices 0; constant buffers copied 1386, Map 306, UpdateSubresource 1800 (boxed 0), too big 0, VSSetCB1 with an offset 0
+[19:52:23.893] scan 174: 111 buffer copies scanned, 0 camera-shaped place(s)
+[19:52:25.893] scan 175: 97 buffer copies scanned, 0 camera-shaped place(s)
+[19:52:27.527] stats/5s: draws immediate 2580 deferred 0, ExecuteCommandList 0, contexts 8; new VS with named matrices 0, stripped 0, no matrices 0; constant buffers copied 1386, Map 240, UpdateSubresource 1800 (boxed 0), too big 0, VSSetCB1 with an offset 0
+[19:52:27.893] scan 176: 88 buffer copies scanned, 0 camera-shaped place(s)
+[19:52:29.894] scan 177: 100 buffer copies scanned, 0 camera-shaped place(s)
+[19:52:31.894] scan 178: 111 buffer copies scanned, 0 camera-shaped place(s)
+[19:52:32.526] stats/5s: draws immediate 2578 deferred 0, ExecuteCommandList 0, contexts 8; new VS with named matrices 0, stripped 0, no matrices 0; constant buffers copied 1386, Map 334, UpdateSubresource 1800 (boxed 0), too big 0, VSSetCB1 with an offset 0
+[19:52:33.895] scan 179: 97 buffer copies scanned, 0 camera-shaped place(s)
+[19:52:35.893] scan 180: 88 buffer copies scanned, 0 camera-shaped place(s)
+[19:52:37.528] stats/5s: draws immediate 2582 deferred 0, ExecuteCommandList 0, contexts 8; new VS with named matrices 0, stripped 0, no matrices 0; constant buffers copied 1386, Map 194, UpdateSubresource 1800 (boxed 0), too big 0, VSSetCB1 with an offset 0
+[19:52:37.893] scan 181: 105 buffer copies scanned, 0 camera-shaped place(s)
+[19:52:39.897] scan 182: 109 buffer copies scanned, 0 camera-shaped place(s)
+[19:52:41.894] scan 183: 93 buffer copies scanned, 0 camera-shaped place(s)
+[19:52:42.525] stats/5s: draws immediate 2584 deferred 0, ExecuteCommandList 0, contexts 8; new VS with named matrices 0, stripped 0, no matrices 0; constant buffers copied 1386, Map 350, UpdateSubresource 1800 (boxed 0), too big 0, VSSetCB1 with an offset 0
+[19:52:43.894] scan 184: 88 buffer copies scanned, 0 camera-shaped place(s)
+[19:52:45.892] scan 185: 111 buffer copies scanned, 0 camera-shaped place(s)
+[19:52:47.528] stats/5s: draws immediate 2596 deferred 0, ExecuteCommandList 0, contexts 8; new VS with named matrices 0, stripped 0, no matrices 0; constant buffers copied 1386, Map 222, UpdateSubresource 1800 (boxed 0), too big 0, VSSetCB1 with an offset 0
+[19:52:47.892] scan 186: 105 buffer copies scanned, 0 camera-shaped place(s)
+[19:52:49.893] scan 187: 88 buffer copies scanned, 0 camera-shaped place(s)
+[19:52:51.895] scan 188: 90 buffer copies scanned, 0 camera-shaped place(s)
+[19:52:52.528] stats/5s: draws immediate 2601 deferred 0, ExecuteCommandList 0, contexts 8; new VS with named matrices 0, stripped 0, no matrices 0; constant buffers copied 1386, Map 302, UpdateSubresource 1800 (boxed 0), too big 0, VSSetCB1 with an offset 0
+[19:52:53.896] scan 189: 111 buffer copies scanned, 0 camera-shaped place(s)
+[19:52:55.895] scan 190: 96 buffer copies scanned, 0 camera-shaped place(s)
+[19:52:57.528] stats/5s: draws immediate 2578 deferred 0, ExecuteCommandList 0, contexts 8; new VS with named matrices 0, stripped 0, no matrices 0; constant buffers copied 1386, Map 238, UpdateSubresource 1800 (boxed 0), too big 0, VSSetCB1 with an offset 0
+[19:52:57.894] scan 191: 88 buffer copies scanned, 0 camera-shaped place(s)
+[19:52:59.895] scan 192: 103 buffer copies scanned, 0 camera-shaped place(s)
+[19:53:01.897] scan 193: 107 buffer copies scanned, 0 camera-shaped place(s)
+[19:53:02.529] stats/5s: draws immediate 2575 deferred 0, ExecuteCommandList 0, contexts 8; new VS with named matrices 0, stripped 0, no matrices 0; constant buffers copied 1386, Map 332, UpdateSubresource 1800 (boxed 0), too big 0, VSSetCB1 with an offset 0
+[19:53:03.894] scan 194: 88 buffer copies scanned, 0 camera-shaped place(s)
+[19:53:05.893] scan 195: 88 buffer copies scanned, 0 camera-shaped place(s)
+[19:53:07.528] stats/5s: draws immediate 2576 deferred 0, ExecuteCommandList 0, contexts 8; new VS with named matrices 0, stripped 0, no matrices 0; constant buffers copied 1386, Map 176, UpdateSubresource 1800 (boxed 0), too big 0, VSSetCB1 with an offset 0
+[19:53:07.895] scan 196: 108 buffer copies scanned, 0 camera-shaped place(s)
+[19:53:09.895] scan 197: 107 buffer copies scanned, 0 camera-shaped place(s)
+[19:53:11.892] scan 198: 2048 buffer copies scanned, 4 camera-shaped place(s), most used first:
+[19:53:11.892]   b0 @0     (544-byte buffer, columns) seen  192 x, VS 10f59914, (no names): pos -0.000 -0.000 -0.000 fwd 0.000 0.000 -1.000 aspect 1.777 lens 1.092 1.940
+[19:53:11.892]   b1 @64    (144-byte buffer, columns) seen   65 x, VS 82db778d, (no names): pos -0.000 -0.000 -0.000 fwd 0.000 0.000 -1.000 aspect 1.777 lens 1.092 1.940
+[19:53:11.892]   b1 @0     (144-byte buffer, columns) seen   65 x, VS 82db778d, (no names): pos 75.691 -129.860 378.798 fwd -0.220 0.943 -0.249 aspect 1.777 lens 1.092 1.940
+[19:53:11.892]   b11 @32    (336-byte buffer, columns) seen   20 x, VS a1ea87bd, (no names): pos 75.691 -129.860 378.798 fwd -0.220 0.943 -0.249 aspect 1.777 lens 1.092 1.940
+[19:53:12.518] stats/5s: draws immediate 34373 deferred 82960, ExecuteCommandList 882, contexts 9; new VS with named matrices 0, stripped 0, no matrices 0; constant buffers copied 3312, Map 10564, UpdateSubresource 1611 (boxed 0), too big 0, VSSetCB1 with an offset 0
+[19:53:13.891] scan 199: 2048 buffer copies scanned, 4 camera-shaped place(s), most used first:
+[19:53:13.891]   b0 @0     (544-byte buffer, columns) seen  562 x, VS c692f239, (no names): pos -0.000 -0.000 -0.000 fwd 0.000 0.000 -1.000 aspect 1.777 lens 1.092 1.940
+[19:53:13.891]   b1 @64    (144-byte buffer, columns) seen  127 x, VS 82db778d, (no names): pos -0.000 -0.000 -0.000 fwd 0.000 0.000 -1.000 aspect 1.777 lens 1.092 1.940
+[19:53:13.891]   b1 @0     (144-byte buffer, columns) seen  127 x, VS 82db778d, (no names): pos 75.691 -129.860 378.798 fwd -0.220 0.943 -0.249 aspect 1.777 lens 1.092 1.940
+[19:53:13.891]   b11 @32    (336-byte buffer, columns) seen   20 x, VS a1ea87bd, (no names): pos 75.691 -129.860 378.798 fwd -0.220 0.943 -0.249 aspect 1.777 lens 1.092 1.940
+[19:53:15.892] scan 200: 2048 buffer copies scanned, 4 camera-shaped place(s), most used first:
+[19:53:15.892]   b0 @0     (544-byte buffer, columns) seen  549 x, VS c692f239, (no names): pos -0.000 -0.000 -0.000 fwd 0.000 0.000 -1.000 aspect 1.777 lens 1.092 1.940
+[19:53:15.892]   b1 @64    (144-byte buffer, columns) seen  127 x, VS 82db778d, (no names): pos -0.000 -0.000 -0.000 fwd 0.000 0.000 -1.000 aspect 1.777 lens 1.092 1.940
+[19:53:15.892]   b1 @0     (144-byte buffer, columns) seen  127 x, VS 82db778d, (no names): pos 75.691 -129.860 378.798 fwd -0.220 0.943 -0.249 aspect 1.777 lens 1.092 1.940
+[19:53:15.892]   b11 @32    (336-byte buffer, columns) seen   20 x, VS a1ea87bd, (no names): pos 75.691 -129.860 378.798 fwd -0.220 0.943 -0.249 aspect 1.777 lens 1.092 1.940
+[19:53:17.516] stats/5s: draws immediate 217882 deferred 546419, ExecuteCommandList 5873, contexts 9; new VS with named matrices 0, stripped 0, no matrices 0; constant buffers copied 3462, Map 21626, UpdateSubresource 2511 (boxed 0), too big 0, VSSetCB1 with an offset 0
+[19:53:17.892] scan 201: 2048 buffer copies scanned, 4 camera-shaped place(s), most used first:
+[19:53:17.892]   b0 @0     (544-byte buffer, columns) seen  543 x, VS c692f239, (no names): pos -0.000 -0.000 -0.000 fwd 0.000 0.000 -1.000 aspect 1.777 lens 1.092 1.940
+[19:53:17.892]   b1 @64    (144-byte buffer, columns) seen  127 x, VS a3897c5c, (no names): pos -0.000 -0.000 -0.000 fwd 0.000 0.000 -1.000 aspect 1.777 lens 1.092 1.940
+[19:53:17.892]   b1 @0     (144-byte buffer, columns) seen  127 x, VS a3897c5c, (no names): pos 75.691 -129.860 378.798 fwd -0.220 0.943 -0.249 aspect 1.777 lens 1.092 1.940
+[19:53:17.892]   b11 @32    (336-byte buffer, columns) seen   20 x, VS a1ea87bd, (no names): pos 75.691 -129.860 378.798 fwd -0.220 0.943 -0.249 aspect 1.777 lens 1.092 1.940
+[19:53:19.891] scan 202: 2048 buffer copies scanned, 4 camera-shaped place(s), most used first:
+[19:53:19.891]   b0 @0     (544-byte buffer, columns) seen 1515 x, VS c692f239, (no names): pos -0.000 -0.000 -0.000 fwd 0.000 0.000 -1.000 aspect 1.777 lens 1.092 1.940
+[19:53:19.891]   b1 @64    (144-byte buffer, columns) seen  126 x, VS 82db778d, (no names): pos -0.000 -0.000 -0.000 fwd 0.000 0.000 -1.000 aspect 1.777 lens 1.092 1.940
+[19:53:19.891]   b1 @0     (144-byte buffer, columns) seen  126 x, VS 82db778d, (no names): pos 75.691 -129.860 378.798 fwd -0.220 0.943 -0.249 aspect 1.777 lens 1.092 1.940
+[19:53:19.891]   b11 @32    (336-byte buffer, columns) seen   20 x, VS a1ea87bd, (no names): pos 75.691 -129.860 378.798 fwd -0.220 0.943 -0.249 aspect 1.777 lens 1.092 1.940
+[19:53:21.891] scan 203: 2048 buffer copies scanned, 4 camera-shaped place(s), most used first:
+[19:53:21.891]   b0 @0     (544-byte buffer, columns) seen 1377 x, VS c692f239, (no names): pos -0.000 -0.000 -0.000 fwd 0.000 0.000 -1.000 aspect 1.777 lens 1.092 1.940
+[19:53:21.891]   b1 @64    (144-byte buffer, columns) seen  135 x, VS 82db778d, (no names): pos -0.000 -0.000 -0.000 fwd 0.000 0.000 -1.000 aspect 1.777 lens 1.092 1.940
+[19:53:21.891]   b1 @0     (144-byte buffer, columns) seen  135 x, VS 82db778d, (no names): pos 75.691 -129.860 378.798 fwd -0.220 0.943 -0.249 aspect 1.777 lens 1.092 1.940
+[19:53:21.891]   b11 @32    (336-byte buffer, columns) seen   25 x, VS a1ea87bd, (no names): pos 75.691 -129.860 378.798 fwd -0.220 0.943 -0.249 aspect 1.777 lens 1.092 1.940
+[19:53:22.516] stats/5s: draws immediate 210398 deferred 525720, ExecuteCommandList 5666, contexts 9; new VS with named matrices 0, stripped 0, no matrices 0; constant buffers copied 3466, Map 32542, UpdateSubresource 2430 (boxed 0), too big 0, VSSetCB1 with an offset 0
+[19:53:23.891] scan 204: 2048 buffer copies scanned, 4 camera-shaped place(s), most used first:
+[19:53:23.891]   b0 @0     (544-byte buffer, columns) seen 1422 x, VS c692f239, (no names): pos -0.000 -0.000 -0.000 fwd 0.000 0.000 -1.000 aspect 1.777 lens 1.092 1.940
+[19:53:23.891]   b1 @64    (144-byte buffer, columns) seen  128 x, VS 82db778d, (no names): pos -0.000 -0.000 -0.000 fwd 0.000 0.000 -1.000 aspect 1.777 lens 1.092 1.940
+[19:53:23.891]   b1 @0     (144-byte buffer, columns) seen  128 x, VS 82db778d, (no names): pos 75.691 -129.860 378.798 fwd -0.220 0.943 -0.249 aspect 1.777 lens 1.092 1.940
+[19:53:23.891]   b11 @32    (336-byte buffer, columns) seen   20 x, VS a1ea87bd, (no names): pos 75.691 -129.860 378.798 fwd -0.220 0.943 -0.249 aspect 1.777 lens 1.092 1.940
+[19:53:25.892] scan 205: 2048 buffer copies scanned, 4 camera-shaped place(s), most used first:
+[19:53:25.892]   b0 @0     (544-byte buffer, columns) seen 1510 x, VS c692f239, (no names): pos -0.000 -0.000 -0.000 fwd 0.000 0.000 -1.000 aspect 1.777 lens 1.092 1.940
+[19:53:25.892]   b1 @64    (144-byte buffer, columns) seen  127 x, VS 82db778d, (no names): pos -0.000 -0.000 -0.000 fwd 0.000 0.000 -1.000 aspect 1.777 lens 1.092 1.940
+[19:53:25.892]   b1 @0     (144-byte buffer, columns) seen  127 x, VS 82db778d, (no names): pos 75.691 -129.860 378.798 fwd -0.220 0.943 -0.249 aspect 1.777 lens 1.092 1.940
+[19:53:25.892]   b11 @32    (336-byte buffer, columns) seen   20 x, VS a1ea87bd, (no names): pos 75.691 -129.860 378.798 fwd -0.220 0.943 -0.249 aspect 1.777 lens 1.092 1.940
+[19:53:27.516] stats/5s: draws immediate 222343 deferred 540580, ExecuteCommandList 5780, contexts 9; new VS with named matrices 0, stripped 0, no matrices 0; constant buffers copied 3483, Map 21515, UpdateSubresource 2520 (boxed 0), too big 0, VSSetCB1 with an offset 0
+[19:53:27.892] scan 206: 2048 buffer copies scanned, 4 camera-shaped place(s), most used first:
+[19:53:27.892]   b0 @0     (544-byte buffer, columns) seen 1510 x, VS c692f239, (no names): pos -0.000 -0.000 -0.000 fwd 0.000 0.000 -1.000 aspect 1.777 lens 1.092 1.940
+[19:53:27.892]   b1 @64    (144-byte buffer, columns) seen  127 x, VS 82db778d, (no names): pos -0.000 -0.000 -0.000 fwd 0.000 0.000 -1.000 aspect 1.777 lens 1.092 1.940
+[19:53:27.892]   b1 @0     (144-byte buffer, columns) seen  127 x, VS 82db778d, (no names): pos 75.691 -129.860 378.798 fwd -0.220 0.943 -0.249 aspect 1.777 lens 1.092 1.940
+[19:53:27.892]   b11 @32    (336-byte buffer, columns) seen   20 x, VS a1ea87bd, (no names): pos 75.691 -129.860 378.798 fwd -0.220 0.943 -0.249 aspect 1.777 lens 1.092 1.940
+[19:53:29.892] scan 207: 2048 buffer copies scanned, 4 camera-shaped place(s), most used first:
+[19:53:29.892]   b0 @0     (544-byte buffer, columns) seen 1520 x, VS c692f239, (no names): pos -0.000 -0.000 -0.000 fwd 0.000 0.000 -1.000 aspect 1.777 lens 1.092 1.940
+[19:53:29.892]   b1 @64    (144-byte buffer, columns) seen  128 x, VS 82db778d, (no names): pos -0.000 -0.000 -0.000 fwd 0.000 0.000 -1.000 aspect 1.777 lens 1.092 1.940
+[19:53:29.892]   b1 @0     (144-byte buffer, columns) seen  128 x, VS 82db778d, (no names): pos 75.691 -129.860 378.798 fwd -0.220 0.943 -0.249 aspect 1.777 lens 1.092 1.940
+[19:53:29.892]   b11 @32    (336-byte buffer, columns) seen   20 x, VS a1ea87bd, (no names): pos 75.691 -129.860 378.798 fwd -0.220 0.943 -0.249 aspect 1.777 lens 1.092 1.940
+[19:53:31.892] scan 208: 2048 buffer copies scanned, 4 camera-shaped place(s), most used first:
+[19:53:31.892]   b0 @0     (544-byte buffer, columns) seen 1377 x, VS c692f239, (no names): pos -0.000 -0.000 -0.000 fwd 0.000 0.000 -1.000 aspect 1.777 lens 1.092 1.940
+[19:53:31.892]   b1 @64    (144-byte buffer, columns) seen  111 x, VS 82db778d, (no names): pos -0.000 -0.000 -0.000 fwd 0.000 0.000 -1.000 aspect 1.777 lens 1.092 1.940
+[19:53:31.892]   b1 @0     (144-byte buffer, columns) seen  111 x, VS 82db778d, (no names): pos 75.691 -129.860 378.798 fwd -0.220 0.943 -0.249 aspect 1.777 lens 1.092 1.940
+[19:53:31.892]   b11 @32    (336-byte buffer, columns) seen   20 x, VS a1ea87bd, (no names): pos 75.691 -129.860 378.798 fwd -0.220 0.943 -0.249 aspect 1.777 lens 1.092 1.940
+[19:53:32.516] stats/5s: draws immediate 209542 deferred 525793, ExecuteCommandList 5670, contexts 9; new VS with named matrices 0, stripped 0, no matrices 0; constant buffers copied 3483, Map 32422, UpdateSubresource 2430 (boxed 0), too big 0, VSSetCB1 with an offset 0
+[19:53:33.891] scan 209: 2048 buffer copies scanned, 4 camera-shaped place(s), most used first:
+[19:53:33.891]   b0 @0     (544-byte buffer, columns) seen  535 x, VS c692f239, (no names): pos -0.000 -0.000 -0.000 fwd 0.000 0.000 -1.000 aspect 1.777 lens 1.092 1.940
+[19:53:33.891]   b1 @64    (144-byte buffer, columns) seen  120 x, VS 82db778d, (no names): pos -0.000 -0.000 -0.000 fwd 0.000 0.000 -1.000 aspect 1.777 lens 1.092 1.940
+[19:53:33.891]   b1 @0     (144-byte buffer, columns) seen  120 x, VS 82db778d, (no names): pos 75.691 -129.860 378.798 fwd -0.220 0.943 -0.249 aspect 1.777 lens 1.092 1.940
+[19:53:33.891]   b11 @32    (336-byte buffer, columns) seen   20 x, VS a1ea87bd, (no names): pos 75.691 -129.860 378.798 fwd -0.220 0.943 -0.249 aspect 1.777 lens 1.092 1.940
+[19:53:35.891] scan 210: 2048 buffer copies scanned, 4 camera-shaped place(s), most used first:
+[19:53:35.891]   b0 @0     (544-byte buffer, columns) seen  557 x, VS c692f239, (no names): pos -0.000 -0.000 -0.000 fwd 0.000 0.000 -1.000 aspect 1.777 lens 1.092 1.940
+[19:53:35.891]   b1 @64    (144-byte buffer, columns) seen  119 x, VS 82db778d, (no names): pos -0.000 -0.000 -0.000 fwd 0.000 0.000 -1.000 aspect 1.777 lens 1.092 1.940
+[19:53:35.891]   b1 @0     (144-byte buffer, columns) seen  119 x, VS 82db778d, (no names): pos 75.691 -129.860 378.798 fwd -0.220 0.943 -0.249 aspect 1.777 lens 1.092 1.940
+[19:53:35.891]   b11 @32    (336-byte buffer, columns) seen   20 x, VS a1ea87bd, (no names): pos 75.691 -129.860 378.798 fwd -0.220 0.943 -0.249 aspect 1.777 lens 1.092 1.940
+[19:53:37.517] stats/5s: draws immediate 219945 deferred 533423, ExecuteCommandList 5657, contexts 9; new VS with named matrices 0, stripped 0, no matrices 0; constant buffers copied 3483, Map 21122, UpdateSubresource 2520 (boxed 0), too big 0, VSSetCB1 with an offset 0
+[19:53:37.892] scan 211: 2048 buffer copies scanned, 4 camera-shaped place(s), most used first:
+[19:53:37.892]   b0 @0     (544-byte buffer, columns) seen  553 x, VS c692f239, (no names): pos -0.000 -0.000 -0.000 fwd 0.000 0.000 -1.000 aspect 1.777 lens 1.092 1.940
+[19:53:37.892]   b1 @64    (144-byte buffer, columns) seen  118 x, VS 82db778d, (no names): pos -0.000 -0.000 -0.000 fwd 0.000 0.000 -1.000 aspect 1.777 lens 1.092 1.940
+[19:53:37.892]   b1 @0     (144-byte buffer, columns) seen  118 x, VS 82db778d, (no names): pos 75.691 -129.860 378.798 fwd -0.220 0.943 -0.249 aspect 1.777 lens 1.092 1.940
+[19:53:37.892]   b11 @32    (336-byte buffer, columns) seen   20 x, VS a1ea87bd, (no names): pos 75.691 -129.860 378.798 fwd -0.220 0.943 -0.249 aspect 1.777 lens 1.092 1.940
+[19:53:39.892] scan 212: 2048 buffer copies scanned, 4 camera-shaped place(s), most used first:
+[19:53:39.892]   b0 @0     (544-byte buffer, columns) seen  568 x, VS c692f239, (no names): pos -0.000 -0.000 -0.000 fwd 0.000 0.000 -1.000 aspect 1.777 lens 1.092 1.940
+[19:53:39.892]   b1 @64    (144-byte buffer, columns) seen  118 x, VS 82db778d, (no names): pos -0.000 -0.000 -0.000 fwd 0.000 0.000 -1.000 aspect 1.777 lens 1.092 1.940
+[19:53:39.892]   b1 @0     (144-byte buffer, columns) seen  118 x, VS 82db778d, (no names): pos 75.691 -129.860 378.798 fwd -0.220 0.943 -0.249 aspect 1.777 lens 1.092 1.940
+[19:53:39.892]   b11 @32    (336-byte buffer, columns) seen   20 x, VS a1ea87bd, (no names): pos 75.691 -129.860 378.798 fwd -0.220 0.943 -0.249 aspect 1.777 lens 1.092 1.940
+[19:53:41.892] scan 213: 2048 buffer copies scanned, 4 camera-shaped place(s), most used first:
+[19:53:41.892]   b0 @0     (544-byte buffer, columns) seen 1523 x, VS c692f239, (no names): pos -0.000 -0.000 -0.000 fwd 0.000 0.000 -1.000 aspect 1.777 lens 1.092 1.940
+[19:53:41.892]   b1 @64    (144-byte buffer, columns) seen  132 x, VS a3897c5c, (no names): pos -0.000 -0.000 -0.000 fwd 0.000 0.000 -1.000 aspect 1.777 lens 1.092 1.940
+[19:53:41.892]   b1 @0     (144-byte buffer, columns) seen  132 x, VS a3897c5c, (no names): pos 75.691 -129.860 378.798 fwd -0.220 0.943 -0.249 aspect 1.777 lens 1.092 1.940
+[19:53:41.892]   b11 @32    (336-byte buffer, columns) seen   20 x, VS a1ea87bd, (no names): pos 75.691 -129.860 378.798 fwd -0.220 0.943 -0.249 aspect 1.777 lens 1.092 1.940
+[19:53:42.517] stats/5s: draws immediate 208854 deferred 520090, ExecuteCommandList 5601, contexts 9; new VS with named matrices 0, stripped 0, no matrices 0; constant buffers copied 3483, Map 31699, UpdateSubresource 2430 (boxed 0), too big 0, VSSetCB1 with an offset 0
+[19:53:43.892] scan 214: 2048 buffer copies scanned, 4 camera-shaped place(s), most used first:
+[19:53:43.892]   b0 @0     (544-byte buffer, columns) seen 1507 x, VS c692f239, (no names): pos -0.000 -0.000 -0.000 fwd 0.000 0.000 -1.000 aspect 1.777 lens 1.092 1.940
+[19:53:43.892]   b1 @64    (144-byte buffer, columns) seen  134 x, VS 82db778d, (no names): pos -0.000 -0.000 -0.000 fwd 0.000 0.000 -1.000 aspect 1.777 lens 1.092 1.940
+[19:53:43.892]   b1 @0     (144-byte buffer, columns) seen  134 x, VS 82db778d, (no names): pos 75.691 -129.860 378.798 fwd -0.220 0.943 -0.249 aspect 1.777 lens 1.092 1.940
+[19:53:43.892]   b11 @32    (336-byte buffer, columns) seen   25 x, VS a1ea87bd, (no names): pos 75.691 -129.860 378.798 fwd -0.220 0.943 -0.249 aspect 1.777 lens 1.092 1.940
+[19:53:45.892] scan 215: 2048 buffer copies scanned, 3 camera-shaped place(s), most used first:
+[19:53:45.892]   b0 @0     (544-byte buffer, columns) seen  760 x, VS c692f239, (no names): pos -0.000 -0.000 -0.000 fwd 0.000 0.000 -1.000 aspect 1.777 lens 1.092 1.940
+[19:53:45.892]   b1 @64    (144-byte buffer, columns) seen   84 x, VS 82db778d, (no names): pos -0.000 -0.000 -0.000 fwd 0.000 0.000 -1.000 aspect 1.777 lens 1.092 1.940
+[19:53:45.892]   b1 @0     (144-byte buffer, columns) seen   84 x, VS 82db778d, (no names): pos 75.741 -129.899 378.798 fwd 0.968 0.032 -0.249 aspect 1.777 lens 1.092 1.940
+[19:53:47.529] stats/5s: draws immediate 214854 deferred 304153, ExecuteCommandList 3216, contexts 9; new VS with named matrices 0, stripped 0, no matrices 0; constant buffers copied 3541, Map 15634, UpdateSubresource 2547 (boxed 0), too big 0, VSSetCB1 with an offset 0
+[19:53:47.892] scan 216: 2048 buffer copies scanned, 3 camera-shaped place(s), most used first:
+[19:53:47.892]   b0 @0     (544-byte buffer, columns) seen  907 x, VS c692f239, (no names): pos -0.000 -0.000 -0.000 fwd 0.000 0.000 -1.000 aspect 1.777 lens 1.092 1.940
+[19:53:47.892]   b1 @64    (144-byte buffer, columns) seen  104 x, VS 82db778d, (no names): pos -0.000 -0.000 -0.000 fwd 0.000 0.000 -1.000 aspect 1.777 lens 1.092 1.940
+[19:53:47.892]   b1 @0     (144-byte buffer, columns) seen  104 x, VS 82db778d, (no names): pos 75.736 -129.921 378.798 fwd 0.838 -0.486 -0.249 aspect 1.777 lens 1.092 1.940
+[19:53:49.892] scan 217: 2048 buffer copies scanned, 3 camera-shaped place(s), most used first:
+[19:53:49.892]   b0 @0     (544-byte buffer, columns) seen  797 x, VS c692f239, (no names): pos -0.000 -0.000 -0.000 fwd 0.000 0.000 -1.000 aspect 1.777 lens 1.092 1.940
+[19:53:49.892]   b1 @64    (144-byte buffer, columns) seen   98 x, VS 82db778d, (no names): pos -0.000 -0.000 -0.000 fwd 0.000 0.000 -1.000 aspect 1.777 lens 1.092 1.940
+[19:53:49.892]   b1 @0     (144-byte buffer, columns) seen   98 x, VS 82db778d, (no names): pos 75.736 -129.921 378.798 fwd 0.838 -0.486 -0.249 aspect 1.777 lens 1.092 1.940
+[19:53:51.892] scan 218: 2048 buffer copies scanned, 3 camera-shaped place(s), most used first:
+[19:53:51.892]   b0 @0     (544-byte buffer, columns) seen  780 x, VS c692f239, (no names): pos -0.000 -0.000 -0.000 fwd 0.000 0.000 -1.000 aspect 1.777 lens 1.092 1.940
+[19:53:51.892]   b1 @64    (144-byte buffer, columns) seen   92 x, VS 82db778d, (no names): pos -0.000 -0.000 -0.000 fwd 0.000 0.000 -1.000 aspect 1.777 lens 1.092 1.940
+[19:53:51.892]   b1 @0     (144-byte buffer, columns) seen   92 x, VS 82db778d, (no names): pos 76.535 -130.390 378.885 fwd 0.838 -0.486 -0.249 aspect 1.777 lens 1.092 1.940
+[19:53:52.518] stats/5s: draws immediate 171740 deferred 38462, ExecuteCommandList 568, contexts 9; new VS with named matrices 0, stripped 0, no matrices 0; constant buffers copied 3541, Map 14611, UpdateSubresource 2556 (boxed 0), too big 0, VSSetCB1 with an offset 0
+[19:53:53.892] scan 219: 2048 buffer copies scanned, 3 camera-shaped place(s), most used first:
+[19:53:53.892]   b0 @0     (544-byte buffer, columns) seen  634 x, VS c692f239, (no names): pos -0.000 -0.000 -0.000 fwd 0.000 0.000 -1.000 aspect 1.777 lens 1.092 1.940
+[19:53:53.892]   b1 @64    (144-byte buffer, columns) seen   97 x, VS 82db778d, (no names): pos -0.000 -0.000 -0.000 fwd 0.000 0.000 -1.000 aspect 1.777 lens 1.092 1.940
+[19:53:53.892]   b1 @0     (144-byte buffer, columns) seen   97 x, VS 82db778d, (no names): pos 78.706 -130.784 379.533 fwd 0.838 -0.486 -0.249 aspect 1.777 lens 1.092 1.940
+[19:53:55.892] scan 220: 2048 buffer copies scanned, 3 camera-shaped place(s), most used first:
+[19:53:55.892]   b0 @0     (544-byte buffer, columns) seen  606 x, VS c692f239, (no names): pos -0.000 -0.000 -0.000 fwd 0.000 0.000 -1.000 aspect 1.777 lens 1.092 1.940
+[19:53:55.892]   b1 @64    (144-byte buffer, columns) seen   91 x, VS 82db778d, (no names): pos -0.000 -0.000 -0.000 fwd 0.000 0.000 -1.000 aspect 1.777 lens 1.092 1.940
+[19:53:55.892]   b1 @0     (144-byte buffer, columns) seen   91 x, VS 82db778d, (no names): pos 78.706 -130.784 379.533 fwd 0.838 -0.486 -0.249 aspect 1.777 lens 1.092 1.940
+[19:53:57.527] stats/5s: draws immediate 147510 deferred 41028, ExecuteCommandList 586, contexts 9; new VS with named matrices 0, stripped 0, no matrices 0; constant buffers copied 3541, Map 8677, UpdateSubresource 2637 (boxed 0), too big 0, VSSetCB1 with an offset 0
+[19:53:57.892] scan 221: 2048 buffer copies scanned, 3 camera-shaped place(s), most used first:
+[19:53:57.892]   b0 @0     (544-byte buffer, columns) seen  623 x, VS c692f239, (no names): pos -0.000 -0.000 -0.000 fwd 0.000 0.000 -1.000 aspect 1.777 lens 1.092 1.940
+[19:53:57.892]   b1 @64    (144-byte buffer, columns) seen   91 x, VS 82db778d, (no names): pos -0.000 -0.000 -0.000 fwd 0.000 0.000 -1.000 aspect 1.777 lens 1.092 1.940
+[19:53:57.892]   b1 @0     (144-byte buffer, columns) seen   91 x, VS 82db778d, (no names): pos 78.706 -130.784 379.533 fwd 0.838 -0.486 -0.249 aspect 1.777 lens 1.092 1.940
+[19:53:59.892] scan 222: 2048 buffer copies scanned, 3 camera-shaped place(s), most used first:
+[19:53:59.892]   b0 @0     (544-byte buffer, columns) seen  494 x, VS c692f239, (no names): pos -0.000 -0.000 -0.000 fwd 0.000 0.000 -1.000 aspect 1.777 lens 1.092 1.940
+[19:53:59.892]   b1 @64    (144-byte buffer, columns) seen   61 x, VS 82db778d, (no names): pos -0.000 -0.000 -0.000 fwd 0.000 0.000 -1.000 aspect 1.777 lens 1.092 1.940
+[19:53:59.892]   b1 @0     (144-byte buffer, columns) seen   61 x, VS 82db778d, (no names): pos 78.706 -130.784 379.533 fwd 0.838 -0.486 -0.249 aspect 1.777 lens 1.092 1.940
+[19:54:01.893] scan 223: 2048 buffer copies scanned, 3 camera-shaped place(s), most used first:
+[19:54:01.893]   b0 @0     (544-byte buffer, columns) seen  666 x, VS c692f239, (no names): pos -0.000 -0.000 -0.000 fwd 0.000 0.000 -1.000 aspect 1.777 lens 1.092 1.940
+[19:54:01.893]   b1 @64    (144-byte buffer, columns) seen   95 x, VS 82db778d, (no names): pos -0.000 -0.000 -0.000 fwd 0.000 0.000 -1.000 aspect 1.777 lens 1.092 1.940
+[19:54:01.893]   b1 @0     (144-byte buffer, columns) seen   95 x, VS 82db778d, (no names): pos 78.706 -130.784 379.533 fwd 0.838 -0.486 -0.249 aspect 1.777 lens 1.092 1.940
+[19:54:02.520] stats/5s: draws immediate 143798 deferred 40040, ExecuteCommandList 572, contexts 9; new VS with named matrices 0, stripped 0, no matrices 0; constant buffers copied 3541, Map 12921, UpdateSubresource 2574 (boxed 0), too big 0, VSSetCB1 with an offset 0
+[19:54:03.892] scan 224: 2048 buffer copies scanned, 3 camera-shaped place(s), most used first:
+[19:54:03.892]   b0 @0     (544-byte buffer, columns) seen  550 x, VS c692f239, (no names): pos -0.000 -0.000 -0.000 fwd 0.000 0.000 -1.000 aspect 1.777 lens 1.092 1.940
+[19:54:03.892]   b1 @64    (144-byte buffer, columns) seen   68 x, VS 82db778d, (no names): pos -0.000 -0.000 -0.000 fwd 0.000 0.000 -1.000 aspect 1.777 lens 1.092 1.940
+[19:54:03.892]   b1 @0     (144-byte buffer, columns) seen   68 x, VS 82db778d, (no names): pos 78.706 -130.784 379.533 fwd 0.838 -0.486 -0.249 aspect 1.777 lens 1.092 1.940
+[19:54:05.892] scan 225: 2048 buffer copies scanned, 3 camera-shaped place(s), most used first:
+[19:54:05.892]   b0 @0     (544-byte buffer, columns) seen  499 x, VS c692f239, (no names): pos -0.000 -0.000 -0.000 fwd 0.000 0.000 -1.000 aspect 1.777 lens 1.092 1.940
+[19:54:05.892]   b1 @64    (144-byte buffer, columns) seen   66 x, VS 82db778d, (no names): pos -0.000 -0.000 -0.000 fwd 0.000 0.000 -1.000 aspect 1.777 lens 1.092 1.940
+[19:54:05.892]   b1 @0     (144-byte buffer, columns) seen   66 x, VS 82db778d, (no names): pos 78.706 -130.784 379.533 fwd 0.838 -0.486 -0.249 aspect 1.777 lens 1.092 1.940
+[19:54:07.526] stats/5s: draws immediate 145907 deferred 40740, ExecuteCommandList 582, contexts 9; new VS with named matrices 0, stripped 0, no matrices 0; constant buffers copied 3541, Map 8310, UpdateSubresource 2619 (boxed 0), too big 0, VSSetCB1 with an offset 0
+[19:54:07.892] scan 226: 2048 buffer copies scanned, 3 camera-shaped place(s), most used first:
+[19:54:07.892]   b0 @0     (544-byte buffer, columns) seen  600 x, VS c692f239, (no names): pos -0.000 -0.000 -0.000 fwd 0.000 0.000 -1.000 aspect 1.777 lens 1.092 1.940
+[19:54:07.892]   b1 @64    (144-byte buffer, columns) seen   88 x, VS 82db778d, (no names): pos -0.000 -0.000 -0.000 fwd 0.000 0.000 -1.000 aspect 1.777 lens 1.092 1.940
+[19:54:07.892]   b1 @0     (144-byte buffer, columns) seen   88 x, VS 82db778d, (no names): pos 78.706 -130.784 379.533 fwd 0.838 -0.486 -0.249 aspect 1.777 lens 1.092 1.940
+[19:54:09.892] scan 227: 2048 buffer copies scanned, 3 camera-shaped place(s), most used first:
+[19:54:09.892]   b0 @0     (544-byte buffer, columns) seen  615 x, VS c692f239, (no names): pos -0.000 -0.000 -0.000 fwd 0.000 0.000 -1.000 aspect 1.777 lens 1.092 1.940
+[19:54:09.892]   b1 @64    (144-byte buffer, columns) seen   78 x, VS a3897c5c, (no names): pos -0.000 -0.000 -0.000 fwd 0.000 0.000 -1.000 aspect 1.777 lens 1.092 1.940
+[19:54:09.892]   b1 @0     (144-byte buffer, columns) seen   78 x, VS a3897c5c, (no names): pos 78.706 -130.784 379.533 fwd 0.838 -0.486 -0.249 aspect 1.777 lens 1.092 1.940
+[19:54:11.893] scan 228: 2048 buffer copies scanned, 3 camera-shaped place(s), most used first:
+[19:54:11.893]   b0 @0     (544-byte buffer, columns) seen  476 x, VS c692f239, (no names): pos -0.000 -0.000 -0.000 fwd 0.000 0.000 -1.000 aspect 1.777 lens 1.092 1.940
+[19:54:11.893]   b1 @64    (144-byte buffer, columns) seen   59 x, VS a3897c5c, (no names): pos -0.000 -0.000 -0.000 fwd 0.000 0.000 -1.000 aspect 1.777 lens 1.092 1.940
+[19:54:11.893]   b1 @0     (144-byte buffer, columns) seen   59 x, VS a3897c5c, (no names): pos 78.706 -130.784 379.533 fwd 0.838 -0.486 -0.249 aspect 1.777 lens 1.092 1.940
+[19:54:12.528] stats/5s: draws immediate 144391 deferred 40180, ExecuteCommandList 574, contexts 9; new VS with named matrices 0, stripped 0, no matrices 0; constant buffers copied 3541, Map 12584, UpdateSubresource 2583 (boxed 0), too big 0, VSSetCB1 with an offset 0
+[19:54:13.892] scan 229: 2048 buffer copies scanned, 3 camera-shaped place(s), most used first:
+[19:54:13.892]   b0 @0     (544-byte buffer, columns) seen  481 x, VS c692f239, (no names): pos -0.000 -0.000 -0.000 fwd 0.000 0.000 -1.000 aspect 1.777 lens 1.092 1.940
+[19:54:13.892]   b1 @64    (144-byte buffer, columns) seen   59 x, VS a3897c5c, (no names): pos -0.000 -0.000 -0.000 fwd 0.000 0.000 -1.000 aspect 1.777 lens 1.092 1.940
+[19:54:13.892]   b1 @0     (144-byte buffer, columns) seen   59 x, VS a3897c5c, (no names): pos 78.706 -130.784 379.533 fwd 0.838 -0.486 -0.249 aspect 1.777 lens 1.092 1.940
+[19:54:15.892] scan 230: 2048 buffer copies scanned, 3 camera-shaped place(s), most used first:
+[19:54:15.892]   b0 @0     (544-byte buffer, columns) seen  716 x, VS c692f239, (no names): pos -0.000 -0.000 -0.000 fwd 0.000 0.000 -1.000 aspect 1.777 lens 1.092 1.940
+[19:54:15.892]   b1 @64    (144-byte buffer, columns) seen  119 x, VS 82db778d, (no names): pos -0.000 -0.000 -0.000 fwd 0.000 0.000 -1.000 aspect 1.777 lens 1.092 1.940
+[19:54:15.892]   b1 @0     (144-byte buffer, columns) seen  119 x, VS 82db778d, (no names): pos 78.706 -130.784 379.533 fwd 0.838 -0.486 -0.249 aspect 1.777 lens 1.092 1.940
