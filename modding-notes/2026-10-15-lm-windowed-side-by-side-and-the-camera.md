@@ -1,6 +1,6 @@
 # 2026-10-15 (evening, dev PC, `/lm`, unattended, one reader): windowed, the game's own side-by-side 3D, and the camera
 
-Three launches through Steam with `-nolauncher`. Evidence: `dev-archive/recon/2026-10-15-lm-windowed-side-by-side-camera/`.
+Four launches through Steam with `-nolauncher`. Evidence: `dev-archive/recon/2026-10-15-lm-windowed-side-by-side-camera/`.
 
 ## 1. The dev PC is windowed, and the music is off
 
@@ -65,7 +65,20 @@ Three launches through Steam with `-nolauncher`. Evidence: `dev-archive/recon/20
   the camera was found anyway.
 - Taken back out of the game folder with its log and the proxy log; nothing of ours is installed now.
 
-## 4. The memory image: taken, and its analysis stopped
+## 4. The camera finder with side-by-side on: almost blind, one telling hit
+
+- Third launch: side-by-side on, the finder beside the exe, gameplay, standing about 40 s.
+- In 2 of 15 gameplay scans one place: `b0 @0` (the same 544-byte camera-relative buffer) with the camera at
+  **x 0.014** instead of 0, and a **narrower lens, 1.570 x 2.791** (about 65 x 40 degrees, against 85 x 55 flat)
+  `[measured 2026-10-15, n=2 scans]`. A camera moved 0.014 units sideways is what one eye of a stereo pair looks like
+  `[hypothesis]`; it could also be another camera (the weapon's, say).
+- Every other scan found nothing. The game behaved differently: `Map` fell from about 14,000 to 5-50 per 5 s, and
+  the finder's copy budget (8,192 per 5 s) was full every time, against 3,500 windowed `[measured 2026-10-15, n=1 run]`.
+  So in this mode the camera most likely arrives another way (written once per frame and reused, or through a
+  route the finder does not copy), or the budget runs out before the camera is reached `[hypothesis]`.
+- Log: `dxmd_camlog_side-by-side.txt`. Settings put back to windowed, 3D off; the finder taken out again.
+
+## 5. The memory image: taken, and its analysis stopped
 
 - The reader's outside, read-only tool (`staging/deus-ex-mankind-divided-vr/memdump/memdump.py`) took a 130.8 MB
   image of `DXMD.exe` in gameplay, 0 ranges unread `[measured 2026-10-15, n=1]`. Non-zero shares: `.trace` 3.8 %,
@@ -82,7 +95,8 @@ Three launches through Steam with `-nolauncher`. Evidence: `dev-archive/recon/20
 
 ## Not established
 
-- Whether the side-by-side eyes get their own lens; whether the camera matrices are written on deferred contexts.
+- Whether the side-by-side eyes get their own lens (one hint: section 4); how the camera reaches the shaders in that mode.
+- Whether the camera matrices are written on deferred contexts.
 - Comfort, scale, anything in a headset.
 
 ## Automation
