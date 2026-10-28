@@ -12,11 +12,11 @@ A 64-bit `dxgi.dll` proxy in `retail\` loads and the game reaches the main menu 
 
 ## Windowed mode
 
-Registry `HKCU\Software\Eidos Montreal\Deus Ex: MD\Graphics`: `Fullscreen=0`, `WindowWidth`/`UserWindowWidth=1280`, `WindowHeight`/`UserWindowHeight=720` → 1280×720 client window `[verified-live 2026-09-17, n=2]`. Backup of the key exported on home PC (`dxmd_graphics_backup_2026-09-17.reg`, session scratchpad).
+Registry `HKCU\Software\Eidos Montreal\Deus Ex: MD\Graphics`: `Fullscreen=0`, `WindowWidth`/`UserWindowWidth=1280`, `WindowHeight`/`UserWindowHeight=720` → 1280×720 client window `[verified-live 2026-09-17, n=2]`. Backup of the key exported on the home PC (`dxmd_graphics_backup_2026-09-17.reg`, session scratchpad).
 
 ## How it was driven
 
-Launcher: click **Play** (≈ 345, 40 launcher-image px ×1.79 from the launcher's top-left on home PC). In game, `WM_CLOSE` opens `Quit game? Yes/No`; click Yes. ⚠️ `WM_CLOSE` alone does not close it — check the process is gone before relaunching.
+Launcher: click **Play** (≈ 345, 40 launcher-image px ×1.79 from the launcher's top-left on the home PC). In game, `WM_CLOSE` opens `Quit game? Yes/No`; click Yes. ⚠️ `WM_CLOSE` alone does not close it — check the process is gone before relaunching.
 
 ## Dead ends
 
