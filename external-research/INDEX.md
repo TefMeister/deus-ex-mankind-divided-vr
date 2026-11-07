@@ -1,6 +1,8 @@
 # Research index
 
-**Last `/gr` pass: 2026-10-26 (estate sweep) — CHECK-IN.** Inbox empty. Eidos's free PC "VR Experience" (Steam 526180, 2017, SteamVR/Oculus) on the same engine is the likelier owner of the hidden `-vrdemo` switch and a VR renderer we can inspect; one topic, pointer sent to the dossier.
+**Last `/gr` pass: 2026-11-07 (estate sweep) — CHECK-IN.** Inbox empty; watch check for the VR mod Tefa saw on Discord (web and GitHub search): still nothing public, only Eidos's 2017 VR Experience. Nothing new.
+
+_Previous: **Last `/gr` pass: 2026-10-26 (estate sweep) — CHECK-IN.** Inbox empty. Eidos's free PC "VR Experience" (Steam 526180, 2017, SteamVR/Oculus) on the same engine is the likelier owner of the hidden `-vrdemo` switch and a VR renderer we can inspect; one topic, pointer sent to the dossier._
 
 _Previous: **Last `/gr` pass: 2026-10-04 (estate sweep) — CHECK-IN.** Inbox empty. Settled the Denuvo question as far as public sources go: Steam kept it as of 2020, GOG has never had it; pointer sent to the dossier._
 
