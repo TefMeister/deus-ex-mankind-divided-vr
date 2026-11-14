@@ -1,6 +1,8 @@
 # Research index
 
-**Last `/gr` pass: 2026-11-07 (estate sweep) — CHECK-IN.** Inbox empty; watch check for the VR mod Tefa saw on Discord (web and GitHub search): still nothing public, only Eidos's 2017 VR Experience. Nothing new.
+**Last `/gr` pass: 2026-11-14 (check-ins beside the Keeper's sweep of the same day) — CHECK-IN.** Inbox empty; watch check: one search found no public Mankind Divided VR mod (the one Tefa saw on Discord is still not public). Nothing new.
+
+_Previous: **Last `/gr` pass: 2026-11-07 (estate sweep) — CHECK-IN.** Inbox empty; watch check for the VR mod Tefa saw on Discord (web and GitHub search): still nothing public, only Eidos's 2017 VR Experience. Nothing new._
 
 _Previous: **Last `/gr` pass: 2026-10-26 (estate sweep) — CHECK-IN.** Inbox empty. Eidos's free PC "VR Experience" (Steam 526180, 2017, SteamVR/Oculus) on the same engine is the likelier owner of the hidden `-vrdemo` switch and a VR renderer we can inspect; one topic, pointer sent to the dossier._
 
